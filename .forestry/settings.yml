@@ -4,18 +4,15 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/news/_index.md
+  label: news
+  match: "**/*"
 - type: directory
   path: content/home
   label: Home
   create: all
   match: "**/*"
-- type: directory
-  path: content/post
-  label: Blog posts
-  create: all
-  match: "**/*"
-  templates:
-  - blog-post
 - type: directory
   path: content/project
   label: Projects
