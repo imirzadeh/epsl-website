@@ -4,14 +4,15 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: content/news/_index.md
+  label: news
+  read_only: false
 - type: directory
   path: content/home
   label: Home
   create: all
   match: "**/*"
-- type: document
-  path: content/news/_index.md
-  label: news
 - type: directory
   path: content/publication
   label: Publications
