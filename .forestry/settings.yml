@@ -4,12 +4,17 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: content/home
+  label: Home
+  create: all
+  match: "**/*"
 - type: document
   path: content/news/_index.md
   label: news
 - type: directory
-  path: content/home
-  label: Home
+  path: content/publication
+  label: Publications
   create: all
   match: "**/*"
 - type: directory
@@ -24,11 +29,6 @@ sections:
   match: "**/*"
   templates:
   - event
-- type: directory
-  path: content/publication
-  label: Publications
-  create: all
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
