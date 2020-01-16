@@ -3,7 +3,7 @@
 
 title: "Computational Autonomy"
 summary: "Computational algorithms need to be reconfigured (i.e., retrained) upon any changes in configuration of wearable technologies, such as addition/removal of a sensor to/from the network, displacement/misplacement/mis-orientation of the sensors, etc. Re-training of these algorithms requires collecting sufficient amount of labeled training data, a time consuming, labor-intensive, and expensive process that has been identified as a major barrier to personalized and precision medicine. In this project, we investigate development of multi-view learning algorithms that enable the vision of computationally autonomous and result in highly sustainable and scalable wearables of the future."
-authors: [epsl]
+authors: []
 tags: []
 categories: []
 date: 2020-01-13T23:58:08-08:00
@@ -42,7 +42,7 @@ slides: ""
 We envision that wearables of the future must be computationally autonomous in the sense that their underlying computational algorithms reconfigure automatically without need for collecting any new labeled training data. In this project, we investigate development of multi-view learning algorithms that enable the vision of computationally autonomous wearables and result in highly sustainable and scalable wearables of the future. The algorithms and tools are validated through both in-lab experiments and using data collected in uncontrolled environments.   
 
 {{< youtube uQ9vrUeYvzg >}}
- 
+
 # Related Research Papers:  
 
 ## LabelForest: Non-Parametric Semi-Supervised Learning for Activity Recognition   
@@ -57,4 +57,3 @@ In this research, we introduce the concept of plug-n-learn for human-centered Io
 
 ## Autonomous Learning of Sensor Location and Context
 In this research, we take first steps in developing automatic and real-time training of sensor-context detection without labeled training data. Specifically, we focus on cases where multiple context-specific algorithms (i.e., ‘expert models’) are shared for use in a dynamic view where the sensor is worn/used on various body locations each representing one sensor-context. We propose an approach for learning a gating function for choosing the most accurate expert model based on the observed sensor data. Our approach, called Synchronous Sensor-Context Learning (SSCL), first generates and automatically labels a training datasets by examining observations of the dynamic sensor and associating those observations with synchronously sampled observations of a static sensor node. This training dataset is then used to learn the gating function for expert model activation. Our multi-view learning approach presented in this research is a novel method for sharing activity recognition capabilities of several sensors, with already training activity recognition classifiers, for use by a dynamic sensor, which does not have any previously trained activity recognition model. Our approach allows to transfer machine learning knowledge from an existing sensor, called static view, to a new sensor, called dynamic view, and combine the knowledge with already shared capabilities and develop an extensive model for the dynamic view.
-

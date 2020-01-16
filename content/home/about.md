@@ -16,4 +16,6 @@ author = "epsl"
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "15px", "0"]
 
+[design]
+  columns = "1"
 +++

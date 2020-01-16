@@ -3,7 +3,7 @@
 
 title: "Edema Monitoring"
 summary: "Monitoring Edema helps caregivers and patients to understand the state of the disease as well as the effectiveness of treatments. SmartSock is a wearable and context-aware prototype for intelligent in-home monitoring of edema. SmartSock is powered by advanced machine learning, signal processing, and correlation techniques to provide real-time, reliable, and context-rich information in remote settings."
-authors: [epsl]
+authors: []
 tags: []
 categories: []
 date: 2020-01-13T23:58:54-08:00
@@ -75,5 +75,3 @@ Table below briefly highlights the advantages of SmartSock technology over exist
 ### Market Size
 The market size is huge. Implementing remote health monitoring solutions can save the health care system and the community billions of dollars each year. Millions of people only in United States are dealing with at least one of the aforementioned chronic diseases and solutions such as SmartSock not only are very cost effective but also enhance their quality of life. Below some of the statistics reported for US is illustrated.
 {{< figure src="14.jpg" lightbox="true" >}}
-
-

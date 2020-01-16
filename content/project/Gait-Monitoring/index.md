@@ -3,7 +3,7 @@
 
 title: "Gait Monitoring"
 summary: "We develop novel approaches for reliable gait monitoring and investigate applications of wearable-base monitoring in various populations. The utility of wearable sensors for continuous gait monitoring has grown substantially, enabling novel applications on mobility assessment in healthcare. Existing approaches for gait monitoring rely on predefined or experimentally tuned platform parameters and are often platform-specific, parameter-sensitive, and unreliable in noisy environments. To address these challenges, we investigate platform-agnostic and reconfigurable computational approaches to gait monitoring, step counting, mobility assessment, and related problems."
-authors: [epsl]
+authors: []
 tags: []
 categories: []
 date: 2020-01-13T23:58:41-08:00

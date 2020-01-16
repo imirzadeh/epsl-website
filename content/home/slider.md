@@ -15,9 +15,20 @@ height = "350px"
 [imaging]
   resampleFilter = "lanczos"
   quality = 8
-  anchor = "smart" 
+  anchor = "smart"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  #title = "1"
+  #content = "I am center aligned :smile:"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "slider/CBC_Workshop_2017.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+
+
 [[item]]
   #title = "Hello"
   #content = "I am center aligned :smile:"
@@ -26,7 +37,7 @@ height = "350px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slider/SmartHealth3.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/slider1.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.16  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -36,25 +47,6 @@ height = "350px"
   #cta_url = "https://sourcethemes.com/academic/"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
-
-[[item]]
-  #title = "1"
-  #content = "I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slider/CBC_Workshop_2017.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.22  # Darken the image. Value in range 0-1.
-
-
-[[item]]
-  #title = "3"
-  #content = "I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slider/tmp.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.22  # Darken the image. Value in range 0-1.
 
 [[item]]
   #title = "Hello"
