@@ -28,6 +28,10 @@
   url = "#people"
   weight = 50
 
+[[main]]
+  name = "REU-2020"
+  url = "/reu-2020"
+  weight = 55
 
 [[main]]
   name = "Contact"

@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*J. Parallel Distrib. Comput.*"
+url_pdf: "https://ece.gmu.edu/~hhomayou/files/JPDC2018maria.pdf"
 ---
 

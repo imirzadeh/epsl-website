@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*IEEE Trans. Mob. Comput.*"
+url_pdf: "http://ieeexplore.ieee.org/document/8371282"
 ---
 
