@@ -7,10 +7,6 @@ sections:
 - type: document
   path: content/news/_index.md
   label: news
-  match: "**/*"
-- type: document
-  path: content/news/_index.md
-  label: news
 - type: directory
   path: content/home
   label: Home
