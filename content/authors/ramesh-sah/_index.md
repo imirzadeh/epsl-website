@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Yuchao Ma
+name: Ramesh Kumar Sah
 
 # Username (this should match the folder name)
 authors:
-- yuchao
+- ramesh-sah
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Graduate Alumni
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -24,17 +24,16 @@ bio: Graduate Research Assistant.
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:yuchao.ma@wsu.edu
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Qpq6SXoAAAAJ&hl=en
+  link: mailto:ramesh.sah@wsu.edu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ramesh-kumar-sah-46aa08108
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "random@wsu.edu"
+#email: "random@wsu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students
 ---
-Lab Alumni
