@@ -9,7 +9,11 @@ columns = "1"
 padding = ["20px", "0", "40px", "0"]
 
 +++
+***
+
 ## <center>**2020**</center>
+
+***
 
 * \[2020-1\] EPSL has a new website! 
 
