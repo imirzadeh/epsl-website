@@ -1,6 +1,6 @@
 +++
 active = true
-draft = true
+draft = false
 headless = true
 widget = "blank"
 [design]
@@ -14,8 +14,8 @@ padding = ["20px", "0", "40px", "0"]
 ## <center>**2020**</center>
 
 ***
-
-* \[2020-1\] EPSL has a new website! 
+* \[2020-2\] Niloofar's "Human-in-the-loop Learning for Personalized Diet Monitoring from Unstructured Mobile Data" paper has been selected as one of the three 2019 best paper candidates and received an honorable mention by the ACM TiiS journal.   
+* \[2020-1\] EPSL has a new website!
 
 ***
 
