@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-15T19:36:44-07:00
 
-authors: []
+authors: [iman-mirzadeh]
 tags: []
 
 # Is this a featured talk? (true/false)

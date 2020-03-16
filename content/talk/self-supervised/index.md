@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Introduction To Semi-Supervised Learning"
+title: "Introduction To Self-Supervised Learning"
 event:
 event_url:
 location:
