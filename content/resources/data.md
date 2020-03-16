@@ -1,0 +1,70 @@
++++
+# Accomplishments widget.
+widget = "resource"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
+
+title = "Resources"
+subtitle = "Datasets & Codes by EPSL"
+
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "January 2006"
+
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  title = "Adar: Adversarial Activity Recognition in Wearables"
+  code_url = "https://github.com/rameshKrSah/Adar"
+  paper_url = "https://ieeexplore.ieee.org/document/8942124/"
+  description = "The code for Adar : Adversarial Activity Recognition in Wearables"
+  date_start = "2019-11-02"
+
+[[item]]
+  title = "Teacher Assistant Knowledge Distillation"
+  code_url = "https://github.com/imirzadeh/Teacher-Assistant-Knowledge-Distillation"
+  paper_url = "https://arxiv.org/abs/1902.03393"
+
+  description = "The code for Teacher Assistant Knowledge Distillation"
+  date_start = "2019-02-02"
+
+
+
+[[item]]
+  title = "Share-n-Learn:  Synchronous Sensor Context Learning"
+  code_url = "https://github.com/ali-rokni/SSCL"
+  paper_url = "https://dl.acm.org/doi/10.1145/3318044"
+  description = "The software code for Share-n-Learn: Synchronous Sensor Context Learning"
+  date_start = "2018-11-01"
+
+
+ [[item]]
+    title = "LabelForest: Non-Parametric Semi-Supervised Learning"
+    code_url = "https://github.com/y-max/LabelForest"
+    paper_url = "https://aaai.org/ojs/index.php/AAAI/article/view/4369"
+    description = "The code and sample data for the LabelForest: Non-Parametric Semi-Supervised Learning"
+    dataset_url = "https://github.com/y-max/LabelForest"
+    date_start = "2018-08-08"
+
+
+ [[item]]
+   title = "CyclePro: <br /> Platform-Independent Gait Cycle Detection"
+   code_url = "https://github.com/y-max/CyclePro"
+   paper_url = "https://ieeexplore.ieee.org/document/8616844"
+   dataset_url = "https://github.com/y-max/CyclePro"
+   description = "The code and dataset for CyclePro: Platform-Independent Gait Cycle Detection"
+   date_start = "2018-07-01"
+
+   [[item]]
+     title = "Plug-n-Learn Dynamic: <br /> Synchronous Dynamic View Learning"
+     code_url = "https://github.com/ali-rokni/SDVL"
+     paper_url = "https://dl.acm.org/doi/10.1145/3055031.3055087"
+     dataset_url = "https://github.com/ali-rokni/SDVL"
+     description = "The code and dataset for Plug-n-Learn"
+     date_start = "2017-06-01"
++++
