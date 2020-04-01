@@ -25,6 +25,14 @@ date_format = "January 2006"
   description = "The code for Adar : Adversarial Activity Recognition in Wearables"
   date_start = "2019-11-02"
 
+
+[[item]]
+    title = "Mindful Active Learning"
+    code_url = "https://github.com/zhesna/EMMA"
+    paper_url = "https://www.ijcai.org/Proceedings/2019/0314.pdf"
+    description = "The software for Entropy-Memory Maximization Algorithm (EMMA) "
+    date_start = "2019-06-02"
+
 [[item]]
   title = "Teacher Assistant Knowledge Distillation"
   code_url = "https://github.com/imirzadeh/Teacher-Assistant-Knowledge-Distillation"
