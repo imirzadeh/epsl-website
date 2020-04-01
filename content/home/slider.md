@@ -19,15 +19,6 @@ height = "350px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
-[[item]]
-  #title = "1"
-  #content = "I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slider/CBC_Workshop_2017.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
-
 
 [[item]]
   #title = "Hello"
