@@ -16,7 +16,7 @@ padding = ["10px", "0", "10px", "0"]
 ***
 * \[2020-4\] Iman’s <em> ''Optimal Deployment Policy for Machine Learning Models''</em> paper accepted to **IJCAI 2020** (acceptance rate 12.6%).
 
-* \[2020-4\] Congratulations to Parastoo on successfully defending his PhD dissertation. Dr. Alinia will join Amazon Research as an Applied Scientist.
+* \[2020-4\] Congratulations to Parastoo on successfully defending his PhD dissertation.
 
 * \[2020-4\] Iman's <em> ''Dropout as an Implicit Gating Mechanism For Continual Learning''</em> paper accepted for **CVPR 2020** Workshops.
 
