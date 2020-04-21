@@ -6,15 +6,22 @@ widget = "blank"
 [design]
 columns = "1"
 [design.spacing]
-padding = ["20px", "0", "40px", "0"]
-
+padding = ["10px", "0", "10px", "0"]
 +++
+
 ***
 
 ## <center>**2020**</center>
 
 ***
-* \[2020-2\] Niloofar's "Human-in-the-loop Learning for Personalized Diet Monitoring from Unstructured Mobile Data" paper has been selected as one of the three 2019 best paper candidates and received an honorable mention by the ACM TiiS journal.   
+* \[2020-4\] Iman’s <em> ''Optimal Deployment Policy for Machine Learning Models''</em> paper accepted to **IJCAI 2020** (acceptance rate 12.6%).
+
+* \[2020-4\] Congratulations to Parastoo on successfully defending his PhD dissertation. Dr. Alinia will join Amazon Research as an Applied Scientist.
+
+* \[2020-4\] Iman's <em> ''Dropout as an Implicit Gating Mechanism For Continual Learning''</em> paper accepted for **CVPR 2020** Workshops.
+
+* \[2020-2\] Niloofar's "Human-in-the-loop Learning for Personalized Diet Monitoring from Unstructured Mobile Data" paper has been selected as one of the three 2019 best paper candidates and received an honorable mention by the ACM TiiS journal.
+
 * \[2020-1\] EPSL has a new website!
 
 ***
