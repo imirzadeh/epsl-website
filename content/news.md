@@ -14,6 +14,10 @@ padding = ["10px", "0", "10px", "0"]
 ## <center>**2020**</center>
 
 ***
+* \[2020-5\] Iman’s <em> ''Dropout as an Implicit Gating Mechanism For Continual Learning''</em> paper is selected as the top-two submissions of the CVPR-2020 continual learning workshop and has been selected as oral.
+
+* \[2020-5\] Marjan's <em> ''Proximity-Based Active Learning for Eating Moment Recognition in WearableSystems" </em> accepted to ACM Workshop on Wearable Systems and Applications (WearSys 2020).  
+
 * \[2020-4\] Iman’s <em> ''Optimal Deployment Policy for Machine Learning Models''</em> paper accepted to **IJCAI 2020** (acceptance rate 12.6%).
 
 * \[2020-4\] Congratulations to Parastoo on successfully defending his PhD dissertation.

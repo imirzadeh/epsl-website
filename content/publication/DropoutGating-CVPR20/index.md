@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.dropbox.com/s/mawmene018mfh4i/cvpr20-cl.pdf?dl=0
+url_pdf: https://arxiv.org/abs/2004.11545
 url_code: https://github.com/imirzadeh/stable-continual-learning
 url_dataset:
 url_poster:
