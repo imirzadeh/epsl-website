@@ -22,9 +22,6 @@ bio: Graduate Research Assistant.
 
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:mahdi.pedram@wsu.edu
   
  - icon: linkedin
    icon_pack: fab
