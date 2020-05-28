@@ -26,7 +26,7 @@ social:
   icon_pack: fas
   link: mailto:mahdi.pedram@wsu.edu
   
- - icon: linkdin
+ - icon: linkedin
    icon_pack: fab
    link: https://www.linkedin.com/in/mahdi-pedram-b29bb7107/
  
