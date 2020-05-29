@@ -29,7 +29,6 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/mahdi-pedram-b29bb7107/
  
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "random@wsu.edu"
 
