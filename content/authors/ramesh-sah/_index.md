@@ -25,9 +25,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ramesh.sah@wsu.edu
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ramesh-kumar-sah-46aa08108
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "random@wsu.edu"
