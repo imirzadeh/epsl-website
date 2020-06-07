@@ -12,7 +12,7 @@ address:
   region:
   postcode:
   country:
-summary: "Practice presentation for BSN conference."
+summary: Practice presentation for SMARTCOMP conference.
 abstract:
 
 # Talk start and end times.
