@@ -2,7 +2,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Resource-Efficient Wearable Computing for Real-Time Reconfigurable Machine Learning: A Cascading Binary Classification"
+title: "Resource-Efficient Wearable Computing for Real-Time Reconfigurable Machine Learning: A Cascading Binary Classification (Presentaion)"
 event:
 event_url:
 location: Dana Hall, Washington State University
