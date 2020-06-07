@@ -2,7 +2,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Resource-Efficient Computing in Wearable Systems"
+title: "Resource-Efficient Computing in Wearable Systems (Presentation)"
 event:
 event_url:
 location: Dana Hall, Washington State University
@@ -12,7 +12,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: "Practice presentation for BSN conference."
 abstract:
 
 # Talk start and end times.
