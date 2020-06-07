@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate Research Assistant.
+bio: I am a fourth year PhD student at Washington State University. I work as a research assistant with Professor Hassan Ghasemzadeh. My research topics include embedded systems, wearable sensor development, sensor data mining, power optimization, and machine learning.   
 
 
 social:
