@@ -10,5 +10,13 @@ featured: false
 publication: "*IPSN*"
 
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3055031.3055065
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 ---
 
