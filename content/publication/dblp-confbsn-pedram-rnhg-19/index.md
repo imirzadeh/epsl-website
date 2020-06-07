@@ -7,5 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*BSN*"
+
+url_pdf: https://arxiv.org/pdf/1907.03250
 ---
 
