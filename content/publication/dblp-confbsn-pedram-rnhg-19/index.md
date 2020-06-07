@@ -7,7 +7,7 @@ authors: ["Mahdi Pedram", "Seyed Ali Rokni", "Marjan Nourollahi", "Houman Homayo
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BSN*"
+publication: "*The 16th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN’19)*"
 
 url_pdf: https://arxiv.org/pdf/1907.03250
 ---
