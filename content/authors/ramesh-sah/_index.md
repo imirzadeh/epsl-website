@@ -40,3 +40,7 @@ social:
 user_groups:
 - PhD Students
 ---
+## About Me
+I am PhD student and graduate research assistant in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman. I work with Dr. Hassan Ghasemzadeh in areas such are robust machine learning and adversarial methods for 
+wearable sensor systems.
+
