@@ -15,19 +15,22 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: Washington State University
-  url: ""
+  url: "https://rameshkrsah.github.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate Research Assistant.
+bio: Hi, I am a PhD student in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman. I work with Dr. Hassan Ghasemzadeh in areas such as robust machine learning and adversarial methods in wearable sensor systems.
 
-
+# Social/Academic Networking
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ramesh.sah@wsu.edu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ramesh-kumar-sah-46aa08108
+  link: https://www.linkedin.com/in/rameshkrsah/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/rameshKrSah
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "random@wsu.edu"
