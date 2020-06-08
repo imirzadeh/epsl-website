@@ -41,4 +41,4 @@ user_groups:
 - PhD Students
 ---
 ## About Me
-I am a fourth year PhD student at Washington State University (WSU). I work as a research assistant with Professor Hassan Ghasemzadeh. My research topics include embedded systems, health monitoring systems, wearable sensor development, sensor data mining, power optimization, and machine learning. Before joining WSU, I received my B.S. degree in Computer Cngineering from Amirkabir University of Technology, Tehran, Iran in 2014.
+I am a PhD candidate at Washington State University (WSU). I work as a research assistant with Professor Hassan Ghasemzadeh. My research topics include embedded systems, health monitoring systems, wearable sensor development, sensor data mining, power optimization, and machine learning. Before joining WSU, I received my B.S. degree in Computer Cngineering from Amirkabir University of Technology, Tehran, Iran in 2014.
