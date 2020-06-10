@@ -94,7 +94,7 @@ height = "350px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slider/lab1.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/epslpage5.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.16  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
