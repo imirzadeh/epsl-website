@@ -63,7 +63,7 @@ height = "350px"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slider/lab1.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/epslpage1.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.22  # Darken the image. Value in range 0-1.
   
   
