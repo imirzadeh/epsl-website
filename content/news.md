@@ -14,7 +14,11 @@ padding = ["10px", "0", "10px", "0"]
 ## <center>**2020**</center>
 
 ***
-* \[2020-5\] Iman’s <em> ''Dropout as an Implicit Gating Mechanism For Continual Learning''</em> paper is selected as the top-two submissions of the CVPR-2020 continual learning workshop and has been selected as oral.
+* \[2020-6\] Iman’s <em> ''Dropout as an Implicit Gating Mechanism For Continual Learning''</em> paper received [runner-up award](https://sites.google.com/view/clvision2020/paper-awards?authuser=0) for the the CVPR 2020 Workshop on Continual Learning. 
+
+* \[2020-6\] Zhila's <em> ''Memory-Aware Active Learning in Mobile Sensing Systems''</em> paper accepted to the IEEE Transactions on Mobile Computing (TMC).
+
+* \[2020-5\] Iman’s <em> ''Dropout as an Implicit Gating Mechanism For Continual Learning''</em> accepted (oral presentation) to the CVPR continual learning workshop.
 
 * \[2020-5\] Marjan's <em> ''Proximity-Based Active Learning for Eating Moment Recognition in WearableSystems" </em> accepted to ACM Workshop on Wearable Systems and Applications (WearSys 2020).  
 
