@@ -6,6 +6,6 @@ authors: ["Ramyar Saeedi", "Navid Amini", "Hassan Ghasemzadeh"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*ACSSC*"
+publication: "*48th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA "
 ---
 
