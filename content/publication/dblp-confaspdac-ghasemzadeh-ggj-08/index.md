@@ -6,6 +6,6 @@ authors: ["Hassan Ghasemzadeh", "Eric Guenterberg", "Katherine Gilani", "Roozbeh
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*ASP-DAC*"
+publication: "*13th Asia and South Pacific Design Automation Conference (ASP-DAC 2008)*, Seoul, Korea"
 ---
 
