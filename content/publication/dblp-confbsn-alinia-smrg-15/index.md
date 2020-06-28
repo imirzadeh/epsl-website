@@ -6,6 +6,6 @@ authors: ["Parastoo Alinia", "Ramyar Saeedi", "Bobak Mortazavi", "Seyed Ali Rokn
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BSN*"
+publication: "*12th IEEE Conference on Body Sensor Networks (BSN 2015*), Cambridge, MA, USA"
 ---
 
