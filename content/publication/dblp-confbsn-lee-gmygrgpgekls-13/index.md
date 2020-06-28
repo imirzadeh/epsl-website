@@ -6,6 +6,6 @@ authors: ["Sunghoon Ivan Lee", "Hassan Ghasemzadeh", "Bobak Jack Mortazavi", "An
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BSN*"
+publication: "*10th IEEE International Conference on Body Sensor Networks (BSN 2013)*, Cambridge, MA, USA"
 ---
 
