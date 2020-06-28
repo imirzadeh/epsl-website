@@ -6,6 +6,6 @@ authors: ["Eric Guenterberg", "Hassan Ghasemzadeh", "Roozbeh Jafari"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BSN*"
+publication: "*Sixth International Workshop on Wearable and Implantable Body Sensor Networks (BSN 2009)*, Berkeley, CA, USA"
 ---
 
