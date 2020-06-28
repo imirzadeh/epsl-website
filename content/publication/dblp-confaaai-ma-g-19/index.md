@@ -6,6 +6,6 @@ authors: ["Yuchao Ma", "Hassan Ghasemzadeh"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*AAAI*"
+publication: "* Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), Honolulu, Hawaii, USA.*"
 ---
 
