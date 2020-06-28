@@ -6,6 +6,6 @@ authors: ["Yuchao Ma", "Samaneh Aminikhanghahi", "Shane Wilhelm", "Wesley Daniel
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BSN*"
+publication: "*15th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2018)*, Las Vegas, NV, USA"
 ---
 
