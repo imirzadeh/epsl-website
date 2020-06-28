@@ -6,6 +6,6 @@ authors: ["Steven L. Garverick", "Hassan Ghasemzadeh", "Mark Zurcher", "Masoud R
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BSN*"
+publication: "*8th IEEE Conference on Body Sensor Networks (BSN 2011*), Dallas, TX, USA"
 ---
 
