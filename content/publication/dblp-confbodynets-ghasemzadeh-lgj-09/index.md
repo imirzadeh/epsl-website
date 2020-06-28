@@ -6,6 +6,6 @@ authors: ["Hassan Ghasemzadeh", "Vitali Loseu", "Eric Guenterberg", "Roozbeh Jaf
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BODYNETS*"
+publication: "*4th International ICST Conference on Body Area Networks*, Los Angeles, CA, USA"
 ---
 
