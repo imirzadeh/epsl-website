@@ -6,6 +6,6 @@ authors: ["Seyed Ali Rokni", "Marjan Nourollahi", "Hassan Ghasemzadeh"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)*, New Orleans, Louisiana, USAs"
+publication: "*Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)*, New Orleans, Louisiana, USA"
 ---
 
