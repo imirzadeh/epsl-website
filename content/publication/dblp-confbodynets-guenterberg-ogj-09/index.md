@@ -6,6 +6,6 @@ authors: ["Eric Guenterberg", "Sarah Ostadabbas", "Hassan Ghasemzadeh", "Roozbeh
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BODYNETS*"
+publication: "*4th International ICST Conference on Body Area Networks*, Los Angeles, CA, USA"
 ---
 
