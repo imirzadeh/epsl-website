@@ -6,6 +6,6 @@ authors: ["Ramyar Saeedi", "Hassan Ghasemzadeh", "Assefaw Hadish Gebremedhin"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BigData*"
+publication: "*2016 IEEE International Conference on Big Data (IEEE BigData 2016)*, Washington DC, USA"
 ---
 
