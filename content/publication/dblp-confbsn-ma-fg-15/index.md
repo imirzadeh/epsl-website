@@ -6,6 +6,6 @@ authors: ["Yuchao Ma", "Ramin Fallahzadeh", "Hassan Ghasemzadeh"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BSN*"
+publication: "*12th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2015)*, Cambridge, MA, USA"
 ---
 
