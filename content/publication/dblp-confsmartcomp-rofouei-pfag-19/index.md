@@ -7,7 +7,7 @@ doi: ""
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*SMARTCOMP*"
+publication: "*2019 IEEE International Conference on Smart Computing (SMARTCOMP)*, Washington DC, UAS"
 url_pdf: https://arxiv.org/pdf/1907.03247
 
 ---
