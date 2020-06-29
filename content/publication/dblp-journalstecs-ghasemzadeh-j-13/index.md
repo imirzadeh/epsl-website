@@ -6,6 +6,6 @@ authors: ["Hassan Ghasemzadeh", "Roozbeh Jafari"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*ACM Trans. Embedded Comput. Syst.*"
+publication: "*ACM Transactions on Embedded Computing Systems (TECS)*"
 ---
 
