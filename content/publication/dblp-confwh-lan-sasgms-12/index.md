@@ -6,6 +6,6 @@ authors: ["Mars Lan", "Lauren Samy", "Nabil Alshurafa", "Myung-kyung Suh", "Hass
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the conference on Wireless Health 2012*, San Diego, CA, USA"
+publication: "*Proceedings of the conference on Wireless Health 2012* (WH '12), San Diego, CA, USA"
 ---
 
