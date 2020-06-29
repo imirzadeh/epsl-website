@@ -6,6 +6,6 @@ authors: ["Francesco Fraternali", "Mahsan Rofouei", "Nabil Alshurafa", "Hassan G
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*SIES*"
+publication: "*7th IEEE International Symposium on Industrial Embedded Systems (SIES'12)*, Karlsruhe, Germany"
 ---
 
