@@ -6,6 +6,6 @@ authors: ["Vitali Loseu", "Hassan Ghasemzadeh", "Sarah Ostadabbas", "Nikhil Rave
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*PETRA*"
+publication: "*Proceedings of the 3rd International Conference on PErvasive Technologies Related to Assistive Environments, (PETRA '10)*, Samos, Greece"
 ---
 
