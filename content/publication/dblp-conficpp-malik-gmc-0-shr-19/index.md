@@ -6,6 +6,6 @@ authors: ["Maria Malik", "Hassan Ghasemzadeh", "Tinoosh Mohsenin", "Rosario Camm
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*ICPP*"
+publication: "*Proceedings of the 48th International Conference on Parallel Processing (ICPP 2019)*, Kyoto, Japan"
 ---
 
