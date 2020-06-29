@@ -6,6 +6,6 @@ authors: ["Sunghoon Ivan Lee", "Hassan Ghasemzadeh", "Bobak Mortazavi", "Mars La
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Wireless Health*"
+publication: "*Proceedings of the 4th Conference on Wireless Health*, Baltimore, MD, USA"
 ---
 
