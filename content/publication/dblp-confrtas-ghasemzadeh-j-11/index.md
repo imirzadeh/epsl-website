@@ -6,6 +6,6 @@ authors: ["Hassan Ghasemzadeh", "Roozbeh Jafari"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IEEE Real-Time and Embedded Technology and Applications Symposium*"
+publication: "*2011 17th IEEE Real-Time and Embedded Technology and Applications Symposium*, Chicago, IL, USA"
 ---
 
