@@ -6,6 +6,6 @@ authors: ["Ramin Fallahzadeh", "Hassan Ghasemzadeh"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*ACM Trans. Design Autom. Electr. Syst.*"
+publication: "*ACM Transactions on Design Automation of Electronic Systems (TODAES)*"
 ---
 
