@@ -6,6 +6,6 @@ authors: ["Hassan Ghasemzadeh", "Roozbeh Jafari"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*SECON*"
+publication: "*2010 7th Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON)*, Boston, MA, USA"
 ---
 
