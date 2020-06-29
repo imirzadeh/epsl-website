@@ -6,6 +6,6 @@ authors: ["Yuchao Ma", "Sharon Henry", "Alex Kierlanczyk", "Majid Sarrafzadeh", 
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*PerCom Workshops*"
+publication: "* 2015 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops)*, St. Louis, MO, USA"
 ---
 
