@@ -6,6 +6,6 @@ authors: ["Katayoun Neshatpour", "Hosein Mohammadi Makrani", "Avesta Sasan", "Ha
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*SAMOS*"
+publication: "*Proceedings of the 18th International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS '18)*, Pythagorion, Greece"
 ---
 
