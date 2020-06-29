@@ -6,6 +6,6 @@ authors: ["Giancarlo Fortino", "Hassan Ghasemzadeh", "Raffaele Gravina", "Peter 
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Information Fusion*"
+publication: "*Special Issue on Advances in Multi-Sensor Fusion for Body Sensor Networks*"
 ---
 
