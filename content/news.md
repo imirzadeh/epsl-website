@@ -14,7 +14,9 @@ padding = ["10px", "0", "10px", "0"]
 ## <center>**2020**</center>
 
 ***
-* \[2020-6\] Iman’s <em> ''Dropout as an Implicit Gating Mechanism For Continual Learning''</em> paper received [runner-up award](https://sites.google.com/view/clvision2020/paper-awards?authuser=0) for the the CVPR 2020 Workshop on Continual Learning. 
+* \[2020-6\] Iman’s <em> ''Understanding the Roel of Training Regimes in Continual Learning''</em> paper accepted to the [ICML 2020 Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home?authuser=0). 
+
+* \[2020-6\] Iman’s <em> ''Dropout as an Implicit Gating Mechanism For Continual Learning''</em> paper received [runner-up award](https://sites.google.com/view/clvision2020/paper-awards?authuser=0) for the CVPR 2020 Workshop on Continual Learning. 
 
 * \[2020-6\] Zhila's <em> ''Memory-Aware Active Learning in Mobile Sensing Systems''</em> paper accepted to the IEEE Transactions on Mobile Computing (TMC).
 
