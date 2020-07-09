@@ -1,6 +1,6 @@
 ---
 title: "Trading Off Power Consumption and Prediction Performance in Wearable Motion Sensors: An Optimal and Real-Time Approach"
-date: 2018-01-01
+date: 2020-01-01
 publishDate: 2020-01-14T10:29:11.932144Z
 authors: [Mahdi Baghbanzadeh, Dewesh Kumar, Sare I Yavasoglu, Sydney Manning, Ahmad Ali Hanaﬁ-Bojd, Hassan Ghasemzadeh, Ifthekar Sikder, Dilip Kumar, Nisha Murmu, Ubydul Haque]
 publication_types: ["2"]
