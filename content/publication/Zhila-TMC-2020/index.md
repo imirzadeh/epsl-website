@@ -6,6 +6,6 @@ authors: ["Zhila Esna Ashari", "Naomi S. Chaytor", "Diane J. Cook", "Hassan Ghas
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Memory-Aware Active Learning in Mobile Sensing Systems*, IEEE Transactions on Mobile Computing (TMC), 2020."
+publication: "*Memory-Aware Active Learning in Mobile Sensing Systems*, IEEE Transactions on Mobile Computing (TMC), 2020"
 ---
 
