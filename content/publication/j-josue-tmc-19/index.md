@@ -6,6 +6,6 @@ authors: [ "Josue Ortiz", "Ramin Fallahzadeh", "Mahdi Pedram", "Jose L. Risco-Ma
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Transactions on Mobile Computing (TMC)*, vol. 18, no. 3, pp. 658–673, March 2019"
+publication: "*IEEE Transactions on Mobile Computing (TMC)*, vol. 18, no. 3, pp. 658–673, March 2019 (**Recipient of IEEE CEDA Spain Chapter Best Paper Award**)"
 ---
 
