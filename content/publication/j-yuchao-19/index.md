@@ -1,5 +1,5 @@
 ---
-title: "RCyclePro: A Robust Framework for Domain-Agnostic Gait Cycle Detection"
+title: "CyclePro: A Robust Framework for Domain-Agnostic Gait Cycle Detection"
 date: 2019-01-01
 publishDate: 2020-01-14T10:29:11.917980Z
 authors: [ "Yuchao Ma", "Zhila Esna Ashari", "Mahdi Pedram", "Navid Amini", "Daniel Tarquinio", "Kouros Nouri-Mahdavi", "Mohammad Pourhomayoun", "Robert Catena", "Hassan Ghasemzadeh"]
