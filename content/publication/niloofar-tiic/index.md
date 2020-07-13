@@ -6,6 +6,6 @@ authors: [ "Niloofar Hezarjaribi", "Sepideh Mazrouee", "Saied Hemati", "Naomi Ch
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*ACM Transactions on Interactive Intelligent Systems (TiiS)*, Article No. 23, November 2019 (Recipient of 2019 ACM TiiS Honorable Mention)"
+publication: "*ACM Transactions on Interactive Intelligent Systems (TiiS)*, Article No. 23, November 2019 (**Recipient of 2019 ACM TiiS Honorable Mention**)"
 ---
 
