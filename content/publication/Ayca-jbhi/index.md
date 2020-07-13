@@ -6,6 +6,6 @@ authors: [ "Ayca Aygun", "Hassan Ghasemzadeh", "Roozbeh Jafari"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Journal of Biomedical and Health Informatics (JBHI)*, December 2019."
+publication: "*IEEE Journal of Biomedical and Health Informatics (JBHI)*, December 2019"
 ---
 
