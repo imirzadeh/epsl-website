@@ -6,6 +6,6 @@ authors: ["Shervin Hajiamini", "Behrooz Shirazi", "Aaron Crandall", "Hassan Ghas
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Transactions on Sustainable Computing*"
+publication: "*IEEE Transactions on Sustainable Computing (TSUSC)*, vol. 5, no. 1, pp.1–12, January–March 2020"
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8692579/
 ---
