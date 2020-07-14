@@ -6,6 +6,6 @@ authors: ["Seyed Ali Rokni", "Hassan Ghasemzadeh"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*ICCAD*"
+publication: "*The 35th IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, November 7–10, 2016, Austin, TX"
 ---
 
