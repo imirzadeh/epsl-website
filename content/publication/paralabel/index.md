@@ -16,7 +16,7 @@ publishDate: 2020-07-10
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Sensors Journal"
+publication: "*IEEE Sensors Journal*"
 publication_short: ""
 
 abstract: ""
