@@ -6,6 +6,6 @@ authors: ["Ramin Fallahzadeh", "Yuchao Ma", "Hassan Ghasemzadeh"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Trans. Mob. Comput.*"
+publication: "*IEEE Transactions on Mobile Computing (TMC)*, vol. 16, no. 8, pp. 2159–2173, August 2017"
 ---
 
