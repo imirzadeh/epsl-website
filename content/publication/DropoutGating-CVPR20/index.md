@@ -16,7 +16,7 @@ publishDate: 2020-04-21T00:03:28-07:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+publication: "*CVPR 2020 Workshop on Continual Learning in Computer Vision (CLVISION)*, June 14, 2020, Seattle, WA, USA"
 publication_short: ""
 
 abstract: "In recent years, neural networks have demonstrated an outstanding ability to achieve complex learning tasks across various domains. However, they suffer from the ''catastrophic forgetting'' problem when they face a sequence of learning tasks, where they forget the old ones as they learn new tasks. This problem is also highly related to the ''stability-plasticity dilemma''. The more plastic the network, the easier it can learn new tasks, but the faster it also forgets previous ones.
