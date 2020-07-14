@@ -6,6 +6,6 @@ authors: ["Raffaele Gravina", "Parastoo Alinia", "Hassan Ghasemzadeh", "Giancarl
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Information Fusion*"
+publication: "*Information Fusion*, vol. 35, pp. 68–80, May 2017"
 ---
 
