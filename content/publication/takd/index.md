@@ -12,7 +12,7 @@ date: 2019-11-10T19:06:19-08:00
 lastmod: 2019-11-10T19:06:19-08:00
 featured: true
 draft: false
-publication: [*34th AAAI Conference on Artificial Intelligence (AAAI)*, February 7–12, 2020, New York, NY]
+publication: "*Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)*, February 7–12, 2020, New York, NY"
 url_pdf: https://arxiv.org/abs/1902.03393
 url_code: https://github.com/imirzadeh/Teacher-Assistant-Knowledge-Distillation
 image: "takd-main.png"
