@@ -5,7 +5,7 @@
 title: "Why Sweat Will Power Your Next Wearable!"
 event:
 event_url:
-location: Dana Hall, Washington State University
+#location: Dana Hall, Washington State University
 address:
   street:
   city:
