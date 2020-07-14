@@ -6,6 +6,6 @@ authors: ["Shervin Hajiamini", "Behrooz A. Shirazi", "Aaron S. Crandall", "Hassa
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*SUSCOM*"
+publication: "*Sustainable Computing: Informatics and Systems*, vol. 18, pp. 54–65, March 2018"
 ---
 
