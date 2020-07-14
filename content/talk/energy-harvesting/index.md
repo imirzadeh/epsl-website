@@ -49,8 +49,8 @@ image:
 # Optional filename of your slides within your talk folder or a URL.
 url_slides:
 
-url_code: https://spectrum.ieee.org/semiconductors/devices/why-sweat-will-power-your-next-wearable
-url_pdf:
+url_code: 
+url_pdf: https://spectrum.ieee.org/semiconductors/devices/why-sweat-will-power-your-next-wearable
 url_video:
 
 # Markdown Slides (optional).
