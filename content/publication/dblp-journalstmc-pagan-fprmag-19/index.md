@@ -6,7 +6,7 @@ authors: ["Josué Pagán", "Ramin Fallahzadeh", "Mahdi Pedram", "José L. Risco-
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Trans. Mob. Comput.*"
+publication: "*IEEE Transactions on Mobile Computing (TMC)*, vol. 18, no. 3, pp. 658–673, March 2019"
 url_pdf: "http://ieeexplore.ieee.org/document/8371282"
 ---
 
