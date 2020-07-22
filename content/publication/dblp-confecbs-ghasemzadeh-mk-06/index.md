@@ -6,6 +6,6 @@ authors: ["Hassan Ghasemzadeh", "Sepideh Mazrouee", "Mohammad Reza Kakoee"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*ECBS*"
+publication: "*IEEE International Conference and Workshop on the Engineering of Computer Based Systems (ECBS)*, pp. 368-376, Potsdam, Germany, March 2006"
 ---
 
