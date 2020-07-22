@@ -6,6 +6,6 @@ authors: ["Mohammad Reza Kakoee", "Hamid Shojaei", "Hassan Ghasemzadeh", "Marjan
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*ISCAS*"
+publication: "*IEEE International Symposium on Circuits and Systems (ISCAS’07)*, pp. 3760-3763, New Orleans, USA, May 2007"
 ---
 
