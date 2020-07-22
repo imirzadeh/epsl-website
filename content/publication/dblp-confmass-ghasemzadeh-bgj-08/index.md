@@ -6,6 +6,6 @@ authors: ["Hassan Ghasemzadeh", "Jaime Barnes", "Eric Guenterberg", "Roozbeh Jaf
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*MASS*"
+publication: "*The Fifth IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS)*, September and October 2008, Atlanta, GA"
 ---
 
