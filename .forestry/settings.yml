@@ -5,13 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/news/_index.md
+  path: content/news.md
   label: news
-- type: directory
-  path: content/home
-  label: Home
-  create: all
-  match: "**/*"
 - type: directory
   path: content/publication
   label: Publications
@@ -24,16 +19,16 @@ sections:
   match: "**/*"
 - type: directory
   path: content/talk
-  label: Events
+  label: Seminars
   create: all
   match: "**/*"
   templates:
   - event
 - type: directory
-  path: content
-  label: Pages
+  path: content/home
+  label: Home
   create: all
-  match: "*"
+  match: "**/*"
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
