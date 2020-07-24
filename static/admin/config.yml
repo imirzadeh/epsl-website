@@ -22,21 +22,26 @@ collections:
     media_folder: ''
     create: true
     fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Publication", name: "publication", widget: "string"}
+          - {label: "Title", name: "title", widget: "string", hint: "Title of the paper"}
+          - {label: "Publication", name: "publication", widget: "string", hint: "publication venue. E.g., IEEE sensors Journal or ArXiv"}
           - label: "Publication Type"
             name: "publication_types"
             required: false
             widget: "list"
             default: ["0"]
-            hint: "Use 0 for Uncategorized, 1 for Conference Paper, 2 for Journal Article"
+            hint: "Use 0 for Uncategorized, 1 for Conference Paper, 2 for Journal Article, and 3 for Pre-Print"
           - label: "Authors"
             name: "authors"
             widget: "list"
             required: true
             allow_add: true
-            hint: "Enter author list comma sepearated (e.g., author one, author two)"
-          - {label: "Featured Image", hint: "image. the name of the file has to be featured.png or featured.jpg", name: "image2", widget: "image", required: false, default:"featured", pattern: ["^$|featured\.(png|jpg)", "must be either empty or featured.png or featured.jpg"]}
+            hint: "Enter author list COMMA SEPARATED (e.g., author one, author two)"
+          - label: "Featured Image"
+            name: "image2"
+            widget: "image"
+            required: false
+            hint: "If you upload an image, the name of the file HAS TO BE featured.png or featured.jpg"
+            pattern: ['^$|featured\.(png|jpg)', "must be either empty or featured.png or featured.jpg"]
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
           - {label: "Code URL", name: "url_code", widget: "string", required: false}
