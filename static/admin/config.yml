@@ -18,7 +18,7 @@ collections:
   - label: "Publications"
     name: "publications"
     folder: "content/publication/"
-    path: '{{slug}}/index.md'
+    path: '{{slug}}/index'
     media_folder: ''
     create: true
     fields:
@@ -27,17 +27,13 @@ collections:
           - label: "Publication Type"
             name: "publication_types"
             required: false
-            widget: "list"
-            fields:
-                   - label: "Align Content"
-                     name: "align"
-                     widget: "select"
-                     options:
-                             - { label: "Uncategorized", value: "0" }
-                             - { label: "Conference Paper", value: "1" }
-                             - { label: "Journal Article", value: "2" }
-                             - { label: "Preprint", value: "3" }
-                             - { label: "Report", value: "4"}
+            widget: "select"
+            options:
+                 - { label: "Uncategorized", value: "[0]" }
+                 - { label: "Conference Paper", value: "[1]" }
+                 - { label: "Journal Article", value: "[2]" }
+                 - { label: "Preprint", value: "[3]" }
+                 - { label: "Report", value: "[4]"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
           - {label: "Code URL", name: "url_code", widget: "string", required: false}
