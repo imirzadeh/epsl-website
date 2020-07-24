@@ -30,6 +30,12 @@ collections:
             widget: "list"
             default: ["0"]
             hint: "Use 0 for Uncategorized, 1 for Conference Paper, 2 for Journal Article"
+          - label: "Authors"
+            name: "authors"
+            widget: "list"
+            required: true
+            allow_add: true
+            hint: "Enter author list comma sepearated (e.g., author one, author two)"
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
           - {label: "Code URL", name: "url_code", widget: "string", required: false}
