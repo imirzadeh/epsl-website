@@ -3,15 +3,26 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
-site_url: https://ghasemzadeh.com
+site_url: https://ghasemzadeh.com/admin
 collections:
-  - name: 'news'
-    label: 'news'
-    description: 'Add/Edit the news section'
-    file: 'content/news.md'
-    format: 'frontmatter'
-    create: false
-    editor:
-      preview: true
+  - label: "News"
+    name: "pages"
+    files:
+      - label: "Add/Edit News"
+        name: "news"
+        file: "content/news.md"
+        format: 'frontmatter'
+        fields:
+          - {label: 'Body', name: body, widget: markdown}
+  - label: "Publications"
+    name: "publications"
+    folder: "content/publications"
+    create: true
     fields:
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publication", name: "publication", widget: "string"}
+          - {label: "Featured Image", name: "image", widget: "image"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: "PDF URL", name: "url_pdf", widget: "string"}
+          - {label: "Code URL", name: "url_code", widget: "string"}
+          - {label: 'Abstract', name: abstract, widget: markdown}
