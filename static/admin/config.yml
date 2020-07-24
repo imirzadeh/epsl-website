@@ -16,13 +16,14 @@ collections:
           - {label: 'Body', name: body, widget: markdown}
   - label: "Publications"
     name: "publications"
-    folder: "content/publications"
+    folder: "content/publication/"
+    slug: '{{year}}-{{month}}-{{slug}}'
     create: true
     fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publication", name: "publication", widget: "string"}
-          - {label: "Featured Image", name: "image", widget: "image"}
+          - {label: "Featured Image", name: "image", widget: "image", required: false}
           - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "PDF URL", name: "url_pdf", widget: "string"}
-          - {label: "Code URL", name: "url_code", widget: "string"}
-          - {label: 'Abstract', name: abstract, widget: markdown}
+          - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
+          - {label: "Code URL", name: "url_code", widget: "string", required: false}
+          - {label: 'Abstract', name: abstract, widget: markdown, required: false}
