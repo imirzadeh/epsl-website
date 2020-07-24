@@ -4,6 +4,7 @@ backend:
 media_folder: static/img
 public_folder: /img
 site_url: https://ghasemzadeh.com/admin
+display_url: https://ghasemzadeh.com
 collections:
   - label: "News"
     name: "pages"
@@ -17,12 +18,12 @@ collections:
   - label: "Publications"
     name: "publications"
     folder: "content/publication/"
-    slug: '{{year}}-{{month}}-{{slug}}'
+    path: '{{slug}}/index.md'
     create: true
     fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Publication", name: "publication", widget: "string"}
-          - {label: "Featured Image", name: "image", widget: "image", required: false}
+          - {label: "Featured Image", name: "image", widget: "image", required: false, default: "content/publication/{{slug}}/featured"}
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
           - {label: "Code URL", name: "url_code", widget: "string", required: false}
