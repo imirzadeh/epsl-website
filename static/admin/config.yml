@@ -36,6 +36,7 @@ collections:
             required: true
             allow_add: true
             hint: "Enter author list comma sepearated (e.g., author one, author two)"
+          - {label: "Featured Image", name: "image", widget: "image", required: false}
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
           - {label: "Code URL", name: "url_code", widget: "string", required: false}
