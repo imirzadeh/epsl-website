@@ -27,13 +27,9 @@ collections:
           - label: "Publication Type"
             name: "publication_types"
             required: false
-            widget: "select"
-            options:
-                 - { label: "Uncategorized", value: "0" }
-                 - { label: "Conference Paper", value: "1" }
-                 - { label: "Journal Article", value: "2" }
-                 - { label: "Preprint", value: "3" }
-                 - { label: "Report", value: "4"}
+            widget: "list"
+            default: ["0"]
+            hint: "Use 0 for Uncategorized, 1 for Conference Paper, 2 for Journal Article"
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
           - {label: "Code URL", name: "url_code", widget: "string", required: false}
