@@ -84,5 +84,3 @@ fields:
   label: Cover Image
   description: optional featured image. The file name has to be named "featured.png"
     or "featured.jpg"
-pages:
-- content/publication/understanding-the-role-of-training-regime/index.md
