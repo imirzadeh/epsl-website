@@ -63,7 +63,4 @@ collections:
             hint: "If you upload an image, the name of the file HAS TO BE featured.png or featured.jpg"
             pattern: ['^$|featured\.(png|jpg)', "must be either empty or featured.png or featured.jpg"]
           - {label: "Date", name: "date", widget: "datetime"}
-          - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
-          - {label: "Code URL", name: "url_code", widget: "string", required: false}
-          - {label: 'Abstract', name: abstract, widget: markdown, required: false}
           - {label: 'Body', name: body, widget: markdown, hint: "Long description of the project"}
