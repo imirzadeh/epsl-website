@@ -11,15 +11,14 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: doi
-  label: doi
 - type: datetime
   name: publishDate
   label: publishDate
 - type: list
   name: publication_types
   label: publication_types
+  description: '"0" for uncategorized<br>"1" for conference<br>"2" for journal<br>"3"
+    for preprint'
 - type: textarea
   name: publication
   label: publication
