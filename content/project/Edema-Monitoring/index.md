@@ -41,6 +41,8 @@ Using weight scales at homes, caregivers can watch for sudden changes in weight 
 
 {{< figure src="1.png" lightbox="true" >}}
 
+![](1.jpg)
+
 # Related Research Papers
 
 ## SmartSock: A Multi-Sensor Wearable for Continuous and Remote Monitoring of Ankle Edema
