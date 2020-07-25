@@ -3,7 +3,6 @@ abstract = ""
 authors = ["Iman Mirzadeh", "Mehrdad Farajtabar"]
 categories = []
 date = 2020-07-24T07:00:00Z
-draft = true
 featured = false
 projects = []
 publication = "Arxiv Preprint"
