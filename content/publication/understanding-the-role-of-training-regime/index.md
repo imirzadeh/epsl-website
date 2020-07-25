@@ -1,13 +1,13 @@
 +++
 abstract = ""
-authors = ["Iman Mirzadeh", "Mehrdad Farajtabar", "Razvan Pascanu"]
+authors = ["Iman Mirzadeh", "Mehrdad Farajtabar", "Razvan Pascanu", "Hassan Ghasemzadeh"]
 categories = []
 date = 2020-07-24T07:00:00Z
 doi = ""
 featured = false
 projects = []
 publication = "Arxiv"
-publication_types = []
+publication_types = ["3"]
 publishDate = ""
 slides = ""
 summary = ""
