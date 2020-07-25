@@ -83,3 +83,5 @@ fields:
 - type: text
   name: slides
   label: slides
+pages:
+- content/publication/understanding-the-role-of-training-regime.md
