@@ -5,30 +5,43 @@ fields:
 - type: text
   name: title
   label: title
+  description: Title of the paper
 - type: list
   name: authors
-  label: authors
+  label: Authors
+  description: List of the authors. You can add multiple authors
+- type: list
+  name: publication_types
+  label: Publication Type
+  description: Use one of these numbers:<br>0 = Uncategorized<br>1 = Conference paper<br>2
+    = Journal article<br>3 = Preprint / Working Paper<br>6 = Book section<br>7 = Thesis<br>8
+    = Patent
+  config:
+    use_select: false
+    source:
+      type: simple
+- type: textarea
+  name: publication
+  label: Publication Venue
+  description: E.g. AAAI, IEEE Journal, ArXiv...
 - type: datetime
   name: date
   label: date
+- type: textarea
+  name: url_pdf
+  label: url_pdf
+- type: text
+  name: url_code
+  label: url_code
+- type: textarea
+  name: abstract
+  label: abstract
 - type: text
   name: doi
   label: doi
 - type: datetime
   name: publishDate
   label: publishDate
-- type: list
-  name: publication_types
-  label: publication_types
-- type: textarea
-  name: publication
-  label: publication
-- type: text
-  name: publication_short
-  label: publication_short
-- type: textarea
-  name: abstract
-  label: abstract
 - type: textarea
   name: summary
   label: summary
@@ -41,12 +54,6 @@ fields:
 - type: boolean
   name: featured
   label: featured
-- type: textarea
-  name: url_pdf
-  label: url_pdf
-- type: text
-  name: url_code
-  label: url_code
 - type: text
   name: url_dataset
   label: url_dataset
