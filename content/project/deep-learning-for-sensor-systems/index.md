@@ -5,8 +5,6 @@ summary: Theoretical and practical implications of using deep learning models in
 image2: featured.png
 date: 2020-07-25T02:13:00.904Z
 ---
-![](continual-learning-forgetting.png)
-
 # Introduction
 
 # Projects
