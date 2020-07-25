@@ -62,7 +62,3 @@ Table below briefly highlights the advantages of SmartSock technology over exist
 
 The market size is huge. Implementing remote health monitoring solutions can save the health care system and the community billions of dollars each year. Millions of people only in United States are dealing with at least one of the aforementioned chronic diseases and solutions such as SmartSock not only are very cost effective but also enhance their quality of life. Below some of the statistics reported for US is illustrated.
 {{< figure src="14.jpg" lightbox="true" >}}
-
-
-
-![](screen-shot-2020-07-23-at-20.31.29.png)
