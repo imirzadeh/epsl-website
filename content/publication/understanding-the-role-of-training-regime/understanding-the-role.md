@@ -1,8 +1,8 @@
 +++
 abstract = ""
-authors = []
+authors = ["Iman Mirzadeh", "Mehrdad Farajtabar", "Razvan Pascanu"]
 categories = []
-date = ""
+date = 2020-07-24T07:00:00Z
 doi = ""
 featured = false
 projects = []
@@ -12,7 +12,7 @@ publishDate = ""
 slides = ""
 summary = ""
 tags = []
-title = "understanding the role of training regime"
+title = "understanding the role of training regime in continual learning"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
