@@ -2,6 +2,7 @@
 abstract = ""
 authors = ["Iman Mirzadeh", "Mehrdad Farajtabar", "Razvan Pascanu", "Hassan Ghasemzadeh"]
 categories = []
+cover = "/featured.png"
 date = 2020-07-24T07:00:00Z
 doi = ""
 featured = false
