@@ -4,7 +4,6 @@ authors = []
 categories = []
 date = ""
 doi = ""
-draft = true
 featured = false
 projects = []
 publication = "Arxiv"
