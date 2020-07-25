@@ -25,8 +25,13 @@ fields:
   label: Publication Venue
   description: E.g. AAAI, IEEE Journal, ArXiv...
 - type: datetime
+  name: publishDate
+  label: publishDate
+  default: now
+- type: datetime
   name: date
   label: date
+  default: now
 - type: textarea
   name: url_pdf
   label: url_pdf
@@ -39,9 +44,6 @@ fields:
 - type: text
   name: doi
   label: doi
-- type: datetime
-  name: publishDate
-  label: publishDate
 - type: textarea
   name: summary
   label: summary
@@ -72,24 +74,15 @@ fields:
 - type: text
   name: url_video
   label: url_video
-- type: field_group
-  name: image
-  label: image
-  fields:
-  - type: text
-    name: caption
-    label: caption
-  - type: text
-    name: focal_point
-    label: focal_point
-  - type: boolean
-    name: preview_only
-    label: preview_only
 - type: list
   name: projects
   label: projects
-- type: text
-  name: slides
-  label: slides
+- name: cover
+  type: file
+  config:
+    maxSize: 64
+  label: Cover Image
+  description: optional featured image. The file name has to be named "featured.png"
+    or "featured.jpg"
 pages:
 - content/publication/understanding-the-role-of-training-regime/index.md
