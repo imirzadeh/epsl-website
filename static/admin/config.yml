@@ -46,3 +46,24 @@ collections:
           - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
           - {label: "Code URL", name: "url_code", widget: "string", required: false}
           - {label: 'Abstract', name: abstract, widget: markdown, required: false}
+  - label: "Projects"
+    name: "projects"
+    folder: "content/project/"
+    path: '{{slug}}/index'
+    media_folder: ''
+    create: true
+    format: 'frontmatter'
+    fields:
+          - {label: "Title", name: "title", widget: "string", hint: "Title of the project"}
+          - {label: "Summary", name: "summary", widget: "text", hint: "Short summary of the project (less than 200 characters)"}
+          - label: "Featured Image"
+            name: "image2"
+            widget: "image"
+            required: false
+            hint: "If you upload an image, the name of the file HAS TO BE featured.png or featured.jpg"
+            pattern: ['^$|featured\.(png|jpg)', "must be either empty or featured.png or featured.jpg"]
+          - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
+          - {label: "Code URL", name: "url_code", widget: "string", required: false}
+          - {label: 'Abstract', name: abstract, widget: markdown, required: false}
+          - {label: 'Body', name: body, widget: markdown, hint: "Long description of the project"}
