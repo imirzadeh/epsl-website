@@ -1,19 +1,25 @@
-+++
-active = true
-draft = false
-headless = true
-widget = "blank"
-[design]
-columns = "1"
-[design.spacing]
-padding = ["10px", "0", "10px", "0"]
-+++
+---
+active: true
+draft: false
+headless: true
+widget: blank
+design:
+  columns: "1"
+  spacing:
+    padding:
+      - 10px
+      - "0"
+      - 10px
+      - "0"
+---
 
 ***
 
 ## <center>**2020**</center>
 
 ***
+* \[2020-7\] new news</em>.
+
 * \[2020-7\] TransNet paper accepted for publication in <em> ACM Transactions on Design Automation of Electronic Systems (TODAES)</em>.
 
 * \[2020-7\] Yuchao's <em> ''Transfer Learning for Activity Recognition in Mobile Health'' </em> paper accepted (oral presentation) to KDD 2020 Workshop on Applied Data Science for Healthcare ([DSHealth2020](https://dshealthkdd.github.io/dshealth-2020/)).
