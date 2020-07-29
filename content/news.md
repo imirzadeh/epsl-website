@@ -18,7 +18,6 @@ design:
 ## <center>**2020**</center>
 
 ***
-* \[2020-7\] new news</em>.
 
 * \[2020-7\] TransNet paper accepted for publication in <em> ACM Transactions on Design Automation of Electronic Systems (TODAES)</em>.
 
