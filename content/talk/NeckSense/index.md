@@ -50,7 +50,7 @@ image:
 url_slides:
 
 url_code: 
-url_pdf: https://spectrum.ieee.org/semiconductors/devices/why-sweat-will-power-your-next-wearable
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3397313
 url_video:
 
 # Markdown Slides (optional).
