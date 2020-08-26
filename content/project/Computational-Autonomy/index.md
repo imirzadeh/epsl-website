@@ -1,5 +1,6 @@
 ---
 slides: ""
+url_pdf: ""
 summary: Computational algorithms need to be reconfigured (i.e., retrained) upon
   any changes in configuration of wearable technologies, such as
   addition/removal of a sensor to/from the network,
@@ -10,10 +11,9 @@ summary: Computational algorithms need to be reconfigured (i.e., retrained) upon
   project, we investigate development of multi-view learning algorithms that
   enable the vision of computationally autonomous and result in highly
   sustainable and scalable wearables of the future.
-date: 2020-01-13T23:58:08-08:00
-url_pdf: ""
 authors: []
 url_video: ""
+date: 2020-01-13T23:58:08-08:00
 external_link: ""
 url_slides: ""
 title: Computational Autonomy
@@ -30,6 +30,18 @@ We envision that wearables of the future must be computationally autonomous in t
 {{< youtube uQ9vrUeYvzg >}}
 
 # Related Research Papers:
+
+## TransNet: Minimally-Supervised Deep Transfer Learning for Dynamic Adaptation of Wearable Systems
+
+Wearables are poised to transform health and wellness through automation of cost-effective, objective, and real-time health monitoring. However, machine learning models for these systems are designed based on labeled data collected, and feature representations engineered, in controlled environments. This approach has limited scalability of wearables because (i) collecting and labeling sufficiently large amounts of sensor data is a labor-intensive and expensive process; and (ii) wearables are deployed in highly dynamic environments of the end-users whose context undergoes consistent changes. We introduce TransNet, a deep learning framework that minimizes the costly process of data labeling, feature engineering, and algorithm retraining by constructing a scalable computational approach. TransNet learns general and reusable features in lower layers of the framework and quickly reconfigures the underlying models from a small number of labeled instances in a new domain, such as when the system is adopted by a new user or when a previously unseen event is to be added to event vocabulary of the system. Utilizing TransNet on four activity datasets, TransNet achieves an average accuracy of 88.1% in cross-subject learning scenarios using only one labeled instance for each activity class. This performance improves to an accuracy of 92.7% with five labeled instances.
+
+## Transfer Learning for Activity Recognition in Mobile Health
+
+While activity recognition from inertial sensors holds potential for mobile health, differences in sensing platforms and user movement patterns cause performance degradation. Aiming to address these challenges, we propose a transfer learning framework, TransFall, for sensor-based activity recognition. TransFall's design contains a two-tier data transformation, a label estimation layer, and a model generation layer to recognize activities for the new scenario. We validate TransFall analytically and empirically.  
+
+## LabelMerger: Learning Activities in Uncontrolled Environments
+
+While inferring human activities from sensors embedded in mobile devices using machine learning algorithms has been studied, current research relies primarily on sensor data that are collected in controlled settings and/or with healthy individuals. Currently, there exists a gap in research about how to design activity recognition models based on sensor data collected with chronically ill individuals and in free-living environments. In this paper, we focus on a situation where free-living activity data are collected continuously, activity vocabulary (i.e., class labels) are not known a priori, and sensor data are annotated by end-users through an active learning process. By analyzing sensor data collected in a clinical study involving patients with cardiovascular disease, we demonstrate significant challenges that arise while inferring physical activities in uncontrolled environments. In particular, we observe that activity labels that are distinct in syntax can refer to semantically-identical behaviors, resulting in a sparse label space. To construct a meaningful label space, we propose LabelMerger, a framework for restructuring the label space created through active learning in uncontrolled environments in preparation for training activity recognition models. LabelMerger combines semantic meaning of activity labels with physical attributes of the activities (i.e., domain knowledge) to generate a flexible and meaningful representation of the labels. Specifically,  our approach merges labels using both word embedding techniques from the natural language processing and activity intensity from physical activity research. We show that the new representation of the sensor data obtained by LabelMerger results in more accurate activity recognition models compare to the case where original label space is used to learn recognition models.  
 
 ## LabelForest: Non-Parametric Semi-Supervised Learning for Activity Recognition
 
