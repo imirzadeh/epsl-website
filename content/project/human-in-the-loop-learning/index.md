@@ -12,7 +12,7 @@ summary: Designing active learning strategies that collect labeled sensor data
   labeling on user, and reliability of prospective labels into account; and (ii)
   for understanding and inferring complex health events using wearable and
   mobile sensors.
-image2: ""
+image2: featured.jpg
 date: 2020-08-27T05:18:17.047Z
 ---
 ## Mindful Active Learning
