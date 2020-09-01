@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ali Rokni
+title: Ali Rokni
 
 # Username (this should match the folder name)
 authors:

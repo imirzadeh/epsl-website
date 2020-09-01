@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Asiful Arefeen
+title: Asiful Arefeen
 
 # Username (this should match the folder name)
 authors:
@@ -38,7 +38,6 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "seyediman.mirzadeh@wsu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -46,6 +45,6 @@ user_groups:
 - PhD Students
 ---
 ## About Me
-I am a PhD student at Washington State University (WSU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive Systems Lab (EPSL). 
-My research topics include embedded systems, health monitoring systems, wearable sensor development and machine learning. 
+I am a PhD student at Washington State University (WSU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive Systems Lab (EPSL).
+My research topics include embedded systems, health monitoring systems, wearable sensor development and machine learning.
 Before joining WSU, I received my B.S. degree in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019.

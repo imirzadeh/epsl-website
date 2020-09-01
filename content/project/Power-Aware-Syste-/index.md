@@ -12,7 +12,7 @@ summary: The stringent constrained resources available on tiny sensor nodes
   tools, methodologies, and algorithms towards comprehensive approaches to
   address cross-layer optimization issues related to power, performance,
   user-comfort, and security.
-authors: []
+authors: [EPSL]
 url_video: ""
 date: 2020-01-13T23:58:23-08:00
 external_link: ""

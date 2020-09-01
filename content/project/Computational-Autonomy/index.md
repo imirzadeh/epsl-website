@@ -11,7 +11,7 @@ summary: Computational algorithms need to be reconfigured (i.e., retrained) upon
   project, we investigate development of multi-view learning algorithms that
   enable the vision of computationally autonomous and result in highly
   sustainable and scalable wearables of the future.
-authors: []
+authors: [EPSL]
 url_video: ""
 date: 2020-01-13T23:58:08-08:00
 external_link: ""
