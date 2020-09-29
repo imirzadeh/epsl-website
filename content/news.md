@@ -18,6 +18,11 @@ design:
 ## <center>**2020**</center>
 
 ***
+* \[2020-9\] Paper on Wearable Assistive Technology for Hemianopic Stroke Patients received [Best Wearables Note Award at UbiComp/ISWC 2020](https://youtu.be/PLOvuuKCIxM?t=1792).
+
+* \[2020-9\] Submission website for [PerHealth 2021](http://perhealth.eecs.wsu.edu/) (IEEE PerCom International workshop on Pervasive Health Technologies) is now open!</em>.
+
+* \[2020-7\] Our paper with UCLA and CSULA on Wearable Assistive Technology for Hemianopic Stroke Patients accepted to <em> International Symposium on Wearable Computers (ISWC 2020)</em>.
 
 * \[2020-7\] TransNet paper accepted for publication in <em> ACM Transactions on Design Automation of Electronic Systems (TODAES)</em>.
 
