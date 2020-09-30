@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-09-30T03:43:19-07:00
 
-authors: [Seyed Iman Mirzadeh]
+authors: [Iman Mirzadeh]
 tags: []
 
 # Is this a featured talk? (true/false)
