@@ -22,9 +22,9 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "**The abstract version presented at [ICML 2020 Workshop on Continual Learning](https://sites.google.com/view/cl-icml/home?authuser=0)**"
+summary: "**Accepted to NeurIPS 2020**"
 
-tags: ["publight"]
+tags: []
 categories: []
 featured: true
 
