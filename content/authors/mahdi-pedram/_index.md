@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Mahdi Pedram
+title: Mahdi Pedram
 
 # Username (this should match the folder name)
 authors:
@@ -31,7 +31,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Hpc-9PAAAAAJ&hl=en
- 
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mahdi.pedram@wsu.edu"
 

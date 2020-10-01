@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Introduction to Gaussian Processes"
+title: "Social and competition stress detection with wristband physiological signals"
 event:
 event_url:
 location:
@@ -16,21 +16,21 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-07-15
-date_end: 2020-07-15
+date: 2020-09-09T12:00:00-07:00
+date_end: 2020-09-09T12:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-07-15
+publishDate: 2020-09-16T02:04:56-07:00
 
-authors: ["Ramesh Sah"]
+authors: [Asiful Arefeen]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/document/7936002
 url_video:
 
 # Markdown Slides (optional).
