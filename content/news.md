@@ -18,6 +18,8 @@ design:
 ## <center>**2020**</center>
 
 ***
+* \[2020-10\] Our paper entitled "[ParaLabel: Autonomous Parameter Learning for Cross-Domain Step Counting in Wearable Sensors](https://ieeexplore.ieee.org/document/9139931)" has been selected as a Featured Article in Issue 23 of IEEE Sensors Journal.
+
 * \[2020-9\] Our work titled "Understanding the Role of Training Regimes in Continual Learning", has been accepted to NeurIPS 2020 (acceptance rate 20.0%).
 
 * \[2020-9\] Paper on Wearable Assistive Technology for Hemianopic Stroke Patients received [Best Wearables Note Award at UbiComp/ISWC 2020](https://youtu.be/PLOvuuKCIxM?t=1792).
