@@ -12,7 +12,7 @@ summary: We develop novel approaches for reliable gait monitoring and
   problems.
 date: 2020-01-13T23:58:41-08:00
 url_pdf: ""
-authors: []
+authors: [EPSL]
 url_video: ""
 external_link: ""
 url_slides: ""

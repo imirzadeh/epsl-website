@@ -8,7 +8,7 @@ summary: Monitoring Edema helps caregivers and patients to understand the state
   information in remote settings.
 date: 2020-01-13T23:58:54-08:00
 url_pdf: ""
-authors: []
+authors: [EPSL]
 url_video: ""
 external_link: ""
 url_slides: ""

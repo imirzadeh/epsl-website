@@ -24,6 +24,7 @@ font = ""
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "M"
 
+media_dir = "img"
 ############################
 ## Basic Info
 ############################
@@ -111,6 +112,7 @@ coordinates = {latitude = "46.7296718", longitude = "-117.1710468"}
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
 #  ]
+
 
 ############################
 ## Social
@@ -259,3 +261,6 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+
+[icon.pack]
+    ai = true 
