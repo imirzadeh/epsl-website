@@ -2,7 +2,7 @@
 ---
 # Documentation: https://dl.acm.org/doi/10.1145/3411821
 
-title: "NeckSense: A Multi-Sensor Approach to Automatically Recognize Breaks and Work Activities of Knowledge Workers in Academia"
+title: "A Multi-Sensor Approach to Automatically Recognize Breaks and Work Activities of Knowledge Workers in Academia"
 event:
 event_url:
 #location: Dana Hall, Washington State University
