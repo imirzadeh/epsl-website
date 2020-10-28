@@ -49,7 +49,7 @@ image:
 url_slides: https://docs.google.com/presentation/d/15N5kv_3ZiSCOTGkEsXKXnhb4AeS08Q8eATkr3GkHpgc/edit?usp=sharing
 
 url_code:
-url_pdf:
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0376871620300946
 url_video:
 
 # Markdown Slides (optional).
