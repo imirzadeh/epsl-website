@@ -1,8 +1,7 @@
 ---
 title: Pervasive Lying Posture Tracking
 publication: "*Sensors*, October 2020"
-publication_types:
-  - "2"
+publication_types: ["2"]
 authors:
   - Parastoo Alinia
   - Ali Samadani
