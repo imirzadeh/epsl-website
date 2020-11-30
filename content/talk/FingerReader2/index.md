@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Machine Learning Techniques to Predict the Effectiveness of Music Therapy: A Randomized Controlled Trail"
+title: "FingerReader2.0: Designing and Evaluating A Wearable Finger Worn Camera to Assist People with Visual Impairments While Shopping"
 event:
 event_url:
 location:
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08-19T11:08:04-07:00
-date_end: 2020-08-19T11:08:04-07:00
+date: 2020-11-10T12:17:45-08:00
+date_end: 2020-11-10T12:17:45-08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-08-20T11:08:04-07:00
+publishDate: 2020-11-10T12:17:45-08:00
 
-authors: [ramesh-sah]
+authors: [asiful-arefeen]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://docs.google.com/presentation/d/1NReUNOq3ksRZxNQY_c0HKRwJI8HzBktw8S4F7yLu98o/edit?usp=sharing
+url_slides:
 
 url_code:
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0169260719301555
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3264904
 url_video:
 
 # Markdown Slides (optional).
