@@ -2,7 +2,8 @@
 title: Design and Evaluation of a Wearable Assistive Technology for Hemianopic
   Stroke Patients
 publication: International Symposium on Wearable Computers (ISWC)
-publication_types: ["1"]
+publication_types:
+  - "1"
 authors:
   - Navid Amini
   - Veronica Toriz

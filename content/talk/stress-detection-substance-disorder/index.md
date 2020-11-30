@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Wearable sensor-based detection of stress and craving in patients"
+title: "Wearable sensor-based detection of stress and craving in patients."
 event:
 event_url:
 location:
@@ -49,7 +49,7 @@ image:
 url_slides: https://docs.google.com/presentation/d/15N5kv_3ZiSCOTGkEsXKXnhb4AeS08Q8eATkr3GkHpgc/edit?usp=sharing
 
 url_code:
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0376871620300946
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).
@@ -64,7 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-
 projects: []
-
 ---

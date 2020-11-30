@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Machine Learning Techniques to Predict the Effectiveness of Music Therapy: A Randomized Controlled Trail"
+title: "Music_for_stress_reduction"
 event:
 event_url:
 location:
@@ -49,7 +49,7 @@ image:
 url_slides: https://docs.google.com/presentation/d/1NReUNOq3ksRZxNQY_c0HKRwJI8HzBktw8S4F7yLu98o/edit?usp=sharing
 
 url_code:
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0169260719301555
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).

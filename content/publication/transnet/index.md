@@ -20,7 +20,8 @@ abstract: Wearables are poised to transform health and wellness through
   accuracy of 92.7% with five labeled instances.
 slides: ""
 publication: "*ACM Transactions on Design Automation of Electronic Systems (TODAES)*"
-publication_types: ["2"]
+publication_types:
+  - "2"
 url_pdf: null
 summary: ""
 authors:
