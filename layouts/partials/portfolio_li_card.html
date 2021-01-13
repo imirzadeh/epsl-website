@@ -21,7 +21,7 @@
 
   <div class="card">
     {{ with $resource }}
-    {{ $image := .Resize (printf "400x400 %s") }}
+    {{ $image := .Resize (printf "300x300 %s") }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
       <img src="{{ $image.RelPermalink }}" alt="" class="img-responsive">
     </a>
@@ -30,7 +30,7 @@
       <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
       {{ with $summary }}
       <div class="article-style">
-        <p>{{ . | truncate 200 }}</p>
+        <p>{{ . | truncate 250 }}</p>
       </div>
       {{ end }}
     </div>
