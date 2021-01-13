@@ -23,6 +23,7 @@ subtitle = ""
 [design]
   # Show user's social networking links? (true/false)
   show_social = false
+  show_role = false
 
   # Show user's interests? (true/false)
   show_interests = false

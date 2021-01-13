@@ -16,7 +16,7 @@ publishDate: 2020-01-12T01:22:35-07:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Ninth International Conference on Learning Representations"
+publication: "International Conference on Learning Representations (ICLR), 2021"
 publication_short: "ICLR21"
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["publight"]
+tags: ["featured"]
 categories: []
 featured: true
 

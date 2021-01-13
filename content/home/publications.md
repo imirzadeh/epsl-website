@@ -7,7 +7,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Selected Publications"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 4
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "featured"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -59,6 +59,10 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
 
+[design.spacing]
+   # Customize the section spacing. Order is top, right, bottom, left.
+   padding = ["20px", "0", "20px", "0"]
+
 [advanced]
  # Custom CSS.
  css_style = ""
@@ -67,6 +71,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% callout note %}}
+Quickly discover relevant publications by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /callout %}}

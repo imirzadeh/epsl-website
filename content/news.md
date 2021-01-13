@@ -17,7 +17,7 @@ design:
 ## <center>**2021**</center>
 
 ***
-
+* \[2020-1\] Abdullah Mamun joined EPSL as a PhD student.
 
 * \[2020-1\] Our paper ["Linear Mode Connectivity in Multitask and Continual Learning"](https://openreview.net/forum?id=Fmg_fQYUejf) has been accepted to ICLR 2021 (acceptance rate 26.5%).
 

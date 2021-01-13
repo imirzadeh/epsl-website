@@ -15,7 +15,6 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: Washington State University
-  url: "https://imirzadeh.me"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student at Washington State University (WSU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive Systems Lab (EPSL).  My research topics include embedded systems, health monitoring systems, wearable sensor development and machine learning.  Before joining WSU, I received my B.S. degree in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019.

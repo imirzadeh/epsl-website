@@ -16,15 +16,15 @@ publishDate: 2020-07-25T01:22:35-07:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Advances in Neural Information Processing Systems (NeurIPS) 2020"
+publication: "Advances in Neural Information Processing Systems (NeurIPS), 2020"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "**Accepted to NeurIPS 2020**"
+summary: ""
 
-tags: []
+tags: ["featured"]
 categories: []
 featured: true
 

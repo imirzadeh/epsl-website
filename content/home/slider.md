@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 23  # Order that this section will appear.
 
 # Slide interval.
@@ -31,15 +31,7 @@ height = "350px"
   overlay_img = "slider/slider1.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.16  # Darken the image. Value in range 0-1.
 
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  #cta_label = "Get Academic"
-  #cta_url = "https://sourcethemes.com/academic/"
-  #cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-  
-  
+
 [[item]]
   #title = "Hello"
   #content = "I am center aligned :smile:"
@@ -51,13 +43,6 @@ height = "350px"
   overlay_img = "slider/group.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.16  # Darken the image. Value in range 0-1.
 
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  #cta_label = "Get Academic"
-  #cta_url = "https://sourcethemes.com/academic/"
-  #cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"  
 
 [[item]]
   #title = "Hello"
@@ -76,7 +61,7 @@ height = "350px"
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "slider/epslpage3.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.22  # Darken the image. Value in range 0-1.
-  
+
 [[item]]
   #title = "Hello"
   #content = "I am center aligned :smile:"
@@ -85,7 +70,7 @@ height = "350px"
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "slider/pic3.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.22  # Darken the image. Value in range 0-1.
-  
+
 [[item]]
   #title = "Hello"
   #content = "I am center aligned :smile:"
@@ -97,12 +82,4 @@ height = "350px"
   overlay_img = "slider/epslpage5.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.16  # Darken the image. Value in range 0-1.
 
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  #cta_label = "Get Academic"
-  #cta_url = "https://sourcethemes.com/academic/"
-  #cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"    
-  
 +++
