@@ -189,3 +189,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/vim,linux,macos,emacs,windows,notepadpp,sublimetext
+
+# Local Netlify folder
+.netlify
