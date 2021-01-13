@@ -24,7 +24,7 @@ font = ""
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "M"
 
-media_dir = "img"
+# media_dir = "img"
 ############################
 ## Basic Info
 ############################
@@ -87,7 +87,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "355 Spokane Street, Dana 114", city = "Pullman", region = "WA", postcode = "99164", country = "United States", country_code = "US"}
+address = {street = "114 Dana Hall, 355 Spokane Street", city = "Pullman", region = "WA", postcode = "99164", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -263,4 +263,9 @@ plugins_js  = []
   google_tag_manager = ""
 
 [icon.pack]
-    ai = true 
+    ai = true
+
+# Content Management System
+[cms]
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = true
