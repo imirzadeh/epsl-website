@@ -19,6 +19,13 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Stable SGD algorithm for continual learning"
+  code_url = "https://github.com/imirzadeh/stable-continual-learning"
+  paper_url = "https://proceedings.neurips.cc/paper/2020/file/518a38cc9a0173d0b2dc088166981cf8-Paper.pdf"
+  description = "The code for Understanding the Role of Training Regimes in Continual Learning (NeurIPS'20)"
+  date_start = "2020-08-11"
+
+[[item]]
   title = "Adar: Adversarial Activity Recognition in Wearables"
   code_url = "https://github.com/rameshKrSah/Adar"
   paper_url = "https://ieeexplore.ieee.org/document/8942124/"
