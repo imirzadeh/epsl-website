@@ -8,7 +8,6 @@ date_end: 2021-02-01T23:30:00.000Z
 all_day: false
 event: EPSL Seminars
 event_url: '""'
-publishDate: 2021-03-02T08:48:07.043Z
 draft: false
 featured: false
 authors:
