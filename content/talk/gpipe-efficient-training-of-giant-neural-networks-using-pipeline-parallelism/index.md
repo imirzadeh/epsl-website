@@ -14,7 +14,6 @@ featured: false
 authors:
   - abdullah-mamun
 image:
-  filename: https://d3i71xaburhd42.cloudfront.net/c18663fea10c8a303d045fd2c1f33cacf9b73ca3/4-Figure2-1.png
-  focal_point: Smart
+  filename: featured.png
   preview_only: false
 ---
