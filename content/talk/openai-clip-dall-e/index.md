@@ -10,6 +10,8 @@ event_url: '""'
 publishDate: 2021-02-22T09:18:13.948Z
 draft: false
 featured: false
+authors:
+  - iman-mirzadeh
 image:
   filename: https://cdn.openai.com/research-covers/dall-e/2x-no-mark.jpg
   focal_point: Smart
