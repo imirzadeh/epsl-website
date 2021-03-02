@@ -1,3 +1,7 @@
+github.com/imirzadeh/wowchemy-hugo-modules v0.29.0 h1:lXeZ2L7zeWzqT+s8eGKAxi+gUCV8YlON77HFCGWlwu8=
+github.com/imirzadeh/wowchemy-hugo-modules v4.8.0+incompatible h1:fgmzmNM2hqXTTdl4eicVPDsKO8XjfQ/yT/S6BhKwd6g=
+github.com/imirzadeh/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210302084147-d04e74cfbd75 h1:hgFpF0FD47bHeXbGbjOrOs2ZBquCi3MFgBOlij53jHY=
+github.com/imirzadeh/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210302084147-d04e74cfbd75/go.mod h1:XE16FsMb7jDYPUHVAKSd5EP4Z2jwlkb9WMLiE1WMGsE=
 github.com/wowchemy/wowchemy-hugo-modules v0.29.0 h1:tmZeM85lHRB8U0L6xT5bLFgq6p84CqmjM4FMRK1B1jg=
 github.com/wowchemy/wowchemy-hugo-modules v0.29.1-0.20210211185922-b811f9a1bb9c h1:AKbp/+NPJ6RBUB7MufbwqzD+9R/xA0iO6d9byNcHMPg=
 github.com/wowchemy/wowchemy-hugo-modules v4.8.0+incompatible h1:bWdYezLML3TZq5H0Rot4Urwl6HBl1uok5xIDOTqcWC8=
@@ -5,6 +9,8 @@ github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-2021011123
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210111235350-f1da2c5ca88d/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210123180413-7dbc1f73edfd h1:gxYgs31Q7LuGHdD3fe1CIbKzZvZgHlus6ngkl9tYYbU=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210123180413-7dbc1f73edfd/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201204174723-5fa9412f9e76 h1:3vnocWPhhHgIKoXmFjO16GIn0t7uM/Uc17nLRXDFKVI=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201204174723-5fa9412f9e76/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210111235350-f1da2c5ca88d h1:yWf9Wc+VloKk3c1lI7OTrf6WjNxPVf1JRkd3b71RCKA=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210111235350-f1da2c5ca88d/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210123180413-7dbc1f73edfd h1:dMMvFBC6oOVTVt28kM8VlnNcKUGnMwtdGbLd0MdPywY=
