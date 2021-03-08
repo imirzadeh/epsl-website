@@ -2,6 +2,7 @@
 title: Transfer Learning from Speaker Verification to Multispeaker
   Text-To-Speech Synthesis
 abstract: " "
+author: "Asiful Arefeen"
 location: Zoom
 date: 2021-03-01T23:00:00.000Z
 date_end: 2021-03-01T23:30:00.000Z
