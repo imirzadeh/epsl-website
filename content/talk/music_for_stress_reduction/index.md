@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Music_for_stress_reduction"
+title: "Machine learning techniques to predict the effectiveness of music therapy: A randomized controlled trial"
 event:
 event_url:
 location:
