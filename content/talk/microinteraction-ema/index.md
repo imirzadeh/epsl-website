@@ -16,8 +16,8 @@ abstract: "Ecological Momentary Assessment (EMA) is a method of in situ data col
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-03-21T15:00:00-07:00
-date_end: 2021-03-21T15:30:00-07:00
+date: 2021-03-22T15:00:00-07:00
+date_end: 2021-03-22T15:30:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).

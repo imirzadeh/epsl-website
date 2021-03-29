@@ -16,8 +16,8 @@ abstract: "Earthquake signal detection and seismic phase picking are challenging
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-02-21T15:00:00-07:00
-date_end: 2021-02-21T15:30:00-07:00
+date: 2021-02-15T15:00:00-07:00
+date_end: 2021-02-15T15:30:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
