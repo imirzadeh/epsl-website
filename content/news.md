@@ -17,7 +17,7 @@ design:
 ## <center>**2021**</center>
 
 ***
-* \[2020-4\] Ramin's transfer learning paper ("Personalized Activity Recognition using Partially Available Target Data") accepted for publication in IEEE Transactions on Mobile Computing (IEEE TMC).
+* \[2020-4\] Ramin's transfer learning paper ("Personalized Activity Recognition using Partially Available Target Data") accepted for publication in IEEE Transactions on Mobile Computing (TMC).
 
 * \[2020-4\] Mahdi's paper on beverage intake tracking ("LIDS: Mobile System to Monitor Type and Volume of Liquid Intake") accepted to IEEE Sensors Journal (JSEN).
 
