@@ -15,7 +15,7 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: Washington State University
-  url: ""
+  url: "https://mahdipedro.github.io//"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a fourth year PhD student at Washington State University. I work as a research assistant with Professor Hassan Ghasemzadeh. My research topics include embedded systems, health monitoring systems, wearable sensor development, sensor data mining, power optimization, and machine learning. I received my B.S. degree in Computer Cngineering from Amirkabir University of Technology, Tehran, Iran in 2014.    
