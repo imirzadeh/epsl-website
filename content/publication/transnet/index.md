@@ -1,4 +1,6 @@
 ---
+title: "TransNet: Minimally-Supervised Deep Transfer Learning for Dynamic
+  Adaptation of Wearable Systems"
 abstract: Wearables are poised to transform health and wellness through
   automation of cost-effective, objective, and real-time health monitoring.
   However, machine learning models for these systems are designed based on
@@ -19,10 +21,9 @@ abstract: Wearables are poised to transform health and wellness through
   labeled instance for each activity class. This performance improves to an
   accuracy of 92.7% with five labeled instances.
 slides: ""
-publication: "*ACM Transactions on Design Automation of Electronic Systems (TODAES)*"
-publication_types: ["2"]
 url_pdf: null
-summary: ""
+publication_types:
+  - "2"
 authors:
   - Seyed Ali Rokni
   - Marjan Nourollahi
@@ -30,25 +31,25 @@ authors:
   - Mahdi Pedram
   - Iman Mirzadeh
   - Hassan Ghasemzadeh
+doi: ""
+publication: ACM Transactions on Design Automation of Electronic Systems (TODAES)
+featured: false
+tags: []
+categories: []
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
 url_dataset: null
 url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-featured: false
-title: "TransNet: Minimally-Supervised Deep Transfer Learning for Dynamic
-  Adaptation of Wearable Systems"
+projects: []
 date: 2020-07-23
 url_slides: null
-tags: []
-projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-categories: []
 publishDate: 2020-07-23
 url_poster: null
 url_code: https://github.com/ali-rokni/TransNet
-doi: ""
 ---
