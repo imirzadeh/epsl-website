@@ -1,15 +1,16 @@
 ---
-title: "Share-n-Learn: A Framework for Sharing Activity Recognition Models in
-  Wearable Systems with Context-Varying Sensors"
-date: 2019-01-01
-publishDate: 2020-01-14T10:29:11.917Z
+title: "SMobile System to Monitor Type and Volume of Liquid Intake"
+date: 2021-04-15
+publishDate: 2021-04-15T10:29:11.917Z
 publication_types:
   - "2"
 authors:
+  - Mahdi Pedram
+  - Seyed Iman Mirzadeh
+  - Ramin Fallahzadeh
   - Seyed Ali Rokni
   - Hassan Ghasemzadeh
-publication: ACM Transactions on Design Automation of Electronic Systems
-  (TODAES), vol. 24, no. 4, article 39, April 2019
+publication: IEEE Sensors Journal
 abstract: ""
 featured: false
 ---
