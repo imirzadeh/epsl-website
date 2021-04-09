@@ -1,11 +1,16 @@
 ---
-title: "An automatic segmentation technique in body sensor networks based on signal energy"
+title: An automatic segmentation technique in body sensor networks based on
+  signal energy
 date: 2009-01-01
-publishDate: 2020-01-14T10:29:12.044671Z
-authors: ["Eric Guenterberg", "Sarah Ostadabbas", "Hassan Ghasemzadeh", "Roozbeh Jafari"]
-publication_types: ["1"]
+publishDate: 2020-01-14T10:29:12.044Z
+publication_types:
+  - "1"
+authors:
+  - Eric Guenterberg
+  - Sarah Ostadabbas
+  - Hassan Ghasemzadeh
+  - Roozbeh Jafari
+publication: 4th International ICST Conference on Body Area Networks, Los Angeles, CA, USA
 abstract: ""
 featured: false
-publication: "*4th International ICST Conference on Body Area Networks*, Los Angeles, CA, USA"
 ---
-
