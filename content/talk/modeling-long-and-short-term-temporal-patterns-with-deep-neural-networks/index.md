@@ -8,7 +8,7 @@ all_day: false
 links:
   - url: https://dl.acm.org/doi/10.1145/3209978.3210006
     name: paper
-  - url: slides.pdf
+  - url: /slides.pdf
     name: slides
 event: EPSL Spring'21 Seminars
 event_url: " "
