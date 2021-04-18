@@ -13,6 +13,8 @@ event_url: " "
 publishDate: 2021-04-18T20:35:29.743Z
 draft: false
 featured: false
+authors:
+  - asiful-arefeen
 image:
   filename: featured.png
   focal_point: Smart
