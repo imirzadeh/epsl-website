@@ -10,7 +10,9 @@ authors:
   - Josué Pagán Ortiz
   - Hassan Ghasemzadeh
 publication: "IEEE Design, Automation & Test in Europe Conference & Exhibition
-  (DATE), pp. 996-1001, 2017 "
-abstract: ""
+  (DATE)"
+abstract: "With the proliferation of wearable devices in the Internet-of-Things applications, designing highly power-efficient solutions for continuous operation of these technologies in life-critical settings emerges. We propose a novel ultra-low power framework for adaptive compressed sensing in activity recognition. The proposed design uses a coarse-grained activity recognition module to adaptively tune the compressed sensing module for minimized sensing/transmission costs. We pose an optimization problem to minimize activity-specific sensing rates and introduce a polynomial time approximation algorithm using a novel heuristic dynamic optimization tree. Our evaluations on real-world data shows that the proposed autonomous framework is capable of generating feedback with -80% confidence and improves power reduction performance of the state-of-the-art approach by a factor of two."
+summary: " "
 featured: false
+projects: ["Edge-AI"]
 ---
