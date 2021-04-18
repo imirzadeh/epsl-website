@@ -7,11 +7,13 @@ date: 2021-03-08T23:00:00.000Z
 date_end: 2021-03-08T23:30:00.000Z
 all_day: false
 links:
-  - url: "https://arxiv.org/pdf/2004.13332.pdf"
+  - url: https://arxiv.org/pdf/2004.13332.pdf
     name: paper
+  - url: slides.pdf
+    name: slides
 event: "EPSL Spring'21 Seminars "
 event_url: " "
-publishDate: 2021-04-18T20:52:23.356Z
+publishDate: 2021-03-08T23:55:00.000Z
 draft: false
 featured: false
 authors:
