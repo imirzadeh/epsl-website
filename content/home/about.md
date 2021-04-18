@@ -18,4 +18,7 @@ author = "epsl"
 
 [design]
   columns = "1"
+
+[design.background]
+color = "#fff"
 +++
