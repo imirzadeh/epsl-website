@@ -8,6 +8,8 @@ all_day: false
 links:
   - url: https://arxiv.org/pdf/1706.03762.pdf
     name: paper
+  - url: slides.pptx
+    name: slides
 event: EPSL Seminars - Spring'21
 event_url: " "
 publishDate: 2021-04-18T20:35:29.743Z
