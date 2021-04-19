@@ -1,5 +1,5 @@
 ---
-title: "SMobile System to Monitor Type and Volume of Liquid Intake"
+title: "Mobile System to Monitor Type and Volume of Liquid Intake"
 date: 2021-04-15
 publishDate: 2021-04-15T10:29:11.917Z
 publication_types:
@@ -9,6 +9,8 @@ authors:
   - Seyed Iman Mirzadeh
   - Ramin Fallahzadeh
   - Seyed Ali Rokni
+  - Diane Myung-kyung Woodbridge
+  - Sunghoon Ivan Lee
   - Hassan Ghasemzadeh
 publication: IEEE Sensors Journal
 abstract: ""
