@@ -8,8 +8,7 @@ all_day: false
 links:
   - url:https://ieeexplore.ieee.org/document/9141332
     name: paper
-  - url:
-    name: 
+	
 event: EPSL Spring'21 Seminars
 event_url: " "
 publishDate: 2021-04-12T20:56:00.000Z
