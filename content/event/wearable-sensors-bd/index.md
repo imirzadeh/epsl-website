@@ -16,7 +16,7 @@ publishDate: 2021-04-12T20:56:00.000Z
 draft: false
 featured: false
 authors:
-  - pedram-mahdi
+  - mahdi-pedram
 image:
   filename: bd.jpg
   focal_point: Smart
