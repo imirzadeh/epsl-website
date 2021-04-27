@@ -25,6 +25,7 @@ publishDate: 2021-04-26T22:00:00.000Z
 tags: []
 projects: []
 image:
+  filename: featured.png
   caption: ""
   focal_point: Smart
   preview_only: false
