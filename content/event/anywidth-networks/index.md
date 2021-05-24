@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: CVPR paper review: Any-Width Networks
+summary:  Review of the "Any-Width Networks" from CVPR 2020 workshops.
 abstract:
 
 # Talk start and end times.
@@ -49,7 +49,7 @@ image:
 url_slides: slides.pptx
 
 url_code:
-url_pdf: https://openaccess.thecvf.com/content_CVPRW_2020/papers/w40/Vu_Any-Width_Networks_CVPRW_2020_paper.pdf
+url_pdf: "https://openaccess.thecvf.com/content_CVPRW_2020/papers/w40/Vu_Any-Width_Networks_CVPRW_2020_paper.pdf"
 url_video:
 
 # Markdown Slides (optional).
