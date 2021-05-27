@@ -8,7 +8,8 @@ publication_types:
 authors:
   - Yuchao Ma
   - Hassan Ghasemzadeh
-publication: IEEE/ACM Design, Automation and Test in Europe (DATE)
+publication: IEEE/ACM Design, Automation and Test in Europe (DATE), March 27-31,
+  2017, Lausanne, Switzerland
 abstract: ""
 featured: false
 ---
