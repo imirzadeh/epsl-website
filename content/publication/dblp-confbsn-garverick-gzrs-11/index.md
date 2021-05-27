@@ -10,7 +10,8 @@ authors:
   - Mark Zurcher
   - Masoud Roham
   - Enrique Saldivar
-publication: 8th IEEE Conference on Body Sensor Networks (BSN 2011), Dallas, TX, USA
+publication: The 8th International Conference on Body Sensor Networks (BSN), May
+  23-25, 2011, Dallas, TX
 abstract: ""
 featured: false
 ---
