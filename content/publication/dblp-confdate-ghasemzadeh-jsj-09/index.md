@@ -10,8 +10,8 @@ authors:
   - Nisha Jain
   - Marco Sgroi
   - Roozbeh Jafari
-publication: Design, Automation & Test in Europe Conference & Exhibition (DATE),
-  pp. 358-363, 2009
+publication: IEEE/ACM Design, Automation and Test in Europe (DATE), April 20-24
+  2009, Nice, France
 abstract: ""
 featured: false
 ---
