@@ -1,5 +1,5 @@
 ---
-title: "Mobile System to Monitor Type and Volume of Liquid Intake"
+title: "LIDS: Mobile System to Monitor Type and Volume of Liquid Intake"
 date: 2021-04-15
 publishDate: 2021-04-15T10:29:11.917Z
 publication_types:
@@ -12,7 +12,7 @@ authors:
   - Diane Myung-kyung Woodbridge
   - Sunghoon Ivan Lee
   - Hassan Ghasemzadeh
-publication: IEEE Sensors Journal
+publication: IEEE Sensors Journal (JSEN), May 2021
 abstract: ""
 featured: false
 ---
