@@ -12,7 +12,7 @@ authors:
   - Hassan Ghasemzadeh
   - Roozbeh Jafari
 publication: International Conference on Information Processing in Sensor
-  Networks (IPSN), April 2008, St. Louis, MO. (Demo Abstract)
+  Networks (IPSN), April 2008, St. Louis, MO
 abstract: ""
 featured: false
 ---
