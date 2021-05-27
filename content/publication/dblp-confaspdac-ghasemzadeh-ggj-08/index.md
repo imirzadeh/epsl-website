@@ -9,8 +9,8 @@ authors:
   - Eric Guenterberg
   - Katherine Gilani
   - Roozbeh Jafari
-publication: 13th Asia and South Pacific Design Automation Conference (ASP-DAC
-  2008), Seoul, Korea
+publication: ACM/IEEE Asia and South Pacific Design Automation Conference
+  (ASP-DAC), January 2008, Seoul, Korea
 abstract: ""
 featured: false
 ---
