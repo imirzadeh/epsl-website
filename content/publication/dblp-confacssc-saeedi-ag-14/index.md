@@ -8,8 +8,8 @@ authors:
   - Ramyar Saeedi
   - Navid Amini
   - Hassan Ghasemzadeh
-publication: "48th Asilomar Conference on Signals, Systems, and Computers,
-  Pacific Grove, CA, USA "
+publication: The 48th Asilomar Conference on Signals, Systems and
+  Computers,  November 2-5, 2014, Pacific Grove, CA, USA
 abstract: ""
 featured: false
 ---
