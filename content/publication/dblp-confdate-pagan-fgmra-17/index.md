@@ -12,8 +12,8 @@ authors:
   - José Manuel Moya
   - José Luis Risco-Martín
   - José L. Ayala
-publication: In Design, Automation & Test in Europe Conference & Exhibition
-  (DATE), 2017 (pp. 1297-1302). IEEE.
+publication: IEEE/ACM Design, Automation and Test in Europe (DATE), March 27-31,
+  2017, Lausanne, Switzerland
 abstract: ""
 featured: false
 ---
