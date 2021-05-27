@@ -11,8 +11,8 @@ authors:
   - Wesley Daniel Thorsen
   - Evan Conley Coleman
   - Hassan Ghasemzadeh
-publication: 15th IEEE International Conference on Wearable and Implantable Body
-  Sensor Networks (BSN 2018), Las Vegas, NV, USA
+publication: IEEE International Conference on Wearable and Implantable Body
+  Sensor Networks (BSN), March 4-7, 2018, Las Vegas, NV
 abstract: ""
 featured: false
 ---
