@@ -32,7 +32,8 @@ authors:
   - Iman Mirzadeh
   - Hassan Ghasemzadeh
 doi: ""
-publication: ACM Transactions on Design Automation of Electronic Systems (TODAES)
+publication: "ACM Transactions on Design Automation of Electronic Systems
+  (TODAES), Article 5, September 2020 "
 featured: false
 tags: []
 categories: []
