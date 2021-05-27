@@ -11,7 +11,7 @@ authors:
   - Aaron Crandall
   - Hassan Ghasemzadeh
 publication: IEEE Transactions on Sustainable Computing (TSUSC), vol. 5, no. 1,
-  pp.1–12, January–March 2020
+  pp.1–12, January - March 2020
 featured: false
 date: 2020-01-01
 publishDate: 2020-04-01T11:09:15.764Z
