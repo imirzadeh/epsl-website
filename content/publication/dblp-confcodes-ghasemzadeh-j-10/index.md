@@ -8,8 +8,8 @@ publication_types:
 authors:
   - Hassan Ghasemzadeh
   - Roozbeh Jafari
-publication: IEEE/ACM/IFIP International Conference on Hardware/Software
-  Codesign and System Synthesis (CODES+ ISSS), pp. 195-204, 2010
+publication: The International Conference on Hardware-Software Codesign and
+  System Synthesis (CODES+ISSS), October 24-29, 2010, Scottsdale, AZ
 abstract: ""
 featured: false
 ---
