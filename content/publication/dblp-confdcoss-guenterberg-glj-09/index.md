@@ -10,8 +10,8 @@ authors:
   - Hassan Ghasemzadeh
   - Vitali Loseu
   - Roozbeh Jafari
-publication: In International Conference on Distributed Computing in Sensor
-  Systems (DCOSS), 2009, pp. 145-158.
+publication: IEEE International Conference on Distributed Computing in Sensor
+  Systems (DCOSS), June 2009, Marina Del Rey, CA
 abstract: ""
 featured: false
 ---
