@@ -8,8 +8,8 @@ authors:
   - Ramyar Saeedi
   - Hassan Ghasemzadeh
   - Assefaw Hadish Gebremedhin
-publication: 2016 IEEE International Conference on Big Data (IEEE BigData 2016),
-  Washington DC, USA
+publication: IEEE International Conference on Big Data (BigData), December 5-8,
+  2016, Washington DC, USA
 abstract: ""
 featured: false
 ---
