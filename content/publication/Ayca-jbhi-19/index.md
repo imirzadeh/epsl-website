@@ -9,7 +9,8 @@ authors:
   - Ayca Aygun
   - Hassan Ghasemzadeh
   - Roozbeh Jafari
-publication: IEEE Journal of Biomedical and Health Informatics (JBHI), December 2019
+publication: IEEE Journal of Biomedical and Health Informatics (JBHI), vol. 24,
+  no. 8, pp. 2238-2250, August 2020
 abstract: ""
 featured: false
 ---
