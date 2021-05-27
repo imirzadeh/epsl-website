@@ -10,7 +10,8 @@ authors:
   - Sarah Ostadabbas
   - Hassan Ghasemzadeh
   - Roozbeh Jafari
-publication: 4th International ICST Conference on Body Area Networks, Los Angeles, CA, USA
+publication: The Fourth International Conference on Body Area Networks
+  (BodyNets), April 1st-3rd 2009, Los Angeles, CA
 abstract: ""
 featured: false
 ---
