@@ -11,7 +11,8 @@ authors:
   - Thomas Wilkerson
   - Hassan Ghasemzadeh
   - Majid Sarrafzadeh
-publication: IEEE Journal of Biomedical and Health Informatics, 18(2), pp.449-456, 2013
+publication: IEEE Journal of Biomedical and Health Informatics (JBHI), 18(2),
+  pp.449-456, 2013
 abstract: ""
 featured: false
 ---
