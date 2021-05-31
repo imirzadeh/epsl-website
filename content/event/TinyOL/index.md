@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Adding Online-Learning ability to TinyML. 
 abstract:
 
 # Talk start and end times.
