@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Mahdi Pedram
-  - Seyed Iman Mirzadeh
+  - Iman Mirzadeh
   - Ramin Fallahzadeh
   - Seyed Ali Rokni
   - Diane Myung-kyung Woodbridge
