@@ -17,6 +17,8 @@ design:
 ## <center>**2021**</center>
 
 ***
+* \[2020-6\] Two EPSL papers (one on continual learning and one on stress classification) have been accepted to the IEEE Body Sensor Networks (BSN'21) conference.
+
 * \[2020-6\] Our work on "Associations between Physiological Signals and Self-Reported Outcomes among Patients in Alcohol Use Disorder Recovery" accepted for publication in Journal of Medical Internet Research (JMIR).
 
 * \[2020-4\] Iman's "CL-Gym: Full-Featured PyTorch Library for Continual Learning" paper accepted to the Workshop on Continual Learning in Computer Vision (CVPR 2021).
