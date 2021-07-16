@@ -36,6 +36,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://mahdipedro.github.io//
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mahdipedro
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mahdi.pedram@wsu.edu"
