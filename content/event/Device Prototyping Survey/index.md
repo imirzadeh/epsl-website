@@ -49,7 +49,7 @@ image:
 url_slides: slides.pdf
 
 url_code:
-url_pdf: https://dl.acm.org/doi/10.1145/3463523
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3463523?casa_token=2l8_HgK0qygAAAAA:SekwiShFM_GasO74NXL897MIXjcdMeoCESDKDCvezKuQkAaSg-1QJ2S1ovw4ckQ-8tLEDzBE4_9F
 url_video:
 
 # Markdown Slides (optional).
