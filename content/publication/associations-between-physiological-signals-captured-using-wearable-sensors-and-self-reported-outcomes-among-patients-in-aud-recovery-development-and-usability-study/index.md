@@ -23,7 +23,7 @@ abstract: The current research is designed as a proof-of-concept study to
   between the statistical features extracted from the EDA and HRV signals and
   patient-reported outcomes.
 draft: false
-featured: false
+featured: true
 image:
   filename: association_jmir.png
   focal_point: Smart

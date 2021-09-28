@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ramesh Kumar Sah
+title: Ramesh Sah
 
 # Username (this should match the folder name)
 authors:
@@ -41,4 +41,4 @@ user_groups:
 - PhD Students
 ---
 ## About Me
-I am PhD student and graduate research assistant in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman. I work with Dr. Hassan Ghasemzadeh in areas of embedded systems and machine learning for healthcare applications. I
+I am PhD student and graduate research assistant in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman. I work with Dr. Hassan Ghasemzadeh in areas of embedded systems and machine learning for healthcare applications.
