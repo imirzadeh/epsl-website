@@ -18,7 +18,7 @@ organizations:
   url: "https://rameshkrsah.github.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, I am a PhD student in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman. I work with Dr. Hassan Ghasemzadeh in areas such as robust machine learning and adversarial methods in wearable sensor systems.
+bio: I am a PhD student in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman.
 
 # Social/Academic Networking
 social:
@@ -41,5 +41,4 @@ user_groups:
 - PhD Students
 ---
 ## About Me
-I am PhD student and graduate research assistant in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman. I work with Dr. Hassan Ghasemzadeh in areas such are robust machine learning and adversarial methods for
-wearable sensor systems.
+I am PhD student and graduate research assistant in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman. I work with Dr. Hassan Ghasemzadeh in areas of embedded systems and machine learning for healthcare applications. I
