@@ -17,6 +17,7 @@ design:
 ## <center>**2021**</center>
 
 - - -
+* \[2021-11] Congratulations to Mahdi on successfully defending his PhD dissertation. Dr. Pedram will join Northwestern University as a Postdoctoral Researcher in January 2022.
 * \[2021-10] Our paper titled "Comparing the Predictability of Sensor Modalities to Detect Stress from Wearable Sensor Data" accepted for oral presentation at IEEE Consumer Communications & Networking Conference (ICCNC 2022). Congratulations to our former REU student, Ryan, who serves as lead author on this paper.
 * \[2020-6] Two EPSL papers (one on continual learning and one on stress classification) have been accepted to the IEEE Body Sensor Networks (BSN'21) conference.
 * \[2021-6] Our work on "Associations between Physiological Signals and Self-Reported Outcomes among Patients in Alcohol Use Disorder Recovery" accepted for publication in Journal of Medical Internet Research (JMIR).
