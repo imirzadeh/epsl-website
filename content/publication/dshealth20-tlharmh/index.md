@@ -1,12 +1,6 @@
 ---
 title: Transfer Learning for Activity Recognition in Mobile Health
-abstract: While activity recognition from inertial sensors holds potential for
-  mobile health, differences in sensing platforms and user movement patterns
-  cause performance degradation. Aiming to address these challenges, we propose
-  a transfer learning framework, TransFall1 ,for sensor-based activity
-  recognition. TransFall’s design contains a two-tier data transformation, a
-  label estimation layer, and a model generation layer to recognize activities
-  for the new scenario. We validate TransFall analytically and empirically.
+abstract: ""
 slides: ""
 url_pdf: https://arxiv.org/abs/2007.06062
 publication_types:
