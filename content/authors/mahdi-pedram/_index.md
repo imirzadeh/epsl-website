@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Graduate Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ email: "mahdi.pedram@wsu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 ## About Me
 I am a PhD candidate at Washington State University (WSU). I work as a research assistant with Professor Hassan Ghasemzadeh. My research topics include embedded systems, health monitoring systems, wearable sensor development, sensor data mining, power optimization, and machine learning. Before joining WSU, I received my B.S. degree in Computer Engineering from Amirkabir University of Technology, Tehran, Iran in 2014.
