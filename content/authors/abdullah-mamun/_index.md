@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Grad Research Associate
 
 # Organizations/Affiliations
 organizations:
 - name: Arizona State University
-
+  url: "https://abdullah-mamun.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at the ASU Health Futures Center under the supervision of Dr. Hassan Ghasemzadeh.
