@@ -10,7 +10,7 @@ links:
     name: paper
   - url: slides.pdf
     name: slides
-event: EPSL Spring'21 Seminars
+event: EPSL Summer'21 Seminars
 event_url: " "
 publishDate: 2021-06-28T20:56:00.000Z
 draft: false
