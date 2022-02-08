@@ -14,11 +14,11 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Washington State University
+- name: Arizona State University
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student at Washington State University. I work as a Research Assistant at the Embedded and Pervasive System Laboratory (EPSL) under the supervision of Dr. Hassan Ghasemzadeh.
+bio: I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at the ASU Health Futures Center under the supervision of Dr. Hassan Ghasemzadeh.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -27,7 +27,7 @@ bio: I am a Ph.D. student at Washington State University. I work as a Research A
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:abdullahal.mamun1@wsu.edu
+  link: mailto:a.mamun@asu.edu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ab9mamun/
@@ -46,4 +46,4 @@ user_groups:
 - PhD Students
 ---
 ## About Me
-I am a Ph.D. student at Washington State University. I work as a Research Assistant at the Embedded and Pervasive System Laboratory (EPSL) under the supervision of Dr. Hassan Ghasemzadeh.
+I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at the ASU Health Futures Center under the supervision of Dr. Hassan Ghasemzadeh.
