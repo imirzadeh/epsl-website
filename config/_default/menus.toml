@@ -34,8 +34,8 @@
   weight = 50
 
 [[main]]
-  name = "REU-2021"
-  url = "/reu-2021"
+  name = "REU-2022"
+  url = "/reu-2022"
   weight = 55
 
 [[main]]
