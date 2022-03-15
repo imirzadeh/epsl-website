@@ -25,6 +25,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:n.hezarjaribi@wsu.edu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/niloo-jaribi/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "random@wsu.edu"

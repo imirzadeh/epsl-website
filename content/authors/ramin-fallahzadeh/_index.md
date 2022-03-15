@@ -25,6 +25,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=A-Yey0AAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rfallahz/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "random@wsu.edu"

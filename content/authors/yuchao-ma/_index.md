@@ -28,6 +28,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Qpq6SXoAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yuchao-ma-a04531115/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "random@wsu.edu"
