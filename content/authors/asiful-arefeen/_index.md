@@ -1,18 +1,14 @@
 ---
 role: Research Assistant
 organizations:
-  - name: Washington State University
+  - name: Arizona State University
 superuser: true
 authors:
   - asiful-arefeen
 title: Asiful Arefeen
-bio: I am a PhD student at Washington State University (WSU). I am working under
-  the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive
-  Systems Lab (EPSL).  My research topics include embedded systems, health
-  monitoring systems, wearable sensor development and machine learning.  Before
-  joining WSU, I received my B.S. degree in Electrical and Electronic
-  Engineering from Bangladesh University of Engineering & Technology (BUET) in
-  2019.
+bio: I am a PhD student at Arizona State University (ASU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive Systems Lab (EPSL). My research topics include machine learning, health monitoring system development and mobile health. I received my B.S. in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019.
+
+Visit my website (here)[arefeen06088.github.io]
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,4 +24,4 @@ user_groups:
 ---
 ## About Me
 
-I am a PhD student at Arizona State University (WSU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive Systems Lab (EPSL). My research topics include embedded systems, health monitoring systems, wearable sensor development and machine learning. Before joining WSU, I received my B.S. degree in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019.
+I am a PhD student at Arizona State University (ASU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive Systems Lab (EPSL). My research topics include machine learning, health monitoring system development and mobile health. I received my B.S. in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019.
