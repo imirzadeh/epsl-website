@@ -1,34 +1,49 @@
 ---
-title: Asiful Arefeen
+# Display name
+title: Abdullah Mamun
 
+# Username (this should match the folder name)
 authors:
-  - asiful-arefeen
+- abdullah-mamun
 
+# Is this the primary user of the site?
 superuser: true
 
-role: Graduate Research Assistant
+# Role/position
+role: Grad Research Associate
 
+# Organizations/Affiliations
 organizations:
 - name: Arizona State University
-  url: "https://www.asu.edu/"
+  url: "https://abdullah-mamun.com"
 
-bio: I am a PhD student at Arizona State University (ASU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive Systems Lab (EPSL). My research topics include machine learning, health monitoring system development and mobile health. I received my B.S. in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019.
+# Short bio (displayed in user profile at end of posts)
+bio: I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at the ASU Health Futures Center under the supervision of Dr. Hassan Ghasemzadeh.
 
-Visit my website [here](https://arefeen06088.github.io/).
-
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:asiful.arefeen@wsu.edu
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Asiful_Arefeen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/asiful-arefeen-514208aa/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:a.mamun@asu.edu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ab9mamun/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ab9mamun/
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+- PhD Students
 ---
 ## About Me
-
-I am a PhD student at Arizona State University (ASU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive Systems Lab (EPSL). My research topics include machine learning, health monitoring system development and mobile health. I received my B.S. in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019.
+I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at the ASU Health Futures Center under the supervision of Dr. Hassan Ghasemzadeh.
