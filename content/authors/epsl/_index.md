@@ -14,8 +14,8 @@ role: Research Lab
 
 # Organizations/Affiliations
 organizations:
-- name: Washington State University
-  url: ""
+- name: Arizona State University
+  url: "https://www.asu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: The current focus of our research in the Embedded and Pervasive Systems Lab (EPSL) is on design, development, and validation of algorithms, tools, and technologies that enhance utilization and large-scale adoption of medical embedded systems.  To validate and refine the new technology, we conduct clinical studies involving patients with heart failure, diabetes, cancer, visual impairment, and gait difficulties. Clinical studies are conducted in collaboration with partners from Elson S. Floyd College of Medicine, College of Nursing, College of Pharmacy, College of Education, and College of Agricultural, Human, and Natural Resource Science at WSU as well as our collaborators at Pullman Regional Hospital, UCLA School of Medicine, UCLA Stein Eye Institute, UC-Irvine Nursing Science, and Memorial Sloan Kettering Cancer Center (MSKCC). This end-to-end approach results in innovative, evidence-based and cost-conscious solutions for patients, doctors and medical centers.
