@@ -19,7 +19,7 @@ Visit my website [here](https://arefeen06088.github.io/).
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:asiful.arefeen@wsu.edu
+    link: mailto:aarefeen@asu.edu
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Asiful_Arefeen
