@@ -40,3 +40,6 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
+Lab Alumni.
+
+Dr Parastoo is an Applied Scientist at Amazon, Atlanta, GA.

@@ -40,4 +40,6 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni
+Lab Alumni.
+
+Dr Yuchao is an Applied Scientist at Amazon, Seattle, WA.

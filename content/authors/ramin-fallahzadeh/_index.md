@@ -37,4 +37,6 @@ social:
 user_groups:
 - Alumni
 ---
-Lab Alumni
+Lab Alumni.
+
+Dr Ramin is a Senior Applied Scientist at GROQ Health, NY.

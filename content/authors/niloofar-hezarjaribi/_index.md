@@ -37,4 +37,6 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni
+Lab Alumni.
+
+Dr Niloofar is a Software Engineer at Microsoft, Bellevue, WA.

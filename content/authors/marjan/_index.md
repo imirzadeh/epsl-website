@@ -34,4 +34,6 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni
+Lab Alumni.
+
+Dr Marjan is a Machine Learning Engineer at ROMBOT, San Jose, CA.

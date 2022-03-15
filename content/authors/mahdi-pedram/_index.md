@@ -48,4 +48,6 @@ email: "mahdi.pedram@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni
+Lab Alumni.
+
+Dr Mahdi is a Postdoctoral Researcher at Northwestern University, Chicago, IL.

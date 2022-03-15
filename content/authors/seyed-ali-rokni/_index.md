@@ -37,4 +37,6 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni
+Lab Alumni.
+
+Dr Ali is now working as a Machine Learning Engineer (Tech Lead) at Yelp, San Francisco, CA.
