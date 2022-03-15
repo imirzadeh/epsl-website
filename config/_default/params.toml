@@ -82,16 +82,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "epsl@wsu.edu"
+email = "hassan.ghasemzadeh@asu.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "114 Dana Hall, 355 Spokane Street", city = "Pullman", region = "WA", postcode = "99164", country = "United States", country_code = "US"}
+address = {street = "218 Health Futures Center, 6161 E Mayo Blvd", city = "Phoenix", region = "AZ", postcode = "85054", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "46.7296718", longitude = "-117.1710468"}
+coordinates = {latitude = "33.660382004079636", longitude = "-111.95861350959794"}, 
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
