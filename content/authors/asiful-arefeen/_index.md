@@ -1,12 +1,15 @@
 ---
 role: Research Assistant
 organizations:
-  - name: Arizona State University
+- name: Arizona State University
+  url: https://www.asu.edu/
 superuser: true
 authors:
   - asiful-arefeen
 title: Asiful Arefeen
 bio: I am a PhD student at Arizona State University (ASU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded and Pervasive Systems Lab (EPSL). My research topics include machine learning, health monitoring system development and mobile health. I received my B.S. in Electrical and Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019.
+
+Visit my website [here](arefeen06088.github.io/).
 
 social:
   - icon: envelope
