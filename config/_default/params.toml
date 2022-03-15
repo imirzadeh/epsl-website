@@ -91,7 +91,7 @@ address = {street = "218 Health Futures Center, 6161 E Mayo Blvd", city = "Phoen
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.660382004079636", longitude = "-111.95861350959794"}, 
+coordinates = {latitude = "46.7296718", longitude = "-117.1710468"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
