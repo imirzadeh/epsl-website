@@ -39,4 +39,4 @@ user_groups:
 ---
 Lab Alumni.
 
-Dr Ramin is a Senior Applied Scientist at GROQ Health, NY.
+Ramin Fallahzadeh is a Senior Applied Scientist at GROQ Health, NY.

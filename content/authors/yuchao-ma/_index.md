@@ -42,4 +42,4 @@ user_groups:
 ---
 Lab Alumni.
 
-Dr Yuchao is an Applied Scientist at Amazon, Seattle, WA.
+Yuchao Ma is an Applied Scientist at Amazon, Seattle, WA.

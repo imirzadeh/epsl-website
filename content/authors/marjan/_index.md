@@ -36,4 +36,4 @@ user_groups:
 ---
 Lab Alumni.
 
-Dr Marjan is a Machine Learning Engineer at ROMBOT, San Jose, CA.
+Marjan Nourollahi is a Machine Learning Engineer at ROMBOT, San Jose, CA.

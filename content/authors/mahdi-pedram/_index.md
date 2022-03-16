@@ -50,4 +50,4 @@ user_groups:
 ---
 Lab Alumni.
 
-Dr Mahdi is a Postdoctoral Researcher at Northwestern University, Chicago, IL.
+Mahdi Pedram is a Postdoctoral Researcher at Northwestern University, Chicago, IL.

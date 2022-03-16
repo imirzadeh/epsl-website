@@ -39,4 +39,4 @@ user_groups:
 ---
 Lab Alumni.
 
-Dr Ali is now working as a Machine Learning Engineer (Tech Lead) at Yelp, San Francisco, CA.
+Ali Rokni is working as a Machine Learning Engineer (Tech Lead) at Yelp, San Francisco, CA.

@@ -39,4 +39,4 @@ user_groups:
 ---
 Lab Alumni.
 
-Dr Niloofar is a Software Engineer at Microsoft, Bellevue, WA.
+Niloofar Hezarjaribi is a Software Engineer at Microsoft, Bellevue, WA.

@@ -42,4 +42,4 @@ user_groups:
 ---
 Lab Alumni.
 
-Dr Parastoo is an Applied Scientist at Amazon, Atlanta, GA.
+Parastoo Alinia is an Applied Scientist at Amazon, Atlanta, GA.
