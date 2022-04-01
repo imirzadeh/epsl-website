@@ -17,8 +17,7 @@ publishDate: 2022-03-31T01:22:35-07:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "44th IEEE Engineering in Medicine and Biology Society
-  Conference (EMBC), Jul. 11-15, 2022, Glasgow, Scotland, UK"
+publication: "IEEE Engineering in Medicine and Biology Conference (EMBC), 2022"
 publication_short: ""
 
 abstract: ""
