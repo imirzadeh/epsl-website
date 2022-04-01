@@ -17,7 +17,13 @@ design:
 ## <center>**2022**</center>
 
 - - -
+
+* \[2022-3] Ramesh's "Stressalyzer: Convolutional Neural Network Framework for Personalized Stress Classification" paper accepted for publication at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).
+
+* \[2022-3] Our "Continual Learning for Activity Recognition" paper accepted for publication at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).
+
 * \[2022-3] Our paper titled "Designing Deep Neural Networks Robust to Sensor Failure in Mobile Health Environments" got accepted at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).
+
 * \[2022-3] Our paper titled "Boosting Lying Posture Classification with Transfer Learning" got accepted at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).
 
 - - -
