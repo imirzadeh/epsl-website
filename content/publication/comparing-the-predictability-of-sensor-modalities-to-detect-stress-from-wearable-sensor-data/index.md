@@ -3,7 +3,7 @@ title: Comparing the Predictability of Sensor Modalities to Detect Stress from
   Wearable Sensor Data
 abstract: ""
 slides: ""
-url_pdf: null
+url_pdf: https://drive.google.com/file/d/1alWRUM3GnjkK4WvUQY_khUsciYgjcwvQ/view?usp=sharing
 publication_types:
   - "1"
 authors:
