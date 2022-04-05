@@ -26,6 +26,8 @@ design:
 
 * \[2022-3] Our paper titled "Boosting Lying Posture Classification with Transfer Learning" got accepted at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).
 
+* \[2022-3] Asif received Garduate College University Grant from ASU for 2022-2023 session.
+
 - - -
 
 ## <center>**2021**</center>
