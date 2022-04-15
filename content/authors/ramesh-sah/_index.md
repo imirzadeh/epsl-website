@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ramesh Sah
+title: Ramesh Kumar Sah
 
 # Username (this should match the folder name)
 authors:
@@ -15,10 +15,10 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: Washington State University
-  url: "https://rameshkrsah.github.io"
+  url: "https://wsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman.
+bio: I am a Computer Science PhD student in the Embedded Machine Intelligence Laboratory (EMIL) at Washington State University, Pullman.
 
 # Social/Academic Networking
 social:
@@ -41,4 +41,4 @@ user_groups:
 - PhD Students
 ---
 ## About Me
-I am PhD student and graduate research assistant in the Embedded and Pervasive System Laboratory (EPSL) at Washington State University, Pullman. I work with Dr. Hassan Ghasemzadeh in areas of embedded systems and machine learning for healthcare applications.
+Hi, I am a Computer Science Ph.D. student at Washington State University (WSU). My research aims to enable and assist people by inventing technologies and processes that promote well-being and help make healthy decisions. I study stress and the implications of stress in daily living conditions. In particular, I am interested in developing intelligent mobile health systems that can detect moments of stress in real-time using machine learning and sensor systems to generate health assessment opportunities and interventions strategies to transform and improve people’s lives. I use embedded sensor systems to collect time-series data related to various bio-markers and train state-of-the-art machine learning models while addressing class imbalance, noisy labels, and small datasets issues. To learn more about me [website](https://rameshkrsah.github.io/).
