@@ -42,10 +42,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Embedded & Pervasive Systems Lab"
+org_name = "Embedded Machine Intelligence Lab"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Embedded & Pervasive Systems Lab"
+description = "Embedded Machine Intelligence Lab"
 
 ############################
 ## Site Features

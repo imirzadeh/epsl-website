@@ -36,12 +36,12 @@ design:
 
 * \[2021-11] Congratulations to Mahdi on successfully defending his PhD dissertation. Dr. Pedram will join Northwestern University as a Postdoctoral Researcher in January 2022.
 * \[2021-10] Our paper titled "Comparing the Predictability of Sensor Modalities to Detect Stress from Wearable Sensor Data" accepted for oral presentation at IEEE Consumer Communications & Networking Conference (ICCNC 2022). Congratulations to our former REU student, Ryan, who serves as lead author on this paper.
-* \[2020-6] Two EPSL papers (one on continual learning and one on stress classification) have been accepted to the IEEE Body Sensor Networks (BSN'21) conference.
+* \[2020-6] Two EMIL papers (one on continual learning and one on stress classification) have been accepted to the IEEE Body Sensor Networks (BSN'21) conference.
 * \[2021-6] Our work on "Associations between Physiological Signals and Self-Reported Outcomes among Patients in Alcohol Use Disorder Recovery" accepted for publication in Journal of Medical Internet Research (JMIR).
 * \[2021-4] Iman's "CL-Gym: Full-Featured PyTorch Library for Continual Learning" paper accepted to the Workshop on Continual Learning in Computer Vision (CVPR 2021).
 * \[2021-4] Ramin's transfer learning paper ("Personalized Activity Recognition using Partially Available Target Data") accepted for publication in IEEE Transactions on Mobile Computing (TMC).
 * \[2021-4] Mahdi's paper on beverage intake tracking ("LIDS: Mobile System to Monitor Type and Volume of Liquid Intake") accepted to IEEE Sensors Journal (JSEN).
-* \[2021-1] Abdullah Mamun joined EPSL as a PhD student.
+* \[2021-1] Abdullah Mamun joined EMIL as a PhD student.
 * \[2021-1] Our paper ["Linear Mode Connectivity in Multitask and Continual Learning"](https://openreview.net/forum?id=Fmg_fQYUejf) has been accepted to ICLR 2021 (acceptance rate 26.5%).
 
 - - -
@@ -67,7 +67,7 @@ design:
 * \[2020-4] Congratulations to Parastoo on successfully defending his PhD dissertation.
 * \[2020-4] Iman's <em> ''Dropout as an Implicit Gating Mechanism For Continual Learning''</em> paper accepted for **CVPR 2020** Workshops.
 * \[2020-2] Niloofar's "Human-in-the-loop Learning for Personalized Diet Monitoring from Unstructured Mobile Data" paper has been selected as one of the three 2019 best paper candidates and received an honorable mention by the ACM TiiS journal.
-* \[2020-1] EPSL has a new website!
+* \[2020-1] EMIL has a new website!
 
 - - -
 
@@ -106,7 +106,7 @@ design:
 * \[2018-07] Our Plug-n-Learn paper listed as Featured Article of the IEEE TMC August 2018 Issue.
 * \[2018-07] Congratulations to Ramin on successfully defending his PhD dissertation. Dr. Fallahzadeh will join Stanford University as a Postdoctoral Fellow in August 2018!
 * \[2018-07] Congratulations to Ali on successfully defending his PhD dissertation. Dr. Rokni will join Yelp, Inc. as a Machine Learning Engineer in August 2018!
-* \[2018-06] Deontae Pharr, a former EPSL REU student, admitted to computer science masters program at Georgia State University.
+* \[2018-06] Deontae Pharr, a former EMIL REU student, admitted to computer science masters program at Georgia State University.
 * \[2018-06] Ramin to join Stanford University as a Postdoctoral Fellow in Fall 2018.
 * \[2018-05] Our group received the National Science Foundation CAREER Award. Thanks NSF!
 * \[2018-05] CAREER Award in WSU News!
@@ -214,7 +214,7 @@ design:
 * \[2015-10] Our glaucoma research featured in WSU News, Science Newsline, MDT Magazine, Health Canal, Science Codex, Science Daily,  Medical News Net.
 * \[2015-10] Our paper on "usability and acceptability of remote monitoring to manage heart failure" accepted for publication in Gerontology and Geriatric Medicine
 * \[2015-10] Hassan serving as Demo Chair of The 2nd IEEE International Conference on Smart Computing (SMARTCOMP 2016)
-* \[2015-09]  Computer Science undergrad Sebastian Duboc joined EPSL as an LSAMP Scholar
+* \[2015-09]  Computer Science undergrad Sebastian Duboc joined EMIL as an LSAMP Scholar
 * \[2015-07] Yuchao is awarded a scholarship grant to attend the 2015 Grace Hopper Celebration of Women in Computing (GHC)
 * \[2015-07] Yuchao's abstract paper on gait pattern identification in glaucoma patients accepted to ACM Wireless Health 2015 Conference
 * \[2015-06]  Hassan serving on the TPC of IEEE International Workshop on Deriving Value from Big Data in Healthcare, in conjunction with The IEEE International Conference on Big Data (IEEE BigData 2015)
@@ -240,8 +240,8 @@ design:
 * \[2014-12] Hassan invited to co-chair ACM Mobihoc MobileHealth 2015 workshop.
 * \[2014-09] Ramyar presented his paper on context-aware sensor localization at Asilomar 2014 in Pacific Grove, CA.
 * \[2014-11] Ramyar serves as TPC for SPWID 2015 conference.
-* \[2014-10] Drs. Masoud Daneshtalab and Azin Ebrahimi of KTH visited EPSL.
-* \[2014-10] Professor Giancarlo Fortino of University of Calabria visited EPSL.
+* \[2014-10] Drs. Masoud Daneshtalab and Azin Ebrahimi of KTH visited EMIL.
+* \[2014-10] Professor Giancarlo Fortino of University of Calabria visited EMIL.
 * \[2014-09] Ramyar presented his paper at UbiComp 2014 in Seattle.
 * \[2014-09] Ali and Parastoo received ACM Wireless Health 2014 Student Travel Grant.
 * \[2014-09] Ramyar received SmartHeakthSys Workshop in Ubicomp 2014 Student Travel Grant.
@@ -250,8 +250,8 @@ design:
 * \[2014-10] Ramyar's paper on Effects of node localization in activity recognition accepted to Asilomar 2014.
 * \[2014-08] Ramyar's paper on cost sensitive feature selection for node localization accepted to UbiComp 2014  HASCA Workshop
 * \[2014-07] Ramyar's paper on node localization accepted to IEEE EMBC 2014.
-* \[2014-09] Ramin Fallahzadeh joined EPSL as PhD student.
-* \[2014-08] Ali Rokni, Yuchao Ma, and Parastoo Alinia joined EPSL as new PhD students.
+* \[2014-09] Ramin Fallahzadeh joined EMIL as PhD student.
+* \[2014-08] Ali Rokni, Yuchao Ma, and Parastoo Alinia joined EMIL as new PhD students.
 * \[2014-05] Hassan delivered a tutorial on Wearable Computers at IEEE NOMS 2014 in Krakow, Poland.
 * \[2014-05] Our sensor localization project funded by WSU Office of Research through 2014 New Faculty Seed Grant Competition
-* \[2014-01] Embedded & Pervasive Systems Laboratory (EPSL) was established in January 2014 with two members, Hassan Ghasemzadeh (director) and Ramyar Saeedi (PhD student).
+* \[2014-01] Embedded & Pervasive Systems Laboratory (EMIL) was established in January 2014 with two members, Hassan Ghasemzadeh (director) and Ramyar Saeedi (PhD student).
