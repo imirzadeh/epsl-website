@@ -7,6 +7,7 @@ date_end: 2022-04-15T22:30:00.000Z
 all_day: false
 links:
   - url: https://ieeexplore.ieee.org/document/7367627
+    name: paper
   - url: https://docs.google.com/presentation/d/1UfF3zJoqzaGmWbsE8-8JcrK2OmFnGEXOyRzH4AaVKbc/edit?usp=sharing
     name: slides
 event: EMIL Spring'22 Seminars

@@ -60,8 +60,8 @@ featured: true
 #   icon: twitter
 
 url_pdf: https://drive.google.com/file/d/1frDHECipfU4hkiHgmiYdGQuQwwANOS_4/view?usp=sharing
-url_code: 
-url_dataset:
+url_code: https://github.com/rameshKrSah/WESAD-stress-classification-personalization
+url_dataset: https://dl.acm.org/doi/10.1145/3242969.3242985
 url_poster:
 url_project:
 url_slides: 
@@ -81,7 +81,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["stress-mobile-health"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
