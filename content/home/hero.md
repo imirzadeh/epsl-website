@@ -2,7 +2,7 @@
 active = true
 headless = true
 hero_media = ""
-title = "Embedded & Pervasive Systems Lab"
+title = "Embedded Machine Intelligence Lab"
 weight = 1
 widget = "hero"
 [design.background]
