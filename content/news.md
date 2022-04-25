@@ -18,6 +18,8 @@ design:
 
 - - -
 
+* \[2022-4] Congratulations to Mahdi for acceptance of his paper "Probabilistic Cascading Classifier for Energy-Efficient Activity Monitoring in Wearables" in IEEE Sensors Journal.
+
 * \[2022-3] Ramesh's "Stressalyzer: Convolutional Neural Network Framework for Personalized Stress Classification" paper accepted for publication at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).
 
 * \[2022-3] Our "Continual Learning for Activity Recognition" paper accepted for publication at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).
