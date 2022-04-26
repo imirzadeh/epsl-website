@@ -26,7 +26,7 @@ authors:
   - Marjan Nourollahi
   - Hassan Ghasemzadeh
 doi: 
-publication: IEEE Sensor Journal, 2022.
+publication: IEEE Sensors Journal, 2022.
 featured: true
 tags:
   - featured
