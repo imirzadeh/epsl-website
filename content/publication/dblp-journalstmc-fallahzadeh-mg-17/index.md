@@ -12,5 +12,6 @@ authors:
 publication: IEEE Transactions on Mobile Computing (TMC), vol. 16, no. 8, pp.
   2159–2173, August 2017
 abstract: ""
+projects: ["Edema-Monitoring"]
 featured: false
 ---

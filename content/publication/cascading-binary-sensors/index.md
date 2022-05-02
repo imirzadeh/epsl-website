@@ -41,7 +41,7 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: []
+projects: ["Edge-AI"]
 date: 2022-04-23T00:00:00-00:00
 url_slides: null
 publishDate: 2022-04-25T00:00:00-00:00

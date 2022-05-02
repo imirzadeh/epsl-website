@@ -11,5 +11,6 @@ authors:
 publication: The 38th Annual International Conference of the IEEE Engineering in
   Medicine and Biology Society (EMBC), August 16-20, 2016, Orlando, FL
 abstract: ""
+projects: ["Edema-Monitoring"]
 featured: false
 ---
