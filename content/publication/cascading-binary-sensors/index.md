@@ -35,7 +35,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-summary: ""
+summary: "A cascading approach for optimizing energy and memory requirements of a machine learning model running on an embedded device."
 url_dataset: null
 url_project: null
 publication_short: ""

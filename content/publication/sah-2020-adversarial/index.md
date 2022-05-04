@@ -7,8 +7,9 @@ publication_types:
 authors:
   - Ramesh Sah
   - Hassan Ghasemzadeh
-publication: arXiv preprint arXiv:2003.07982
+publication: arXiv preprint
 featured: false
 date: 2020-01-01
 publishDate: 2020-04-01T11:09:15.766Z
+projects: ["Computational-Autonomy"]
 ---
