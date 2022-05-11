@@ -10,6 +10,10 @@ summary: Projects formulated, developed, and demonstrated by students in various
 authors: [EPSL]
 date: 2022-01-13T23:58:23-08:00
 title: Course Projects
+image:
+  caption: ""
+  focal_point: Bottom
+  preview_only: true
 ---
 <!-- 
 The format of each project listing follows 
@@ -40,26 +44,29 @@ This is a comprehensive record of projects formulated, developed, and demonstrat
     and give warnings if the user have too much abnormal gaits de-
     tected and have high risk of falling. 2) collect more data, try more
     model architectures and training parameters to improve real-time
-    performance accuracy.
+    performance accuracy. [Report](https://bit.ly/39f0FuA)
 
-    | [Demo](https://www.youtube.com/watch?v=YJ0TwOIkwBo) | [Report](https://bit.ly/39f0FuA) |
+    <!-- ![](11.jpg) -->
+    {{< youtube YJ0TwOIkwBo >}}
+
+    <!-- | [Demo](https://www.youtube.com/watch?v=YJ0TwOIkwBo) | [Report](https://bit.ly/39f0FuA) | -->
 
 2. **Activity Detection using Embedded Machine Learning** by *Emily Glagolev, Mihir Kotas, and Ahmed Musani*
 
     Physical Activity has can effect a persons physical and mental
-    health. Because of this, it is important to be able to accurately monitor the activities a person does daily. We created an activity detection device using embedded machine learning using and Arduino Nano 33 BLE sense. This device can detect if a person is walking, jogging, using stairs or standing still, along with the duration of time they are doing the activity. Data was collected for each activity using the Arduino BLE connection and cleaned. A model was trained using Tensorflow. This trained model was used for real time testing with the Arduino BLE connected to a central. The central used bleak to detect the activity and record the duration of the activity.
+    health. Because of this, it is important to be able to accurately monitor the activities a person does daily. We created an activity detection device using embedded machine learning using and Arduino Nano 33 BLE sense. This device can detect if a person is walking, jogging, using stairs or standing still, along with the duration of time they are doing the activity. Data was collected for each activity using the Arduino BLE connection and cleaned. A model was trained using Tensorflow. This trained model was used for real time testing with the Arduino BLE connected to a central. The central used bleak to detect the activity and record the duration of the activity. [Report](https://bit.ly/3PpIvqW)
 
-    | [Demo](https://www.youtube.com/watch?v=97o2-8fS7Ms) | [Report](https://bit.ly/3PpIvqW) |
+    {{< youtube 97o2-8fS7Ms >}}
+
+    <!-- | [Demo](https://www.youtube.com/watch?v=97o2-8fS7Ms) | [Report](https://bit.ly/3PpIvqW) | -->
 
 3. **Breating Pattern Identification** by  *Abdullah Mamun and Asiful Arefeen*
 
-    | [Demo](https://youtu.be/RBKVR6dvekI) |
+    {{< youtube RBKVR6dvekI >}}
+
+    <!-- | [Demo](https://youtu.be/RBKVR6dvekI) | -->
 
 4. **Low Power Microgrid Disturbance Classification with Phasor Measurement Unit** by *Zachary Lythgoe*
-
-    <!-- <p align="center">
-    <img width="300" height="300" src="featured.png">
-    </p> -->
 
     In comparison to the primary grid, microgrids are significantly more
     sensitive to local changes due to reduced local reserve generation
@@ -71,8 +78,10 @@ This is a comprehensive record of projects formulated, developed, and demonstrat
     paired with an Arduino Nano BLE 33 Sense to classify a variety of
     disturbances on a simulated microgrid. The low power, low cost
     solution makes such a system easier to implement in existing and
-    future microgrids. 
+    future microgrids. [Report](https://bit.ly/3M5n7oQ)
 
-    | [Demo](https://www.youtube.com/watch?v=QFYur2osd0w) | [Report](https://bit.ly/3M5n7oQ) |
+    {{< youtube QFYur2osd0w >}}
+
+    <!-- | [Demo](https://www.youtube.com/watch?v=QFYur2osd0w) | [Report](https://bit.ly/3M5n7oQ) | -->
 
 
