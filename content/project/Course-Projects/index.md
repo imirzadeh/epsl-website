@@ -27,6 +27,8 @@ SN. **Project Name** by *Student names*
 This is a list of some of the projects formulated, developed, and demonstrated by students in various courses taught by Dr. Hassan Ghasemzadeh.
 
 1. **Abnormal Gait and Fall Detection using Embedded Machine Learning** by *Chia-Cheng Kuo*
+    - Course: Embedded Machine Learning
+    - Semester: Spring 2022
 
     It is crucial to provide emergency treatment for elderly or patients
     when they fall over. It is also important to provide warnings if
@@ -45,6 +47,8 @@ This is a list of some of the projects formulated, developed, and demonstrated b
 
 
 2. **Real-Time Activity Recognition using Embedded Machine Learning** by *Emily Glagolev, Mihir Kotas, and Ahmed Musani*
+    - Course: Embedded Machine Learning
+    - Semester: Spring 2022
 
     Physical Activity has can effect a persons physical and mental
     health. Because of this, it is important to be able to accurately monitor the activities a person does daily. We created an activity detection device using embedded machine learning using and Arduino Nano 33 BLE sense. This device can detect if a person is walking, jogging, using stairs or standing still, along with the duration of time they are doing the activity. Data was collected for each activity using the Arduino BLE connection and cleaned. A model was trained using Tensorflow. This trained model was used for real time testing with the Arduino BLE connected to a central. The central used bleak to detect the activity and record the duration of the activity.
@@ -53,12 +57,16 @@ This is a list of some of the projects formulated, developed, and demonstrated b
 
 
 3. **Breating Pattern Identification** by  *Abdullah Mamun and Asiful Arefeen*
-
+    - Course: Embedded Machine Learning
+    - Semester: Spring 2022
+    
     {{< youtube RBKVR6dvekI >}}
 
 
 4. **Low-Power Microgrid Disturbance Classification with Phasor Measurement Unit** by *Zachary Lythgoe*
-
+    - Course: Embedded Machine Learning
+    - Semester: Spring 2022
+    
     In comparison to the primary grid, microgrids are significantly more
     sensitive to local changes due to reduced local reserve generation
     and the switching of loads that make up a comparatively larger
