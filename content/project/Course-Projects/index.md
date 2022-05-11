@@ -1,20 +1,15 @@
 ---
-slides: ""
-url_pdf: ""
+active : true
+headless : true
+design:
+    columns : "1"
+    spacing:
+            padding : ["10px", "0", "10px", "0"]
+
 summary: Projects formulated, developed, and demonstrated by students in various courses taught by Dr. Hassan.  
 authors: [EPSL]
-url_video: ""
 date: 2022-01-13T23:58:23-08:00
-external_link: ""
-url_slides: ""
-title: Course projects
-tags: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-categories: []
-url_code: ""
+title: Course Projects
 ---
 <!-- 
 The format of each project listing follows 
