@@ -31,6 +31,7 @@ This is a list of some of the projects formulated, developed, and demonstrated b
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
 
+        <br/>
         <div style="height:250px; width:450px; align:center">
         {{< youtube YJ0TwOIkwBo >}}
         </div>
@@ -44,21 +45,27 @@ This is a list of some of the projects formulated, developed, and demonstrated b
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
 
+        <br/>
         {{< youtube 97o2-8fS7Ms >}}
-  
+        <br/>
+
     Accurate estimation of activity types is central to human behavior modeling, activity-based interventions, and context-aware system design. We created an activity detection device using embedded machine learning using and Arduino Nano 33 BLE sense. This device can detect if a person is walking, jogging, using stairs or standing still, along with the duration of time they are doing the activity. Data was collected for each activity using the Arduino BLE connection and cleaned. A model was trained using Tensorflow. This trained model was used for real time testing with the Arduino BLE connected to a central. The central used bleak to detect the activity and record the duration of the activity.
 
 3. **Breathing Pattern Identification** by  *Abdullah Mamun and Asiful Arefeen*
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
 
+        <br/>
         {{< youtube RBKVR6dvekI >}}
+        <br/>
 
 4. **Low-Power Microgrid Disturbance Classification with Phasor Measurement Unit*
     - Author: Zachary Lythgoe
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
 
+        <br/>
         {{< youtube QFYur2osd0w >}}
-
+        <br/>
+        
     In comparison to the primary grid, microgrids are significantly more sensitive to local changes due to reduced local reserve generation and the switching of loads that make up a comparatively larger percentage of the total load. Given this sensitivity, it is critical for grid controllers to monitor local disruptions (i.e., sudden increase or decrease in load or generation) that the grid is experiencing. This work proposes a low-power phasor measurement unit (PMU) paired with an Arduino Nano BLE 33 Sense to classify a variety of disturbances on a simulated microgrid. The low-power low-cost solution makes such a system easier to implement in existing and future microgrids.
