@@ -31,13 +31,13 @@ This is a list of some of the projects formulated, developed, and demonstrated b
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
 
-        <div style="height:200px; width:300px; background:#000000; align:center">
+        <div style="height:250px; width:450px; align:center">
         {{< youtube YJ0TwOIkwBo >}}
         </div>
-        <p></p>
+        <br/>
 
     It is crucial to provide emergency treatment for elderly or patients when they fall over. It is also important to provide warnings if the user has a high risk of falls due to abnormal gait. This project develops a real-time gait monitoring and fall detection system that integrates wearable inertial sensors and embedded machine learning while generating real-time feedback when falls are detected.
-    <p></p>
+    <br/>
 
 2. **Real-Time Activity Recognition using Embedded Machine Learning**
     - Authors: Emily Glagolev, Mihir Kotas, and Ahmed Musani
@@ -45,7 +45,7 @@ This is a list of some of the projects formulated, developed, and demonstrated b
     - Semester: Spring 2022
 
         {{< youtube 97o2-8fS7Ms >}}
-
+  
     Accurate estimation of activity types is central to human behavior modeling, activity-based interventions, and context-aware system design. We created an activity detection device using embedded machine learning using and Arduino Nano 33 BLE sense. This device can detect if a person is walking, jogging, using stairs or standing still, along with the duration of time they are doing the activity. Data was collected for each activity using the Arduino BLE connection and cleaned. A model was trained using Tensorflow. This trained model was used for real time testing with the Arduino BLE connected to a central. The central used bleak to detect the activity and record the duration of the activity.
 
 3. **Breathing Pattern Identification** by  *Abdullah Mamun and Asiful Arefeen*
