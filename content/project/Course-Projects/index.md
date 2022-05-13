@@ -31,9 +31,13 @@ This is a list of some of the projects formulated, developed, and demonstrated b
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
 
+        <div style="height:200px; width:300px; background:#000000; align:center">
         {{< youtube YJ0TwOIkwBo >}}
+        </div>
+        <p></p>
 
     It is crucial to provide emergency treatment for elderly or patients when they fall over. It is also important to provide warnings if the user has a high risk of falls due to abnormal gait. This project develops a real-time gait monitoring and fall detection system that integrates wearable inertial sensors and embedded machine learning while generating real-time feedback when falls are detected.
+    <p></p>
 
 2. **Real-Time Activity Recognition using Embedded Machine Learning**
     - Authors: Emily Glagolev, Mihir Kotas, and Ahmed Musani
