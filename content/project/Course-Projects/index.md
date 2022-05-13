@@ -26,58 +26,35 @@ SN. **Project Name** by *Student names*
 
 This is a list of some of the projects formulated, developed, and demonstrated by students in various courses taught by Dr. Hassan Ghasemzadeh.
 
-1. **Abnormal Gait and Fall Detection using Embedded Machine Learning** by *Chia-Cheng Kuo*
+1. **Abnormal Gait and Fall Detection using Embedded Machine Learning**
+    - Author: Chia-Cheng Kuo
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
 
-    It is crucial to provide emergency treatment for elderly or patients
-    when they fall over. It is also important to provide warnings if
-    the elderly or patients have high risk of falling due to abnormal
-    gait. Although my system does not have high accuracy in real-time
-    performance and will sometimes misestimate a kind of abnormal
-    gait as another kind of abnormal gait, it still has good accuracy
-    on distinguishing normal and abnormal gait. Future works for the
-    project may include: 1) analyzing the recorded walking motion
-    and give warnings if the user have too much abnormal gaits de-
-    tected and have high risk of falling. 2) collect more data, try more
-    model architectures and training parameters to improve real-time
-    performance accuracy.
+        {{< youtube YJ0TwOIkwBo >}}
 
-    {{< youtube YJ0TwOIkwBo >}}
+    It is crucial to provide emergency treatment for elderly or patients when they fall over. It is also important to provide warnings if the user has a high risk of falls due to abnormal gait. This project develops a real-time gait monitoring and fall detection system that integrates wearable inertial sensors and embedded machine learning while generating real-time feedback when falls are detected.
 
-
-2. **Real-Time Activity Recognition using Embedded Machine Learning** by *Emily Glagolev, Mihir Kotas, and Ahmed Musani*
+2. **Real-Time Activity Recognition using Embedded Machine Learning**
+    - Authors: Emily Glagolev, Mihir Kotas, and Ahmed Musani
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
 
-    Physical Activity has can effect a persons physical and mental
-    health. Because of this, it is important to be able to accurately monitor the activities a person does daily. We created an activity detection device using embedded machine learning using and Arduino Nano 33 BLE sense. This device can detect if a person is walking, jogging, using stairs or standing still, along with the duration of time they are doing the activity. Data was collected for each activity using the Arduino BLE connection and cleaned. A model was trained using Tensorflow. This trained model was used for real time testing with the Arduino BLE connected to a central. The central used bleak to detect the activity and record the duration of the activity.
+        {{< youtube 97o2-8fS7Ms >}}
 
-    {{< youtube 97o2-8fS7Ms >}}
+    Accurate estimation of activity types is central to human behavior modeling, activity-based interventions, and context-aware system design. We created an activity detection device using embedded machine learning using and Arduino Nano 33 BLE sense. This device can detect if a person is walking, jogging, using stairs or standing still, along with the duration of time they are doing the activity. Data was collected for each activity using the Arduino BLE connection and cleaned. A model was trained using Tensorflow. This trained model was used for real time testing with the Arduino BLE connected to a central. The central used bleak to detect the activity and record the duration of the activity.
 
-
-3. **Breating Pattern Identification** by  *Abdullah Mamun and Asiful Arefeen*
+3. **Breathing Pattern Identification** by  *Abdullah Mamun and Asiful Arefeen*
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
-    
-    {{< youtube RBKVR6dvekI >}}
 
+        {{< youtube RBKVR6dvekI >}}
 
-4. **Low-Power Microgrid Disturbance Classification with Phasor Measurement Unit** by *Zachary Lythgoe*
+4. **Low-Power Microgrid Disturbance Classification with Phasor Measurement Unit*
+    - Author: Zachary Lythgoe
     - Course: Embedded Machine Learning
     - Semester: Spring 2022
-    
-    In comparison to the primary grid, microgrids are significantly more
-    sensitive to local changes due to reduced local reserve generation
-    and the switching of loads that make up a comparatively larger
-    percentage of the total load. Given this sensitivity, it is critical for
-    grid controllers to monitor local disruptions (i.e., sudden increase
-    or decrease in load or generation) that the grid is experiencing.
-    This work proposes a low power phasor measurement unit (PMU)
-    paired with an Arduino Nano BLE 33 Sense to classify a variety of
-    disturbances on a simulated microgrid. The low power, low cost
-    solution makes such a system easier to implement in existing and
-    future microgrids.
 
-    {{< youtube QFYur2osd0w >}}
+        {{< youtube QFYur2osd0w >}}
 
+    In comparison to the primary grid, microgrids are significantly more sensitive to local changes due to reduced local reserve generation and the switching of loads that make up a comparatively larger percentage of the total load. Given this sensitivity, it is critical for grid controllers to monitor local disruptions (i.e., sudden increase or decrease in load or generation) that the grid is experiencing. This work proposes a low-power phasor measurement unit (PMU) paired with an Arduino Nano BLE 33 Sense to classify a variety of disturbances on a simulated microgrid. The low-power low-cost solution makes such a system easier to implement in existing and future microgrids.
