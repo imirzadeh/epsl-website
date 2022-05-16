@@ -32,9 +32,9 @@ This is a list of some of the projects formulated, developed, and demonstrated b
     - Semester: Spring 2022
 
         <br/>
-        <div style="height:250px; width:450px; align:center">
+        <!-- <div style="height:250px; width:450px; align:center"> -->
         {{< youtube YJ0TwOIkwBo >}}
-        </div>
+        <!-- </div> -->
         <br/>
 
     It is crucial to provide emergency treatment for elderly or patients when they fall over. It is also important to provide warnings if the user has a high risk of falls due to abnormal gait. This project develops a real-time gait monitoring and fall detection system that integrates wearable inertial sensors and embedded machine learning while generating real-time feedback when falls are detected.
