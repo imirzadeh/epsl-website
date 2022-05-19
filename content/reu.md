@@ -29,7 +29,7 @@ gallery_item:
 
 ## Program Overview
 
-The objective of the REU program is to provide unique training, research, and education opportunities for undergraduates in the area of technology-driven healthcare systems, particularly for underserved communities. The REU participants will have chances to explore multidisciplinary topics in pervasive computing, machine learning, data mining, circuits, and system design as applied to healthcare, population health, and health sciences. Leveraging the *community of scholar* promoted by the Washington State University (WSU) Office of Undergraduate Research, REU students will have ample opportunities for extracurricular, social, and group activities. The participants will experience working with and learning from faculty, postdocs, and students with different, but complementary technical backgrounds and cultures; e.g., computer scientists working with health scientists and vice versa. Both theoretical and practical (hands-on) research will be emphasized.
+The objective of the REU program is to provide unique training, research, and education opportunities for undergraduates in the area of technology-driven healthcare systems, particularly for underserved communities. The REU participants will have chances to explore multidisciplinary topics in pervasive computing, machine learning, data mining, circuits, and system design as applied to healthcare, population health, and health sciences. Leveraging the *community of scholars* promoted by the Washington State University (WSU) Office of Undergraduate Research, REU students will have ample opportunities for extracurricular, social, and group activities. The participants will experience working with and learning from faculty, postdocs, and students with different but complementary technical backgrounds and cultures, e.g., computer scientists working with health scientists and vice versa. Both theoretical and practical (hands-on) research will be emphasized.
 
 {{< gallery >}}
 
@@ -47,7 +47,7 @@ Few examples of the projects in which the students could be involved are:
    * Emotion recognition with wearable sensors
    * Designing mixed-modality user interfaces
 
-REU students are metored by Dr. Hassan Ghasemzadeh, Associate Professor and Director of [Embedded Machine Intelligence Lab](https://ghasemzadeh.com/) at Arizona State University and Dr. Mona Ghandi, Assistant Professor and Director of [Morphogenesis Lab](https://www.morphogenesislab.com/) at Washington State University. In addition to conducting cutting edge research, students will also have the benefit of participating in weekly technical team meetings and seminar series and work in a interdisciplinary and multicultural team with hands-on research projects. Below we list participants of past REU programs and their projects.
+REU students are mentored by Dr. Hassan Ghasemzadeh, Associate Professor and Director of [Embedded Machine Intelligence Lab](https://ghasemzadeh.com/) at Arizona State University, and Dr. Mona Ghandi, Assistant Professor and Director of [Morphogenesis Lab](https://www.morphogenesislab.com/) at Washington State University. In addition to conducting cutting-edge research, students will also have the benefit of participating in weekly technical team meetings and seminar series and working in an interdisciplinary and multicultural team with hands-on research projects. Below we list participants of past REU programs and their projects.
 
 ## 2021
 
