@@ -66,6 +66,16 @@ REU students are mentored by Dr. Hassan Ghasemzadeh, Associate Professor and Dir
 * Ryan Holder, *Pullman High School, WA*
 * Mentors: Hassan Ghasemzadeh, Ramesh Kumar Sah
 
+### Analysis of Wearable Sensor Data for Stress Monitoring
+
+* Yimei Chen, *Cornell University*
+* Mentors: Hassan Ghasemzadeh, Ramesh Kumar Sah
+
+### Development of User-Friendly Object Detection Method for Video Labelling
+
+* Grace Stewart, *University of Maryland - College Park*
+* Mentors: Robert Catena, Abdullah Al Mamun
+
 ## 2020
 
 ### Improving Predicting Human Emotions with EEG by application of Fast-Fourier Transform
@@ -83,10 +93,15 @@ REU students are mentored by Dr. Hassan Ghasemzadeh, Associate Professor and Dir
 * Sena Atay, *University of North Carolina at Chapel Hill*
 * Mentors: Mona Ghandi, Marcus Blaisdell
 
-### Alcohol Relapse Detection using Machine Learning and Sensor Systems
+### Biometric Data Segmentation for Classifying Stressed and Unstressed Signal Regions to Predict Alcohol Relapse
 
-* Dainel Faronbi, *University of Nebraska*
-* Mentors: Hassan Ghasemzadeh, Ramesh Kumar Sah
+* Dainel Faronbi, *University of Nebraska Omaha/Lincoln*
+* Mentors: Hassan Ghasemzadeh, Michael J. Cleveland, Ramesh Kumar Sah
+
+### Adversaraial Attacks on Deep Models for Audio Data
+
+* Tyler Cleveland, *Washington State University, WA*
+* Mentors: Jana Doppa
 
 ## 2019
 
