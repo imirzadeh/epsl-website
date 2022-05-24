@@ -115,12 +115,61 @@ REU students are mentored by Dr. Hassan Ghasemzadeh, Associate Professor and Dir
 * Reece Keller, *Highline College, WA*
 * Mentors: Mona Ghandi, Marcus Blaisdell, Salikh Bagaveyev
 
+### Ecological Momentary Assessment Mobile App for Real-time Behavioral Measures
+
+* Karla Bustamante-Zamora, *Highline College, WA*
+* Mentor: Porismita Borah
+
+### Development of At-Home Balance Control Assessment and Tracking Smartphone App for Pregnant Women
+
+* Va Diep, *Bellevue College, WA*
+* Mentors: Robert Catana
+
+### Survey Data and Empatica E4 Wristwatch Help Show How Physiological Markers of Stress: Affect Alcohol Dependent Patients
+
+* Esteban Espino, *Columbia Basin College, WA*
+* Mentor: Michael Cleveland, Ramesh Kumar Sah
+
+### Liquid Intake Detection System
+
+* Sean Henry Luchessa, *Washington State University, WA*
+* Mentors: Hassan Ghasemzadeh, Mahdi Pedram
+
+### Comparing Data from Different Sensor Modalities
+
+* Lucy Mujugira, *Bellevue College, WA*
+* Mentors: Hassan Ghasemzadeh, Parastoo Alinia
+
+### Initial Prototype Development of a Novel Catheter Navigation System for Endovascular Medical Procedures
+
+* Joesph Summers, *Washington State University, WA*
+* Mentor: Subhanshu Gupta
+
 ## 2018
 
 ### Predicting Emotion Based on Biological Signal Inputs using Machine Learning
 
 * Lucia Martisovitsova, *University of California, Berkeley*
 * Mentors: Mona Ghandi, Salikh Bagaveyev
+
+## 2017
+
+### Developing Power Models for Smartwatches to Improve Battery Lifetime during Long-Term Data Collection
+
+* Nathan Seitz, *University of Illinois at Chicago, IL*
+* Mentors: Hassan Ghasemzadeh, Ramin Fallahzadeh
+
+## 2015
+
+### Developing a Tool for Time-Series Signal Annotation
+
+* Ellen Louie, *George Washington University, DC*
+* Mentors: Hassan Ghasemzadeh and Ramin Fallahzadeh
+
+### Infrastructure Development for Data Collection and Analysis with a Smartwatch
+
+* Deontae Pharr, *Kennesaw State University, GA*
+* Mentors: Hassan Ghasemzadeh, Ramin Fallahzadeh
 
 <!-- ### Student Participants Support
 
