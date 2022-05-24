@@ -12,4 +12,5 @@ publication: The 53rd ACM/EDAC/IEEE Design Automation Conference (DAC), June
   5-9, 2016, Austin, TX
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

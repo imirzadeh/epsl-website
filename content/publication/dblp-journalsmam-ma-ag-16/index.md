@@ -13,4 +13,5 @@ publication: Microprocessors and Microsystems Special Issue on Advanced Systems
   67-74, October 2016
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

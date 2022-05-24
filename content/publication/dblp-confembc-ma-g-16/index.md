@@ -12,4 +12,5 @@ publication: The 38th IEEE Engineering in Medicine and Biology Society
   Conference (EMBC), Aug. 16-20, 2016, Orlando, FL
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

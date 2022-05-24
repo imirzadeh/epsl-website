@@ -15,4 +15,5 @@ authors:
 publication: IEEE Sensors Journal (JSEN), May 2021
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

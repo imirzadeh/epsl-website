@@ -14,4 +14,5 @@ tags:
   - featured
 date: 2019-01-01
 publishDate: 2019-05-14T10:29:11.921Z
+projects: ["human-in-the-loop-learning"]
 ---

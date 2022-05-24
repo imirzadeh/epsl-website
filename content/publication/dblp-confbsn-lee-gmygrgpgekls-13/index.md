@@ -23,4 +23,5 @@ publication: IEEE International Conference on Body Sensor Networks (BSN), May
   6--9, 2013 Cambridge, MA, USA
 abstract: ""
 featured: false
+projects: ["Gait-and-Mobility"]
 ---

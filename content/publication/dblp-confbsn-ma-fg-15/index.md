@@ -12,4 +12,5 @@ publication: 12th IEEE International Conference on Wearable and Implantable Body
   Sensor Networks (BSN 2015), Cambridge, MA, USA
 abstract: ""
 featured: false
+projects: ["Gait-and-Mobility"]
 ---

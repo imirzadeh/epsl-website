@@ -29,7 +29,7 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: []
+projects: ["human-in-the-loop-learning"]
 date: 2020-07-23
 url_slides: null
 publishDate: 2020-07-23

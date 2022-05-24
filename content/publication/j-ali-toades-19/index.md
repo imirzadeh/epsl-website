@@ -12,4 +12,5 @@ publication: ACM Transactions on Design Automation of Electronic Systems
   (TODAES), vol. 24, no. 4, article 39, April 2019
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

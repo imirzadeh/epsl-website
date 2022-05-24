@@ -16,7 +16,7 @@ authors: [EPSL]
 url_video: ""
 external_link: ""
 url_slides: ""
-title: Gait Monitoring
+title: Gait and Mobility
 tags: []
 image:
   caption: ""

@@ -13,4 +13,5 @@ publication: ACM Transactions on Design Automation of Electronic Systems
   (TODAES), vol. 21, no. 4, pp.1-27, 2016
 abstract: ""
 featured: false
+projects: ["Edge-AI"]
 ---

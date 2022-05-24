@@ -12,4 +12,5 @@ publication: The 48th Asilomar Conference on Signals, Systems and
   Computers,  November 2-5, 2014, Pacific Grove, CA, USA
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

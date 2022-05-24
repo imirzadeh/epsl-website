@@ -12,4 +12,5 @@ publication: The 35th IEEE/ACM International Conference On Computer Aided Design
   (ICCAD), November 7-10, 2016, Austin, TX, USA
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

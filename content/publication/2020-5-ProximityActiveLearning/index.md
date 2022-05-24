@@ -14,4 +14,5 @@ publication: The 6th ACM Workshop on Wearable Systems and Applications (WearSys
   2020) in Conjunction with ACM MobiSys 2020, June 19, 2020, Toronto, Canada
 abstract: ""
 featured: false
+projects: ["human-in-the-loop-learning"]
 ---

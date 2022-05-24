@@ -31,7 +31,7 @@ url_project: null
 publication_short: DSHealth20
 url_source: null
 url_video: null
-projects: []
+projects: ["Computational-Autonomy"]
 date: 2020-07-10
 url_slides: null
 publishDate: 2020-07-10

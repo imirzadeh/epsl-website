@@ -12,4 +12,5 @@ publication: The 32nd AAAI Conference on Artificial Intelligence (AAAI),
   February 2-7, 2018, New Orleans , Louisiana, USA (Student Poster Abstract)
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

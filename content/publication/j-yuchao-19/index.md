@@ -17,4 +17,5 @@ authors:
 publication: IEEE Sensors Journal (JSEN), vol. 19, no. 10, pp 3751–3762, May 2019
 abstract: ""
 featured: false
+projects: ["Gait-and-Mobility"]
 ---

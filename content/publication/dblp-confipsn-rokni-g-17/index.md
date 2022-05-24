@@ -12,4 +12,5 @@ publication: The 16th ACM/IEEE International Conference on Information
   Processing in Sensor Networks (IPSN), April 18-21, 2017, Pittsburgh, PA, USA
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

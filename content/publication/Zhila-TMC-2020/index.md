@@ -12,4 +12,5 @@ authors:
 publication: IEEE Transactions on Mobile Computing (TMC), 2020
 abstract: ""
 featured: false
+projects: ["human-in-the-loop-learning"]
 ---

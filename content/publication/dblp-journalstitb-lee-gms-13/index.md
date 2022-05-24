@@ -14,4 +14,5 @@ publication: IEEE Journal of Biomedical and Health Informatics (JBHI), 17(6),
   pp.1023-1030, 2013
 abstract: ""
 featured: false
+projects: ["Gait-and-Mobility"]
 ---

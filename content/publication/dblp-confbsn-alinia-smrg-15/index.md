@@ -14,4 +14,5 @@ authors:
 publication: 12th IEEE Conference on Body Sensor Networks (BSN 2015), Cambridge, MA, USA
 abstract: ""
 featured: false
+projects: ["Computational-Autonomy"]
 ---

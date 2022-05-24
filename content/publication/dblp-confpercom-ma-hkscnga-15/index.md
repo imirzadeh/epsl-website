@@ -19,4 +19,5 @@ publication: International Workshop on the Impact of Human Mobility in Pervasive
   March 23-27, 2015, St. Louis, Missouri, USA
 abstract: ""
 featured: false
+projects: ["Gait-and-Mobility"]
 ---
