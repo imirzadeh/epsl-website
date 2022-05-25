@@ -82,7 +82,7 @@ In comparison to the primary grid, microgrids are significantly more sensitive t
 - Semester: Spring 2022
 
     <br/>
-    {{< youtube utiUgV3HN6Q >}}
+    {{< youtube ZTRduZ-zdwo >}}
     <br/>
     
 Photoplethysmography (PPG) based heart rate (HR) estimation has become a staple in health monitoring and wearable health sensing. However, due to the noninvasive optical signal, the data is highly susceptible to noise sources such as motion artifacts (MA). Larger and more diverse PPG activity datasets have been created and deep learning-based estimation has shown the ability to interpret accurate HR in realistic MA-affected scenarios. This work expands upon previous work and designs toward a wearable embedded HR device capable of continuous HR estimation. Through a deep neural network (DNN), HR can be estimated within 10 beats per minute (BPM) at an accuracy of 81%. This model can then be deployed to an embedded system to make HR predictions in real-time.
