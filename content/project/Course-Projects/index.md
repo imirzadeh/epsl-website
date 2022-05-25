@@ -57,7 +57,7 @@ Accurate estimation of activity types is central to human behavior modeling, act
 - Semester: Spring 2022
 
     <br/>
-    {{< youtube qqVE-KGJD0I >}}
+    {{< youtube ZNgdNnFtY2Q >}}
     <br/>
 
 Abnormal breathing patterns can help us identify potential critical health issues such as a heart attack, stroke, fall, etc. While an abnormal breathing pattern recognizer can be implemented and deployed on a server-based system, it makes the solution dependent on network connectivity which may not be ideal for this critical task in all scenarios. In this project, we overcome this problem by proposing an abnormal breathing identifier for Arduino Nano 33 BLE Sense. Our system can detect abnormal breathing in real-time without the help of an external device or server. We use the microphone of the Arduino to capture the audio of the surroundings and when abnormal breathing is identified, the Arduino notifies the serial monitor. Our CNN-based machine learning model is also capable of identifying coughs and sneezes along with normal and abnormal breathing with about 77.4% accuracy after it has been optimized for Arduino.
