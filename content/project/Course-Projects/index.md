@@ -73,3 +73,16 @@ Abnormal breathing patterns can help us identify potential critical health issue
     <br/>
     
 In comparison to the primary grid, microgrids are significantly more sensitive to local changes due to reduced local reserve generation and the switching of loads that make up a comparatively larger percentage of the total load. Given this sensitivity, it is critical for grid controllers to monitor local disruptions (i.e., sudden increase or decrease in load or generation) that the grid is experiencing. This work proposes a low-power phasor measurement unit (PMU) paired with an Arduino Nano BLE 33 Sense to classify a variety of disturbances on a simulated microgrid. The low-power low-cost solution makes such a system easier to implement in existing and future microgrids.
+
+
+### On-Device PPG-Based Heart Rate Estimation 
+
+- Author: Jacob Sindorf
+- Course: Embedded Machine Learning
+- Semester: Spring 2022
+
+    <br/>
+    {{< youtube utiUgV3HN6Q >}}
+    <br/>
+    
+Photoplethysmography (PPG) based heart rate (HR) estimation has become a staple in health monitoring and wearable health sensing. However, due to the noninvasive optical signal, the data is highly susceptible to noise sources such as motion artifacts (MA). Larger and more diverse PPG activity datasets have been created and deep learning-based estimation has shown the ability to interpret accurate HR in realistic MA-affected scenarios. This work expands upon previous work and designs toward a wearable embedded HR device capable of continuous HR estimation. Through a deep neural network (DNN), HR can be estimated within 10 beats per minute (BPM) at an accuracy of 81%. This model can then be deployed to an embedded system to make HR predictions in real-time.
