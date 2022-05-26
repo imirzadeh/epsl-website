@@ -18,7 +18,7 @@ organizations:
   url: "https://abdullah-mamun.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at the ASU Health Futures Center under the supervision of Dr. Hassan Ghasemzadeh.
+bio: I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,4 +46,8 @@ user_groups:
 - PhD Students
 ---
 ## About Me
-I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at the ASU Health Futures Center under the supervision of Dr. Hassan Ghasemzadeh.
+I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh.
+
+I worked as a Software Developer at HLC Technologies Ltd and as a Lecturer at United International University in Dhaka, Bangladesh. Originally, I started my Ph.D. at Washington State University and later decided to transfer to Arizona State University after one year. Currently my work includes building and optimizing deep learning models for time-series data.
+
+Visit my website <a href="https://abdullah-mamun.com">here</a>.
