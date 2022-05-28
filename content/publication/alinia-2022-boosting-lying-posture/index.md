@@ -2,7 +2,7 @@
 title: "Boosting Lying Posture Classification with Transfer Learning"
 abstract: ""
 slides: ""
-url_pdf:
+url_pdf: https://drive.google.com/file/d/1VsfvACninvgNJC-hCTxRfTMEoHEns6HE/view?usp=sharing
 publication_types:
   - "2"
 authors:
