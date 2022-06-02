@@ -19,6 +19,13 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Stressalyzer: Convolutional Neural Network Framework for Personalizaed Stress Classification"
+  code_url = "https://github.com/rameshKrSah/WESAD-stress-classification-personalization"
+  paper_url = "https://drive.google.com/file/d/1frDHECipfU4hkiHgmiYdGQuQwwANOS_4/view"
+  description = "The code for Stressalyzer framework for stress classification and personalization (EMBC'22)"
+  date_start = "2022-05-30"
+
+[[item]]
   title = "Stable SGD algorithm for continual learning"
   code_url = "https://github.com/imirzadeh/stable-continual-learning"
   paper_url = "https://proceedings.neurips.cc/paper/2020/file/518a38cc9a0173d0b2dc088166981cf8-Paper.pdf"
