@@ -48,7 +48,7 @@ image:
 url_slides: BLPC.pptx
 
 url_code:
-url_pdf: 
+url_pdf: BLPC.pdf
 url_video:
 
 # Markdown Slides (optional).
