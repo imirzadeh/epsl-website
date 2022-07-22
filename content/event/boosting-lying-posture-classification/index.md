@@ -4,7 +4,7 @@
 title: "Boosting Lying Posture Classification with Transfer Learning"
 event: EMIL Summer'22 Seminars
 event_url:
-location: Zoom (Online)
+location: Online (Zoom)
 address:
   street:
   city:
