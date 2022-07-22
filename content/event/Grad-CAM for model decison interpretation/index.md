@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Neural networks have a bad reputations as they are treated like black boxes and lacks interpretations on the results they make. Grad-CAM can slightly interprete what is driving the model to make a decision. 
+summary: Neural networks have a bad reputations as they are treated like black boxes and lack interpretations on the results they make. Grad-CAM can slightly interprete what is driving the model to make a decision. 
 abstract: This presentation is all about producing visual explanation heat-maps that will help us understand how deep learning algorithms make decisions. We’ll see you how to interpret a dataset of cat & dog images using Grad-CAM and we can easily extend this example and use it for univariate and multivariate timeseries problems.
 
 # Talk start and end times.
