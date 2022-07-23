@@ -18,12 +18,21 @@ date_format = "January 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  title = "ADARP: A Multi Modal Dataset for Stress and Alcohol Relapse Quantification in Real Life Setting"
+  code_url = "https://github.com/rameshKrSah/ADARP_Dataset"
+  data_url = "https://zenodo.org/record/6640290"
+  paper_url = "https://arxiv.org/pdf/2206.14568.pdf"
+  description = "ADARP dataset collected in real-life settings from individuals suffering from alcohol use disorder. This dataset constains qualitative (surveys) and quantitative (sensor values) for stress detection and monitoring. "
+  date_start = "2020-01-01"
+
 [[item]]
   title = "Stressalyzer: Convolutional Neural Network Framework for Personalizaed Stress Classification"
   code_url = "https://github.com/rameshKrSah/WESAD-stress-classification-personalization"
   paper_url = "https://drive.google.com/file/d/1frDHECipfU4hkiHgmiYdGQuQwwANOS_4/view"
   description = "The code for Stressalyzer framework for stress classification and personalization (EMBC'22)"
-  date_start = "2022-05-30"
+  date_start = "2021-05-30"
 
 [[item]]
   title = "Stable SGD algorithm for continual learning"
