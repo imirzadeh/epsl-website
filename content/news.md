@@ -17,6 +17,7 @@ design:
 ## <center>**2022**</center>
 
 - - -
+* \[2022-7] Our paper titled "Multimodal Time-Series Activity Forecasting for Adaptive Lifestyle Intervention Design" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2022).
 
 * \[2022-7] Our paper titled "Forewarning Postprandial Hyperglycemia with Interpretations using Machine Learning" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN’22).
 
