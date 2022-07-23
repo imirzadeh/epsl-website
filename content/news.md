@@ -17,11 +17,16 @@ design:
 ## <center>**2022**</center>
 
 - - -
+
+* \[2022-7] Ramesh's paper titled ADARP: A Multi Modal Dataset for Stress and Alcohol Relapse Quantification in Real Life Setting" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2022).
+
 * \[2022-7] Our paper titled "Multimodal Time-Series Activity Forecasting for Adaptive Lifestyle Intervention Design" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2022).
 
 * \[2022-7] Our paper titled "Forewarning Postprandial Hyperglycemia with Interpretations using Machine Learning" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN’22).
 
 * \[2022-7] Our paper titled "On-Device Machine Learning for Diagnosis of Parkinson's Disease from Hand Drawn Artifacts" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN’22).
+
+* \[2022-7] Dr. Hassan and Ramesh were invited to give a talk about "Stress Monitoring in Real World" at 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2022.
 
 * \[2022-4] Congratulations to Mahdi for acceptance of his paper "Probabilistic Cascading Classifier for Energy-Efficient Activity Monitoring in Wearables" in IEEE Sensors Journal.
 
