@@ -4,7 +4,7 @@ abstract: "Postprandial hyperglycemia (PPHG) is detrimental to health and increa
 slides: ""
 url_pdf: https://drive.google.com/drive/u/0/folders/1b07MN2afnYbyo6-DwuhzqklCmEW56YBI
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Asiful Arefeen
   - Samantha Fessler
