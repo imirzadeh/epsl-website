@@ -3,11 +3,11 @@
 
 title: "ADARP: A Multi Modal Dataset for Stress and Alcohol Relapse Quantification in Real Life Setting"
 authors: [Ramesh Sah, Michael McDonell, Patricia Pendry, Sara Parent, Hassan Ghasemzadeh, Michael J Cleveland]
-date: 2022-06-30T00:00:00-07:00
+date: 2022-07-22T00:00:00-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-30T00:00:00-07:00
+publishDate: 2022-07-22T00:00:00-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: 2022-06-30T00:00:00-07:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv Pre-Print"
-publication_short: "arXiv"
+publication: "IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN), 2022"
+publication_short: "BSN 2022"
 
 abstract: "Stress detection and classification from wearable sensor data is an emerging area of research with significant implications for individuals' physical and mental health. In this work, we introduce a new dataset, ADARP, which contains physiological data and self-report outcomes collected in real-world ambulatory settings involving individuals diagnosed with alcohol use disorders. We describe the user study, present details of the dataset, establish the significant correlation between physiological data and self-reported outcomes, demonstrate stress classification, and make our dataset public to facilitate research."
 
