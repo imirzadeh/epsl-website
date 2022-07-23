@@ -49,4 +49,5 @@ user_groups:
 - PhD Students
 ---
 ## About Me
+
 Hi, I am a Computer Science Ph.D. student at Washington State University (WSU). My research aims to enable and assist people by inventing technologies and processes that promote well-being and help make healthy decisions. I study stress and the implications of stress in daily living conditions. In particular, I am interested in developing intelligent mobile health systems that can detect moments of stress in real-time using machine learning and sensor systems. I believe mobile health systems to be the next frontier in healthcare. Such systems can generate novel health assessment opportunities and interventions strategies to transform and improve people's lives. I use embedded sensor systems to collect time-series data related to various bio-markers and train state-of-the-art machine learning models while addressing class imbalance, noisy labels, and small datasets issues. To learn more about me [website](https://rameshkrsah.github.io/).
