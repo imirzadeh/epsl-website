@@ -18,6 +18,10 @@ design:
 
 - - -
 
+* \[2022-7] Our paper titled "Forewarning Postprandial Hyperglycemia with Interpretations using Machine Learning" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN’22).
+
+* \[2022-7] Our paper titled "On-Device Machine Learning for Diagnosis of Parkinson's Disease from Hand Drawn Artifacts" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN’22).
+
 * \[2022-4] Congratulations to Mahdi for acceptance of his paper "Probabilistic Cascading Classifier for Energy-Efficient Activity Monitoring in Wearables" in IEEE Sensors Journal.
 
 * \[2022-3] Ramesh's "Stressalyzer: Convolutional Neural Network Framework for Personalized Stress Classification" paper accepted for publication at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).
