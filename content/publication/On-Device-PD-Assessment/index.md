@@ -21,13 +21,13 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-summary: ""
+summary: "CNN model developed, quantized, and deployed on Android platform to screen PD patients from hand-drawn spirals"
 url_dataset: null
 url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: "CNN model developed, quantized, and deployed on Android platform to screen PD patients from hand-drawn spirals"
+projects: ""
 date: 2022-07-20T01:22:35-07:00
 url_slides: null
 publishDate: 2022-07-20T01:22:35-07:00
