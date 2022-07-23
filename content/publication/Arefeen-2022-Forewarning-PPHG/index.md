@@ -14,7 +14,7 @@ doi:
 publication: "IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN’22)"
 featured: false
 tags: ["featured"]
-categories: ["1"]
+categories: ""
 image:
   caption: ""
   focal_point: ""
