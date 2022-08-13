@@ -18,6 +18,8 @@ design:
 
 - - -
 
+* \[2022-8] Our paper titled "Computational Framework for Sequential Diet Recommendation: Integrating Linear Optimization and Clinical Domain Knowledge" got accepted at International Conference on Connected Health: Applications, Systems and Engineering Technologies (IEEE/ACM CHASE 2022).
+
 * \[2022-7] Ramesh's paper titled ADARP: A Multi Modal Dataset for Stress and Alcohol Relapse Quantification in Real Life Setting" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2022).
 
 * \[2022-7] Our paper titled "Multimodal Time-Series Activity Forecasting for Adaptive Lifestyle Intervention Design" got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2022).
