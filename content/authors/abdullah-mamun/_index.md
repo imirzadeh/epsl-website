@@ -27,13 +27,23 @@ bio: I am a Ph.D. student at Arizona State University. I work as a Graduate Rese
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:a.mamun@asu.edu
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ab9mamun/
+  link: 'mailto:a.mamun@asu.edu'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar  
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=SOJ1o5QAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Abdullah-Mamun-35
 - icon: github
   icon_pack: fab
-  link: https://github.com/ab9mamun/
+  link: https://github.com/ab9mamun
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ab9mamun
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
