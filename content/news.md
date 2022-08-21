@@ -17,6 +17,7 @@ design:
 ## <center>**2022**</center>
 
 - - -
+* \[2022-8] Chia-Cheng Kuo joined EMIL as an MS student.
 
 * \[2022-8] Our paper titled "Computational Framework for Sequential Diet Recommendation: Integrating Linear Optimization and Clinical Domain Knowledge" got accepted at International Conference on Connected Health: Applications, Systems and Engineering Technologies (IEEE/ACM CHASE 2022).
 
