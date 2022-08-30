@@ -43,7 +43,7 @@ Ali joined joined Yelp Inc., San Francisco, CA, as Machine Learning Engineer in 
 
 PhD Dissertation: Dynamic Adaptation of Recognition Algorithms on Wearables with Minimal Human Supervision
 
-Awards:
+<strong>Awards:</strong>
 1. WSU Russ and Anne Fuller Fellowship for Interdisciplinary Research/Scholarship  2018 (awarded to 3-5 students university-wide each year)
 2. WSU Russ and Anne Fuller Fellowship for Interdisciplinary Research/Scholarship,  2017 (awarded to 3-5 students university-wide each year)
 3. WSU Graduate & Professional Students Association (GPSA) Research Assistant Excellence Award, 2017
