@@ -40,6 +40,14 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni.
+Parastoo Alinia, PhD, Computer Science, Washington State University (2014-2020)
 
-Parastoo Alinia is an Applied Scientist at Amazon, Atlanta, GA.
+Parastoo joined joined Amazon.com, Atlanta, GA, as Applied Scientist in 2021
+
+PhD Dissertation: Boosting Performance and Wearability of Activity Monitoring Systems with Transfer Learning
+
+Awards:
+1. WSU Graduate & Professional Student Association (GPSA) Teaching Assistant Award of Excellence, 2018
+2. WSU School of EECS Outstanding TA Award in Computer Science (awarded to 1 computer science student each year), 2017
+3. NSF-Supported ACM Wireless Health conference travel award, 2014
+

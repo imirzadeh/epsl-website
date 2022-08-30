@@ -37,6 +37,13 @@ social:
 user_groups:
 - Alumni
 ---
-Lab Alumni.
+Ramin Fallahzadeh, PhD, Computer Science, Washington State University (2014-2018)
 
-Ramin Fallahzadeh is a Senior Applied Scientist at GROQ Health, NY.
+Ramin joined Stanford University, Stanford, CA, as Postdoctoral Researcher in 2018
+
+PhD Dissertation: Computational Algorithms for Improving Energy Efficiency and Reliability in Wearables
+
+Awards:
+1. EECS Best Graduate Student Researcher Award in Computer Science (awarded to 1 CS student each year), 2018
+2. WSU Russ and Anne Fuller Fellowship for Interdisciplinary Research/Scholarship, 2018 (awarded to 3-5 students university-wide each year)
+3. NSF-Supported PerCom student travel award, 2015

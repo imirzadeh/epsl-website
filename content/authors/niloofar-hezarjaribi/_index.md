@@ -37,6 +37,8 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni.
+Niloofar Hezarjaribi, PhD, Computer Science, Washington State University (2015-2019)
 
-Niloofar Hezarjaribi is a Software Engineer at Microsoft, Bellevue, WA.
+Niloofar joined Microsoft, Bellevue, WA, as Software Engineer in 2019
+
+PhD Dissertation: Learning from Unstructured Data to Monitor Human Health

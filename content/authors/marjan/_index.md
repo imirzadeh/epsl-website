@@ -34,6 +34,8 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni.
+Marjan Nourollahi, MS, Computer Science, Washington State University (2016-2019)
 
-Marjan Nourollahi is a Machine Learning Engineer at ROMBOT, San Jose, CA.
+Marjan joined Rombot Inc., San Francisco, CA, as Machine Learning Engineer in 2019
+
+MS Thesis: Proximity-based Active Learning on Streaming Data for Eating Moment Recognition using Wearable Sensors

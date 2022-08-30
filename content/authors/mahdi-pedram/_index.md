@@ -48,6 +48,8 @@ email: "mahdi.pedram@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni.
+Mahdi Pedram, PhD, Computer Engineering, Washington State University (2016-2021)
 
-Mahdi Pedram is a Postdoctoral Researcher at Northwestern University, Chicago, IL.
+Mahdi joined Northwestern University, Evanston, IL, as Postdoctoral Fellow in 2022
+
+PhD Dissertation: Designing Resource Efficient Embedded Systems for Health Monitoring

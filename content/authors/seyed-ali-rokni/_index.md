@@ -37,6 +37,15 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni.
+Ali Rokni, PhD, Computer Science, Washington State University (2014-2018)
 
-Ali Rokni is working as a Machine Learning Engineer (Tech Lead) at Yelp, San Francisco, CA.
+Ali joined joined Yelp Inc., San Francisco, CA, as Machine Learning Engineer in 2018
+
+PhD Dissertation: Dynamic Adaptation of Recognition Algorithms on Wearables with Minimal Human Supervision
+
+Awards:
+1. WSU Russ and Anne Fuller Fellowship for Interdisciplinary Research/Scholarship  2018 (awarded to 3-5 students university-wide each year)
+2. WSU Russ and Anne Fuller Fellowship for Interdisciplinary Research/Scholarship,  2017 (awarded to 3-5 students university-wide each year)
+3. WSU Graduate & Professional Students Association (GPSA) Research Assistant Excellence Award, 2017
+4. NSF-Supported ACM Wireless Health conference travel award, 2014
+
