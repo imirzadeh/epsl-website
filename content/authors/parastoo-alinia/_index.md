@@ -44,7 +44,7 @@ Parastoo Alinia, PhD, Computer Science, Washington State University (2014-2020)
 
 Parastoo joined joined Amazon.com, Atlanta, GA, as Applied Scientist in 2021
 
-PhD Dissertation: Boosting Performance and Wearability of Activity Monitoring Systems with Transfer Learning
+<strong>PhD Dissertation:</strong> Boosting Performance and Wearability of Activity Monitoring Systems with Transfer Learning
 
 <strong>Awards:</strong>
 1. WSU Graduate & Professional Student Association (GPSA) Teaching Assistant Award of Excellence, 2018

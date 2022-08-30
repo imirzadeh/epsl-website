@@ -52,4 +52,4 @@ Mahdi Pedram, PhD, Computer Engineering, Washington State University (2016-2021)
 
 Mahdi joined Northwestern University, Evanston, IL, as Postdoctoral Fellow in 2022
 
-PhD Dissertation: Designing Resource Efficient Embedded Systems for Health Monitoring
+<strong>PhD Dissertation:</strong> Designing Resource Efficient Embedded Systems for Health Monitoring

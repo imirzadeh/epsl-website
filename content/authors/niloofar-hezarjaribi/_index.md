@@ -41,4 +41,4 @@ Niloofar Hezarjaribi, PhD, Computer Science, Washington State University (2015-2
 
 Niloofar joined Microsoft, Bellevue, WA, as Software Engineer in 2019
 
-PhD Dissertation: Learning from Unstructured Data to Monitor Human Health
+<strong>PhD Dissertation:</strong> Learning from Unstructured Data to Monitor Human Health

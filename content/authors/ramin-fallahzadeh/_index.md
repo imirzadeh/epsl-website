@@ -41,7 +41,7 @@ Ramin Fallahzadeh, PhD, Computer Science, Washington State University (2014-2018
 
 Ramin joined Stanford University, Stanford, CA, as Postdoctoral Researcher in 2018
 
-PhD Dissertation: Computational Algorithms for Improving Energy Efficiency and Reliability in Wearables
+<strong>PhD Dissertation:</strong> Computational Algorithms for Improving Energy Efficiency and Reliability in Wearables
 
 <strong>Awards:</strong>
 1. EECS Best Graduate Student Researcher Award in Computer Science (awarded to 1 CS student each year), 2018

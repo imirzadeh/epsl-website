@@ -38,4 +38,4 @@ Marjan Nourollahi, MS, Computer Science, Washington State University (2016-2019)
 
 Marjan joined Rombot Inc., San Francisco, CA, as Machine Learning Engineer in 2019
 
-MS Thesis: Proximity-based Active Learning on Streaming Data for Eating Moment Recognition using Wearable Sensors
+<strong>MS Thesis:</strong> Proximity-based Active Learning on Streaming Data for Eating Moment Recognition using Wearable Sensors

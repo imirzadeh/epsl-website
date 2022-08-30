@@ -44,7 +44,7 @@ Yuchao Ma, PhD, Computer Science, Washington State University (2014-2018)
 
 Yuchao joined joined Amazon.com, Seattle, WA, as Applied Scientist in 2018
 
-PhD Dissertation: Non-Parametric and Transfer Learning Algorithms for Autonomous Wearable Computing
+<strong>PhD Dissertation:</strong> Non-Parametric and Transfer Learning Algorithms for Autonomous Wearable Computing
 
 <strong>Awards:</strong>
 1. NSF-Supported BSN Conference Student Travel Award, 2018
