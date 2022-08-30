@@ -40,6 +40,16 @@ email: "random@wsu.edu"
 user_groups:
 - Alumni
 ---
-Lab Alumni.
+Yuchao Ma, PhD, Computer Science, Washington State University (2014-2018)
 
-Yuchao Ma is an Applied Scientist at Amazon, Seattle, WA.
+Yuchao joined joined Amazon.com, Seattle, WA, as Applied Scientist in 2018
+
+PhD Dissertation: Non-Parametric and Transfer Learning Algorithms for Autonomous Wearable Computing
+
+Awards:
+1. NSF-Supported BSN Conference Student Travel Award, 2018
+2. WSU Graduate and Professional Student Association (GPSA) Research Exposition Scholarship, 2017
+3. NSF-Supported SMARTCOMP student travel award, 2016
+4. Grace Hopper (GHC) travel scholarship, 2015
+5. NSF-Supported PerCom student travel award, 2015
+
