@@ -46,7 +46,7 @@ Parastoo joined joined Amazon.com, Atlanta, GA, as Applied Scientist in 2021
 
 PhD Dissertation: Boosting Performance and Wearability of Activity Monitoring Systems with Transfer Learning
 
-Awards:
+<strong>Awards:</strong>
 1. WSU Graduate & Professional Student Association (GPSA) Teaching Assistant Award of Excellence, 2018
 2. WSU School of EECS Outstanding TA Award in Computer Science (awarded to 1 computer science student each year), 2017
 3. NSF-Supported ACM Wireless Health conference travel award, 2014

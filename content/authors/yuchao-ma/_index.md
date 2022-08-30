@@ -46,7 +46,7 @@ Yuchao joined joined Amazon.com, Seattle, WA, as Applied Scientist in 2018
 
 PhD Dissertation: Non-Parametric and Transfer Learning Algorithms for Autonomous Wearable Computing
 
-Awards:
+<strong>Awards:</strong>
 1. NSF-Supported BSN Conference Student Travel Award, 2018
 2. WSU Graduate and Professional Student Association (GPSA) Research Exposition Scholarship, 2017
 3. NSF-Supported SMARTCOMP student travel award, 2016
