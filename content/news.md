@@ -18,7 +18,7 @@ design:
 
 - - -
 
-* \[2022-9] Our Journal titled "Use of Machine Learning to Predict Medication Adherence in Individuals at Risk for Atherosclerotic Cardiovascular Disease" got accepted at Elsevier Smart Health.
+* \[2022-9] Our journal titled "Use of Machine Learning to Predict Medication Adherence in Individuals at Risk for Atherosclerotic Cardiovascular Disease" got accepted at Elsevier Smart Health.
 
 * \[2022-8] Chia-Cheng Kuo joined EMIL as an MS student.
 
