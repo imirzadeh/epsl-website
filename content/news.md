@@ -17,6 +17,9 @@ design:
 ## <center>**2022**</center>
 
 - - -
+
+* \[2022-9] Asif received NSF Student Travel Award to attend IEEE/ACM CHASE'22.
+
 * \[2022-9] Abdullah's paper, "Multimodal Time-Series Activity Forecasting for Adaptive Lifestyle Intervention Design," has been awarded Honorable Mention at the Best Paper Award of the IEEE BSN 2022 conference in Ioannina, Greece.
 
 * \[2022-9] Our journal titled "Use of Machine Learning to Predict Medication Adherence in Individuals at Risk for Atherosclerotic Cardiovascular Disease" got accepted at Elsevier Smart Health.
