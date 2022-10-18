@@ -26,6 +26,7 @@ date_format = "January 2006"
   paper_url = "https://arxiv.org/pdf/2206.14568.pdf"
   description = "ADARP dataset collected in real-life settings from individuals suffering from alcohol use disorder. This dataset constains qualitative (surveys) and quantitative (sensor values) for stress detection and monitoring. "
   date_start = "2022-06-01"
+  dataset_url = "https://zenodo.org/record/6640290#.Y08oyXbMKpo"
 
 [[item]]
   title = "Stressalyzer: Convolutional Neural Network Framework for Personalizaed Stress Classification"
