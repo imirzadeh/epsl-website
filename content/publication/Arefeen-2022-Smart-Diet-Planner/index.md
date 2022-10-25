@@ -25,7 +25,7 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: ""
+projects: ["human-in-the-loop-learning"]
 date: 2022-08-12T01:22:35-07:00
 url_slides: null
 publishDate: 2022-08-12T01:22:35-07:00
