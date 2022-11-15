@@ -16,4 +16,5 @@ publication: ACM Transactions on Interactive Intelligent Systems (TiiS), Article
   No. 23, November 2019 (Recipient of 2019 ACM TiiS Honorable Mention)
 abstract: ""
 featured: false
+projects: ["human-in-the-loop-learning"]
 ---

@@ -44,7 +44,7 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: https://www.youtube.com/watch?v=X21-uEBwmNw
-projects: []
+projects: ["Computational-Autonomy"]
 date: 2020-04-21T00:03:28-07:00
 url_slides: null
 publishDate: 2020-04-21T00:03:28-07:00

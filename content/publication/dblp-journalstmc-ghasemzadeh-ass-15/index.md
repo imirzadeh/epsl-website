@@ -13,4 +13,5 @@ authors:
 publication: IEEE Transactions on Mobile Computing (TMC), 14(4), pp.800-812, 2016
 abstract: ""
 featured: false
+projects: ["Edge-AI"]
 ---

@@ -27,10 +27,10 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: ""
 date: 2022-07-20T01:22:35-07:00
 url_slides: null
 publishDate: 2022-07-20T01:22:35-07:00
 url_poster: null
 url_code: null
+projects: ["Edge-AI"]
 ---
