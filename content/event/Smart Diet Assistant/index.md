@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Computational Framework for Sequential Diet Recommendation:Integrating Linear Optimization and Clinical Domain Knowledge"
+title: "Computational Framework for Sequential Diet Recommendation: Integrating Linear Optimization and Clinical Domain Knowledge"
 event: EMIL Fall'22 Seminars
 event_url:
 location: Online (Zoom)
@@ -45,7 +45,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: diet_assistant.pptx
+url_slides: diet.pptx
 
 url_code:
 url_pdf: "https://drive.google.com/file/d/1-9-ZvlrbSpoxNDhRJevXPMQOtEP7vZlg/view"
