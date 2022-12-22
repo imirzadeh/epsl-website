@@ -18,11 +18,11 @@ several costly experiments. This paper presents an approach combining empirical 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2022-12-21T15:00:00-07:00
-date_end: 2022-12-21T16:00:00-07:00
+date_end: 2022-10-19T16:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-12-21T16:00:20-07:00
+publishDate: 2022-12-21T16:50:20-07:00
 
 authors: [asiful-arefeen]
 tags: []
