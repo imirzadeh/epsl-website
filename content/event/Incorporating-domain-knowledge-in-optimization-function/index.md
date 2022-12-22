@@ -47,7 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: domain_k.pptx
+url_slides: DMN.pptx
 
 url_code:
 url_pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/17116"
