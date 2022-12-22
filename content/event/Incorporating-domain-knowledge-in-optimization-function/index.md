@@ -11,18 +11,18 @@ address:
   region:
   postcode:
   country:
-summary:  Incorporating domain knowledge to neural networks is a creative and case specific approach. This paper modifies the loss function of a fully-connected network with domain knowledge from kinetics which helped the model make precise prediction in its regression task.
+summary: Incorporating domain knowledge to neural networks is a creative and case specific approach. This paper modifies the loss function of a fully-connected network with domain knowledge from kinetics which helped the model make precise prediction in its regression task.
 abstract: The synthesis of materials using the principle of thermogravimetric analysis to discover new anticorrosive paints requires
 several costly experiments. This paper presents an approach combining empirical data and domain analytical models to reduce the number of real experiments required to obtain the desired synthesis. The main idea is to predict the behavior of the synthesis of two materials with well-defined mass proportions as a function of temperature. As no exact equational model exists to predict the new material, we integrate a machine learning approach circumscribed by existing domain analytical models such as heating equation in order to derive a generative model of augmented experiments. Extensive empirical evaluation shows that using machine learning approach guided by analytic models, it is possible to substantially reduce the number of needed physical experiments without losing the approximation quality.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2022-12-21T15:00:00-07:00
-date_end: 2022-10-19T16:00:00-07:00
+date_end: 2022-12-21T15:45:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-12-21T16:50:20-07:00
+publishDate: 2022-12-21T19:00:00-07:00
 
 authors: [asiful-arefeen]
 tags: []
@@ -50,7 +50,7 @@ image:
 url_slides: DMN.pptx
 
 url_code:
-url_pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/17116"
+url_pdf: "https://arxiv.org/abs/1602.04938"
 url_video:
 
 # Markdown Slides (optional).
