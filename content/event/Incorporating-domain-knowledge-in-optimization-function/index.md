@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Augmented Experiment in Material Engineering Using Machine Learning"
+title: Augmented Experiment in Material Engineering Using Machine Learning
 event: EMIL Fall'22 Seminars
 event_url:
 location: Online (Zoom)
