@@ -14,6 +14,14 @@ design:
 ---
 - - -
 
+## <center>**2023**</center>
+
+- - -
+
+* \[2023-1] Reza Rahimi Azghan joined EMIL as a PhD student.
+
+- - -
+
 ## <center>**2022**</center>
 
 - - -
