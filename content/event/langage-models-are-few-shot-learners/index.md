@@ -9,6 +9,8 @@ all_day: false
 links:
   - url: https://arxiv.org/abs/2005.14165
     name: "PDF"
+  - url: slides.pdf
+    name: "slides"
 event: EMIL Spring'23 Seminars
 event_url: " "
 publishDate: 2023-02-15T20:56:00.000Z
