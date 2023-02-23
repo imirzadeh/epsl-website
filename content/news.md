@@ -18,6 +18,8 @@ design:
 
 - - -
 
+* \[2023-2] Congratulations to Prisha Shroff on winning the 1st place at the Junior Science and Humanities Symposium (JSHS). Prisha is a student of Hamilton High School – Chandler, AZ and an ASU SCENE (SCience and ENgineering Experience) fellow working in our lab. Read more: <a href="https://sarsef.org/congratulations-to-the-2023-jshs-winners/">2023 Arizona JSHS Winners</a>, <a href="https://eoss.asu.edu/access/scene">SCENE</a>, <A href="https://jshs.org/">JSHS</a>.
+
 * \[2023-1] Reza Rahimi Azghan joined EMIL as a PhD student.
 
 - - -
