@@ -20,9 +20,9 @@ authors:
 # User Studies:
 ## Human-in-the-Loop Data Collection Using Wearable Sensors and Mobile Devices for Machine Learning Algorithm Design
 This research study aims to collect sensor data that will be used to develop machine learning algorithms. We want to collect data from a set of typical activities of daily living. The data collected in this study will be fully de-identified. You are being asked to take part because you are eligible to participate in this experiment. You will be considered eligible if you 1) are 18 years of age or older, 2) speak English, 3) have the desire to participate in data collection, and 4) have an Android smartphone with data plan. You are not eligible to participate if 1) you have severe cognitive, hearing, visual, or mobility impairment that would impact your ability to complete study procedures. We will collect data from 20 individuals in this study.<br>
-- <a href="https://ghasemzadeh.com/cps_resources/cps_consent_2023_03.pdf" target="_blank">Flyer</a>
+- <a href="https://ghasemzadeh.com/cps_resources/cps_flyer_2023_03.pdf" target="_blank">Flyer</a>
 - Interested? Fill this <a href="https://www.surveymonkey.com/r/V79VVWR" target="_blank">screning survey</a>.
-- <a href="https://ghasemzadeh.com/cps_resources/cps_flyer_2023_03.pdf" target="_blank">Consent Form</a>
+- <a href="https://ghasemzadeh.com/cps_resources/cps_consent_2023_03.pdf" target="_blank">Consent Form</a>
 
 # Related Research Papers:
 
