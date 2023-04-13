@@ -46,11 +46,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: dragonnet.pdf
-
-url_code:
-url_pdf: "https://arxiv.org/pdf/1906.02120"
-url_video:
+links:
+  - url: https://arxiv.org/pdf/1906.02120.pdf
+    name: "PDF"
+  - url: dragonnet.pdf
+    name: "slides"
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
