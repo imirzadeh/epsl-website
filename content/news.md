@@ -18,7 +18,7 @@ design:
 
 - - -
 
-* \[2023-4] Abdullah Mamun was invited as a panelist for the AI for Good session at the <a href="https://na.eventscloud.com/ehome/index.php?eventid=745717" target="_blank">Machine Learning Day 2023</a> at ASU West Campus. <a href="https://ghasemzadeh.com/event/time-series-wearable-activity-forecasting/">Slides</a> &nbsp <a href="https://www.linkedin.com/posts/ab9mamun_glad-to-present-my-work-as-an-invited-speaker-activity-7053471954346938368-dKFT">Pictures</a>
+* \[2023-4] Abdullah Mamun was invited as a panelist for the AI for Good session at the <a href="https://na.eventscloud.com/ehome/index.php?eventid=745717" target="_blank">Machine Learning Day 2023</a> at ASU West Campus. <a href="https://ghasemzadeh.com/event/time-series-wearable-activity-forecasting/">Slides</a>, <a href="https://www.linkedin.com/posts/ab9mamun_glad-to-present-my-work-as-an-invited-speaker-activity-7053471954346938368-dKFT">Pictures</a>.
 
 * \[2023-2] Congratulations to Prisha Shroff on winning the 1st place at the Junior Science and Humanities Symposium (JSHS). Prisha is a student of Hamilton High School – Chandler, AZ and an ASU SCENE (SCience and ENgineering Experience) fellow working in our lab. Read more: <a href="https://eoss.asu.edu/access/scene" target="_blank">SCENE</a>, <a href="https://jshs.org/" target="_blank">JSHS</a>, <a href="https://sarsef.org/congratulations-to-the-2023-jshs-winners/" target="_blank">2023 Arizona JSHS Winners</a>. <small> (A wrong project name was printed by mistake at the press release. The correct project name would be "GlucoseAssist: A Novel, Personalized, Early System for Prediction of Blood Glucose Levels, Postprandial Hyperglycemia and Reactive Hypoglycemia using Neural Networks.")</small>
 
