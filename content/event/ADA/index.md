@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Training Generative Adversarial Networks with Limited Data"
-event: EMIL Spring'22 Seminars
+event: EMIL Spring'23 Seminars
 event_url:
 location: Online (Zoom)
 address:
