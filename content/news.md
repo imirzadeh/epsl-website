@@ -27,6 +27,8 @@ design:
 
 * \[2023-1] Reza Rahimi Azghan joined EMIL as a PhD student.
 
+* \[2023-1] Ramesh Sah joined Samsung Research America (SRA) as a research intern.
+
 - - -
 
 ## <center>**2022**</center>
