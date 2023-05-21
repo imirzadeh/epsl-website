@@ -49,6 +49,18 @@ Few examples of the projects in which the students could be involved are:
 
 REU students are mentored by Dr. Hassan Ghasemzadeh, Associate Professor and Director of [Embedded Machine Intelligence Lab](https://ghasemzadeh.com/) at Arizona State University, and Dr. Mona Ghandi, Assistant Professor and Director of [Morphogenesis Lab](https://www.morphogenesislab.com/) at Washington State University. In addition to conducting cutting-edge research, students will also have the benefit of participating in weekly technical team meetings and seminar series and working in an interdisciplinary and multicultural team with hands-on research projects. Below we list participants of past REU programs and their projects.
 
+## 2022
+
+### Emotion Recognition using Wearables
+
+* Jared Kelnhofer, *Walla Walla Community College, WA*
+* Mentors: Mona Ghandi
+
+### Realtime Stress Detection and Classification on a Smartphone
+
+* Richard Castro, *Washington State University, WA*
+* Mentors: Hassan Ghasemzadeh, Ramesh Kumar Sah
+
 ## 2021
 
 ### Emotion Prediction from EEG Data using Convolutional Neural Network vs LSTM for Signal Processing
