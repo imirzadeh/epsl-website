@@ -18,7 +18,7 @@ design:
 
 - - -
 
-* \[2023-6] Asif received ["Garduate College University Grant"](https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships/graduate-college-university-grant) from ASU again for 2023-2024 session.
+* \[2023-6] Asif received [Garduate College University Grant](https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships/graduate-college-university-grant) from ASU again for 2023-2024 session.
 
 * \[2023-4] Congratulations to Asif for passing the Biomedical Informatics PhD Comprehensive Exam (Comp).
 
@@ -67,7 +67,7 @@ design:
 
 * \[2022-3] Our paper titled "Boosting Lying Posture Classification with Transfer Learning" got accepted at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).
 
-* \[2022-3] Asif received ["Garduate College University Grant"](https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships/graduate-college-university-grant) from ASU for 2022-2023 session.
+* \[2022-3] Asif received [Garduate College University Grant](https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships/graduate-college-university-grant) from ASU for 2022-2023 session.
 
 
 - - -
