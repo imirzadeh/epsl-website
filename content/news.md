@@ -20,6 +20,8 @@ design:
 
 * \[2023-6] Asif received [Garduate College University Grant](https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships/graduate-college-university-grant) from ASU again for 2023-2024 session.
 
+* \[2023-5] Iman Mirzadeh has joined Apple as a Machine Learning Research Engineer. Congratulations, Dr. Mirzadeh.
+
 * \[2023-4] Congratulations to Asif for passing the Biomedical Informatics PhD Comprehensive Exam (Comp).
 
 * \[2023-4] Abdullah Mamun was invited as a panelist for the AI for Good session at the <a href="https://na.eventscloud.com/ehome/index.php?eventid=745717" target="_blank">Machine Learning Day 2023</a> at ASU West Campus. <a href="https://ghasemzadeh.com/event/time-series-wearable-activity-forecasting/" target="_blank">Slides</a>, <a href="https://www.linkedin.com/posts/ab9mamun_glad-to-present-my-work-as-an-invited-speaker-activity-7053471954346938368-dKFT" target="_blank">Pictures</a>.
