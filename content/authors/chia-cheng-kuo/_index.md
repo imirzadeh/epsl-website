@@ -7,10 +7,10 @@ authors:
 - chia-cheng-kuo
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: Graduate Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.asu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a master student studying Computer Engineering (Computer Systems Specialization) in Arizona State University, Tempe. Currently working on research projects in Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh.
+bio: Chia-Cheng Kuo, MS, Computer Engineering, Arizona State University (2021-2023)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- MS Students
+- Alumni
 ---
-## About Me
-I'm a master student studying Computer Engineering (Computer Systems Specialization) in Arizona State University, Tempe. Currently working on research projects in Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh. My research interest is in machine learning and bioinformatics. I received my B.S. in Electrical Engineering from National Cheng Kung University.
+Chia-Cheng (Charles) Kuo, MS, Computer Engineering, Arizona State University (2021-2023)
+Charles joined Propersys Corporation as a Database Developer in 2023.
