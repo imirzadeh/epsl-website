@@ -47,4 +47,5 @@ user_groups:
 - Alumni
 ---
 Chia-Cheng (Charles) Kuo, MS, Computer Engineering, Arizona State University (2021-2023)
+
 Charles joined Propersys Corporation as a Database Developer in 2023.
