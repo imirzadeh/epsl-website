@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Graduate Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -42,7 +42,7 @@ user_groups:
 ---
 Parastoo Alinia, PhD, Computer Science, Washington State University (2014-2020)
 
-Parastoo joined joined Amazon.com, Atlanta, GA, as Applied Scientist in 2021
+Parastoo joined Amazon.com, Atlanta, GA, as Applied Scientist in 2021
 
 <strong>PhD Dissertation:</strong> Boosting Performance and Wearability of Activity Monitoring Systems with Transfer Learning
 

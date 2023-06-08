@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Graduate Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://imirzadeh.me"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student and Graduate Research Assistant at the Washington State University Embedded Machine Intelligence Lab (EMIL) under supervision of Dr. Hassan Ghasemzadeh. I am interested in the real-world challenges of working with machine learning models such as energy constraints and human-in-the-loop interactions with these models. Specifically, I am focusing on Model Optimization (such as model compression), where my goal is to build more efficient models or use the existing models more efficiently. Before joining EMIL, I was an ML Engineer at Sokhan AI, where we provided accurate and scalable Natural Language Processing (NLP) and Computer Vision (CV) services to businesses.
+bio: Iman Mirzadeh, PhD, Computer Science (Artificial Intelligence), Washington State University (2018-2022)
 
 
 # Social/Academic Networking
@@ -43,9 +43,9 @@ social:
   link: https://www.linkedin.com/in/iman-mirzadeh-a687278b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: https://www.imirzadeh.me/dl/cv_imirzadeh.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: https://www.imirzadeh.me/dl/cv_imirzadeh.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "seyediman.mirzadeh@wsu.edu"
@@ -53,7 +53,23 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
-## About Me
-I am a PhD student and Graduate Research Assistant at the Washington State University Embedded Machine Intelligence Lab (EMIL) under supervision of Dr. Hassan Ghasemzadeh. I am interested in the real-world challenges of working with machine learning models such as energy constraints and human-in-the-loop interactions with these models. Specifically, I am focusing on Model Optimization (such as model compression), where my goal is to build more efficient models or use the existing models more efficiently. Before joining EMIL, I was an ML Engineer at Sokhan AI, where we provided accurate and scalable Natural Language Processing (NLP) and Computer Vision (CV) services to businesses.
+Iman Mirzadeh, PhD, Computer Science (Artificial Intelligence), Washington State University (2018-2022).
+
+Iman joined Apple as a Machine Learning Research Engineer in 2023.
+
+<strong>PhD Dissertation:</strong> Alleviating Catastrophic Forgetting in Continual Learning.
+
+<strong>Awards:</strong>
+(2021) Recipient of the NeurIPS 2021 Outstanding Reviewer Award given to the top 8% of the reviewers.
+(2020) Recipient of the runner-up best paper award in CVPR Workshop on Continual Learning.
+(2018) Received Fellowship for CS PhD program from Washington State University.
+
+<strong>Professional Activities:</strong>
+_Conference Reviewer:_ NeurIPS (21-23), ICML (22-23), ICLR (22-23), AISTATS’22, AAAI’22
+_Journal Reviewer:_ Transactions on Machine Learning Research (TMLR) (2022), Journal of Machine Learning
+Research (JMLR) (2022), IEEE Sensors Journal (2020), Springer Neural Processing Letters (2019)
+
+
+<!--I am a PhD student and Graduate Research Assistant at the Washington State University Embedded Machine Intelligence Lab (EMIL) under supervision of Dr. Hassan Ghasemzadeh. I am interested in the real-world challenges of working with machine learning models such as energy constraints and human-in-the-loop interactions with these models. Specifically, I am focusing on Model Optimization (such as model compression), where my goal is to build more efficient models or use the existing models more efficiently. Before joining EMIL, I was an ML Engineer at Sokhan AI, where we provided accurate and scalable Natural Language Processing (NLP) and Computer Vision (CV) services to businesses.-->
