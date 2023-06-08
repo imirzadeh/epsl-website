@@ -67,7 +67,7 @@ Iman joined Apple as a Machine Learning Research Engineer in 2023.
 (2018) Received Fellowship for CS PhD program from Washington State University.
 
 <strong>Professional Activities:</strong>
-_Conference Reviewer:_ NeurIPS (21-23), ICML (22-23), ICLR (22-23), AISTATS’22, AAAI’22
+_Conference Reviewer:_ NeurIPS (21-23), ICML (22-23), ICLR (22-23), AISTATS'22, AAAI'22
 _Journal Reviewer:_ Transactions on Machine Learning Research (TMLR) (2022), Journal of Machine Learning
 Research (JMLR) (2022), IEEE Sensors Journal (2020), Springer Neural Processing Letters (2019)
 
