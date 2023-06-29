@@ -18,6 +18,8 @@ design:
 
 - - -
 
+* \[2023-6] Parastoo's paper titled [Model-Agnostic Structural Transfer Learning for Cross-Domain Autonomous Activity Recognition](https://drive.google.com/file/d/1IfKsf5c_xvIWR-0ICwXeJhowdrUxuRz4/view?usp=sharing) got accepted at the Sensors Journal.
+
 * \[2023-6] Asif received [Garduate College University Grant](https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships/graduate-college-university-grant) from ASU again for 2023-2024 session.
 
 * \[2023-5] Iman Mirzadeh has joined Apple as a Machine Learning Research Engineer. Congratulations, Dr. Mirzadeh.
