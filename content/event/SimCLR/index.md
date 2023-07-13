@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: Contrastive_Learning.pptx
+url_slides: CL.pptx
 
 url_code:
 url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9382392/pdf/ocac086.pdf"
