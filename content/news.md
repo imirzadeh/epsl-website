@@ -18,6 +18,10 @@ design:
 
 - - -
 
+* \[2023-7] Asif's paper titled "GlySim: Modeling and Simulating Glycemic Response for Behavioral Lifestyle Interventions" got accepted at the IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23).
+
+* \[2023-7] Asif's paper titled "Inter-Beat Interval Estimation with Tiramisu Model: A Novel Approach with Reduced Error" got accepted at the ACM Health.
+
 * \[2023-7] In collaboration with Mayo Clinic, EMIL has been awarded the [2023 Mayo Clinic and Arizona State University Alliance for Health Care - Collaborative Research Seed Grant](https://funding.asu.edu/articles/mayo-clinic-and-arizona-state-university-alliance-health-care-2023-collaborative-research) titled "Machine Learning Design to Predict and Manage Postprandial Hyperglycemia in Patients with Type 1 Diabetes"
 
 * \[2023-6] Parastoo's paper titled [Model-Agnostic Structural Transfer Learning for Cross-Domain Autonomous Activity Recognition](https://drive.google.com/file/d/1IfKsf5c_xvIWR-0ICwXeJhowdrUxuRz4/view?usp=sharing) got accepted at the Sensors Journal.
