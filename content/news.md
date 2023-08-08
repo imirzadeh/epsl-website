@@ -17,6 +17,7 @@ design:
 ## <center>**2023**</center>
 
 - - -
+* \[2023-7] Abdullah's paper titled "Neonatal Risk Modeling and Prediction" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: Sensor and Systems for Digital Health (BSN'23).
 
 * \[2023-7] Asif's paper titled "GlySim: Modeling and Simulating Glycemic Response for Behavioral Lifestyle Interventions" got accepted at the IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23).
 
