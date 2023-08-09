@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Multimodal Time-Series Activity Forecasting for Adaptive Lifestyle Intervention Design"
+title: "Neonatal Risk Modeling and Prediction"
 authors: [Abdullah Mamun, Chia-Cheng Kuo, David W. Britt, Lawrence D. Devoe, Mark I. Evans, Hassan Ghasemzadeh, Judith Klein-Seetharaman]
 date: 2023-07-31T08:01:35-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-07-31T08:01:35-07:00
+publishDate: 2023-07-31T08:01:35-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
