@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Grad Research Associate
+role: Graduate Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -56,8 +56,10 @@ user_groups:
 - PhD Students
 ---
 ## About Me
-I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh.
+I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh. Visit my website <a href="https://abdullah-mamun.com">here</a>.
 
-I worked as a Software Developer at HLC Technologies Ltd and as a Lecturer at United International University in Dhaka, Bangladesh. Originally, I started my Ph.D. at Washington State University and later decided to transfer to Arizona State University after one year. Currently my work includes building and optimizing deep learning models for time-series data.
+Currently, my work includes building and optimizing deep learning models for time-series data. My works have been published in EMBC'22, BSN'22, and BSN'23 conferences and I have multiple journal and confernce submissions under review. I also actively peer-review conference and journal submissions.
 
-Visit my website <a href="https://abdullah-mamun.com">here</a>.
+I am conducting a user study at ASU where we collect activity and stress data for machine learning algorithm design. If you are willing to participate, visit: <a href="https://ghasemzadeh.com/cps">https://ghasemzadeh.com/cps</a>.
+
+
