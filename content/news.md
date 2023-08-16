@@ -21,7 +21,7 @@ design:
 
 * \[2023-8] Shovito Barua Soumma has joined EMIL as a PhD student. Welcome aboard, Shovito.
 
-* \[2023-8] Nooshin Taheri Chaturdi has joined EMIL as a PhD student. Welcome aboard, Nooshin.
+* \[2023-8] Nooshin Taheri Chatrudi has joined EMIL as a PhD student. Welcome aboard, Nooshin.
 
 * \[2023-7] Abdullah's paper titled "Neonatal Risk Modeling and Prediction" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: Sensor and Systems for Digital Health (BSN'23).
 
