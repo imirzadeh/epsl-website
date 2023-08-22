@@ -19,6 +19,8 @@ design:
 - - -
 * \[2023-8] Nooshin Taheri Chatrudi, Shovito Barua Soumma, and Pegah Khorasani joined EMIL as new PhD students.
 
+* \[2023-7] Prisha's paper titled "GlucoseAssist: Personalized Blood Glucose Level Predictions and Early Dysglycemia Detection" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: Sensor and Systems for Digital Health (BSN'23). Congratulations to her on this remarkable achievement at such a young age!
+
 * \[2023-7] Abdullah's paper titled "Neonatal Risk Modeling and Prediction" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: Sensor and Systems for Digital Health (BSN'23).
 
 * \[2023-7] Asif's paper titled "GlySim: Modeling and Simulating Glycemic Response for Behavioral Lifestyle Interventions" got accepted at the IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23).
