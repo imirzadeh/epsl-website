@@ -18,6 +18,28 @@ date_format = "January 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  title = "Forewarning Postprandial Hyperglycemia with Interpretations using Machine Learning"
+  code_url = "https://github.com/Arefeen06088/DietNudge"
+  dataset_url = "https://data.mendeley.com/datasets/c7vx2576y2/1"
+  paper_url = "https://ieeexplore.ieee.org/document/9928449"
+  description = "The code and data information for DietNudge (BSN'22)"
+  date_start = "2022-02-01"
+
+[[item]]
+  title = "GlySim: Modeling and Simulating Glycemic Response for Behavioral Lifestyle Interventions"
+  code_url = "https://github.com/Arefeen06088/GlySim"
+  dataset_url = "http://smarthealth.cs.ohio.edu/OhioT1DM-dataset.html"
+  description = "Resources (code and dataset information) for GlySim paper (BHI'23)"
+  date_start = "2023-05-01"
+
+[[item]]
+  title = "Inter-Beat Interval Estimation with Tiramisu Model: A Novel Approach with Reduced Error"
+  code_url = "https://github.com/Arefeen06088/IBI_Tiramisu"
+  dataset_url = "https://www.physionet.org/content/mitdb/1.0.0/"
+  paper_url = "https://arxiv.org/pdf/2107.00693.pdf"
+  description = "The code for Tiramisu IBI (ACM Health)"
+  date_start = "2020-08-20"
 
 [[item]]
   title = "ADARP: A Multi Modal Dataset for Stress and Alcohol Relapse Quantification in Real Life Setting"
