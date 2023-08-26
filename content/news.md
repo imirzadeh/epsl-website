@@ -17,6 +17,8 @@ design:
 ## <center>**2023**</center>
 
 - - -
+* \[2023-8] Asif received NSF Student Travel Award to attend IEEE BHI'23.
+
 * \[2023-8] Nooshin Taheri Chatrudi, Shovito Barua Soumma, and Pegah Khorasani joined EMIL as new PhD students.
 
 * \[2023-7] Prisha's paper titled "GlucoseAssist: Personalized Blood Glucose Level Predictions and Early Dysglycemia Detection" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: Sensor and Systems for Digital Health (BSN'23). Congratulations to her on this remarkable achievement at such a young age!
