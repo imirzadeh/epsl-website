@@ -17,6 +17,8 @@ design:
 ## <center>**2023**</center>
 
 - - -
+* \[2023-8] EMIL alumnus Dr. Mahdi Pedram joins the School of Computing at DePaul University as an Assistant Professor. Congratulations to Mahdi!
+
 * \[2023-8] Asif received NSF Student Travel Award to attend IEEE BHI'23.
 
 * \[2023-8] Nooshin Taheri Chatrudi, Shovito Barua Soumma, and Pegah Khorasani joined EMIL as new PhD students.
