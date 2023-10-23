@@ -17,6 +17,12 @@ design:
 ## <center>**2023**</center>
 
 - - -
+* \[2023-10] Abdullah and Reza received the IEEE Student Travel Award to attend IEEE BSN'23.
+
+* \[2023-9] Prisha received the IEEE Student Travel Award to attend IEEE BSN'23.
+
+* \[2023-9] Ramesh's paper titled "Stress Monitoring in Free-Living Environments" got accepted at the IEEE Journal of Biomedical Health Informatics (JBHI).
+
 * \[2023-8] EMIL alumnus Dr. Mahdi Pedram joins the School of Computing at DePaul University as an Assistant Professor. Congratulations to Mahdi!
 
 * \[2023-8] Asif received NSF Student Travel Award to attend IEEE BHI'23.
