@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Open-World Semi-Supervised Learning"
+title: "SimCLR: A Simple Framework for Contrastive Learning of Visual Representations"
 event: EMIL Fall'23 Seminars
 event_url:
 location: Health Futures Center, ASU
