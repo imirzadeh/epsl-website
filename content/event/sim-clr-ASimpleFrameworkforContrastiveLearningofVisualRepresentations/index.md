@@ -17,7 +17,7 @@ abstract: This paper presents SimCLR, a simple framework for contrastive learnin
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-11-1T13:30:00-07:00
-date_end: 2023-1-1T14:00:00-07:00
+date_end: 2023-11-1T14:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
