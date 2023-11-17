@@ -17,6 +17,8 @@ design:
 ## <center>**2023**</center>
 
 - - -
+* \[2023-11] Prisha received the Future Innovator of the Year (honorable mention) award at the Governor's Celebration of Innovation for her project, GlucoseAssist. Congratulations, Prisha!
+
 * \[2023-10] Abdullah and Reza received the IEEE Student Travel Award to attend IEEE BSN'23.
 
 * \[2023-9] Prisha received the IEEE Student Travel Award to attend IEEE BSN'23.
