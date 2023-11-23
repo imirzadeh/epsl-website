@@ -48,7 +48,7 @@ image:
 url_slides: pres.pptx
 
 url_code:
-url_pdf: counterfactualdiagnosis.pdf
+url_pdf: "https://arxiv.org/pdf/1910.06772.pdf"
 url_video:
 
 # Markdown Slides (optional).
