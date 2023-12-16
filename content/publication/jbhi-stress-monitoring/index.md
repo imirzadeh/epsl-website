@@ -10,18 +10,17 @@ authors:
   - Hassan Ghasemzadeh
   - Michael J. Cleveland
 doi: 
-publication: IEEE Journal of Biomedical and Health Informatics (J-BHI).
-featured: true
-tags:
-  - featured
-categories: []
+publication: "IEEE Journal of Biomedical and Health Informatics (J-BHI)."
+featured: false
+tags: ["featured"]
+categories: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 summary: ""
-url_dataset: https://zenodo.org/record/6640290
-url_project: null
+url_dataset: "https://zenodo.org/record/6640290"
+url_project: null"
 publication_short: ""
 url_source: null
 url_video: null
@@ -30,5 +29,5 @@ date: 2023-09-1T01:22:35-07:00
 url_slides: null
 publishDate: 2023-09-1T01:22:35-07:00
 url_poster: null
-url_code: https://github.com/rameshKrSah/ADARP Dataset
+url_code: "https://github.com/rameshKrSah/ADARP_Dataset"
 ---

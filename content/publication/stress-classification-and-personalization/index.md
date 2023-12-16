@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["featured"]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2107.05666
+url_pdf: "https://arxiv.org/abs/2107.05666"
 url_code: 
 url_dataset:
 url_poster:
