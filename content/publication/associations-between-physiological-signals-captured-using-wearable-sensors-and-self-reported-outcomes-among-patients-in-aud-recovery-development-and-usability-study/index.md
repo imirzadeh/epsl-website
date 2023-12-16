@@ -4,7 +4,7 @@ title: "Associations between Physiological Signals Captured using Wearable
   and Usability Study"
 abstract: ""
 slides: ""
-url_pdf: https://pubmed.ncbi.nlm.nih.gov/34287205/
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/34287205/"
 publication_types:
   - "2"
 authors:
@@ -16,17 +16,16 @@ authors:
   - Hassan Ghasemzadeh
   - Michael J. Cleveland
 doi: 10.2196/27891
-publication: Journal of Medical Internet Research (JMIR), 2021.
-featured: true
-tags:
-  - featured
-categories: []
+publication: "Journal of Medical Internet Research (JMIR)"
+featured: false
+tags: ["featured"]
+categories: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 summary: ""
-url_dataset: https://zenodo.org/record/6640290
+url_dataset: "https://zenodo.org/record/6640290"
 url_project: null
 publication_short: ""
 url_source: null
