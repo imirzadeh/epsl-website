@@ -49,7 +49,7 @@ image:
 url_slides: slides.pdf
 
 url_code:
-url_pdf: "https://arxiv.org/abs/2002.05709"
+url_pdf: "https://arxiv.org/abs/1706.00527"
 url_video:
 
 # Markdown Slides (optional).
