@@ -30,7 +30,7 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: ""
+projects: ["Cardiovascular-Health"]
 date: 2022-09-25T01:22:35-07:00
 url_slides: null
 publishDate: 2022-09-25T01:22:35-07:00

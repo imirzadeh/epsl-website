@@ -16,4 +16,5 @@ authors:
 publication: ACM Conference on Wireless Health (WH), October 23-25, 2012, San Diego, CA, USA
 abstract: ""
 featured: false
+projects: ["Cardiovascular-Health"]
 ---

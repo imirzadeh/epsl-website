@@ -20,4 +20,5 @@ publication: The 2nd IEEE Conference on Healthcare Informatics, Imaging, and
   Systems Biology (HISB), September 27-28, 2012, La Jolla, CA
 abstract: ""
 featured: false
+projects: ["Metabolic-Health"]
 ---

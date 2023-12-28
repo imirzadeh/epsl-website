@@ -31,9 +31,9 @@ publication_short: ""
 url_source: null
 url_video: null
 projects: ["mental-health"]
-date: 2021-06-1T01:22:35-07:00
+date: 2021-06-01T01:22:35-07:00
 url_slides: null
-publishDate: 2021-06-1T01:22:35-07:00
+publishDate: 2021-06-01T01:22:35-07:00
 url_poster: null
 url_code: null
 ---

@@ -25,9 +25,9 @@ publication_short: ""
 url_source: null
 url_video: null
 projects: ["mental-health"]
-date: 2023-09-1T01:22:35-07:00
+date: 2023-09-01T01:22:35-07:00
 url_slides: null
-publishDate: 2023-09-1T01:22:35-07:00
+publishDate: 2023-09-01T01:22:35-07:00
 url_poster: null
 url_code: "https://github.com/rameshKrSah/ADARP_Dataset"
 ---

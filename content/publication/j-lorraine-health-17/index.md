@@ -15,4 +15,5 @@ authors:
 publication: Technology and Health Care, vol. 25, no. 3, pp. 425–433, June 2017
 abstract: ""
 featured: false
+projects: ["Cardiovascular-Health"]
 ---

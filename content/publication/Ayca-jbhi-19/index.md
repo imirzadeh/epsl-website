@@ -13,4 +13,5 @@ publication: IEEE Journal of Biomedical and Health Informatics (JBHI), vol. 24,
   no. 8, pp. 2238-2250, August 2020
 abstract: ""
 featured: false
+projects: ["Cardiovascular-Health"]
 ---

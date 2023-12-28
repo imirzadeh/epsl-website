@@ -16,6 +16,6 @@ publication: The 7th International Workshop on Information Quality and Quality
   of Service for Pervasive Computing (IQ2S) in Conjunction with   IEEE PerCom
   2015,  March 23-27, 2015, St. Louis, Missouri, USA
 abstract: ""
-projects: ["Edema-Monitoring"]
+projects: ["Cardiovascular-Health"]
 featured: false
 ---

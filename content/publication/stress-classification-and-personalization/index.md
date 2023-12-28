@@ -3,11 +3,11 @@
 
 title: "Stress Classification and Personalization: Getting the most out of the least"
 authors: [Ramesh Kumar Sah, Hassan Ghasemzadeh]
-date: 2021-07-1T01:22:35-07:00
+date: 2021-07-01T01:22:35-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-07-1T01:22:35-07:00
+publishDate: 2021-07-01T01:22:35-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

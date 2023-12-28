@@ -12,7 +12,7 @@ authors: [EPSL]
 url_video: ""
 external_link: ""
 url_slides: ""
-title: Edema Monitoring
+title: Cardiovascular Health
 tags: []
 image:
   caption: ""
