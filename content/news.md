@@ -14,6 +14,13 @@ design:
 ---
 - - -
 
+## <center>**2024**</center>
+
+- - -
+* \[2024-1] Saman Khamesian joined EMIL as a PhD student.
+
+- - -
+
 ## <center>**2023**</center>
 
 - - -
