@@ -19,10 +19,10 @@ publication_types: ["1"]
 publication: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021"
 publication_short: "CVPR2021W"
 
-abstract: ""
+abstract: "Continual learning (CL) has become one of the most active research venues within the artificial intelligence community in recent years. Given the significant amount of attention paid to continual learning, the need for a library that facilitates both research and development in this field is more visible than ever. However, CL algorithms' codes are currently scattered over isolated repositories written with different frameworks, making it difficult for researchers and practitioners to work with various CL algorithms and benchmarks using the same interface. In this paper, we introduce CL-Gym, a full-featured continual learning library that overcomes this challenge and accelerates the research and development. In addition to the necessary infrastructure for running end-to-end continual learning experiments, CL-Gym includes benchmarks for various CL scenarios and several state-of-the-art CL algorithms. In this paper, we present the architecture, design philosophies, and technical details behind CL-Gym."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In this paper, we introduce CL-Gym, a full-featured continual learning library that overcomes this challenge and accelerates the research and development. Please find the project documentation here: https://cl-gym.readthedocs.io/en/latest/"
 
 tags: ["featured"]
 categories: []
@@ -40,7 +40,7 @@ url_pdf: https://openaccess.thecvf.com/content/CVPR2021W/CLVision/papers/Mirzade
 url_code: https://github.com/imirzadeh/CL-Gym
 url_dataset:
 url_poster:
-url_project: https://cl-gym.readthedocs.io/en/latest/
+url_project:
 url_slides:
 url_source:
 url_video: https://youtu.be/PQ8cIVL6naI
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: #["Computational-Autonomy"]
+projects: ["Computational-Autonomy"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
