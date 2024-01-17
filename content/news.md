@@ -21,6 +21,8 @@ design:
 
 * \[2024-1] Book chapter by Mahdi Pedram, Ramesh Sah, and Hassan Ghasemzadeh titled Efficient Sensing and Classification for Extended Battery Life was published in the Proceedings of Activity Recognition and Prediction for Smart IoT Environments. Edited by Raffaele Gravina and Antonella Guzzo for Springer 2024.
 
+* \[2024-1] Adversarial Transferability in Embedded Sensor Systems: An Activity Recognition Perspective by Ramesh Sah and Hassan Ghasemzadeh accepted in ACM Transactions on Embedded Computing Systems (TECS).
+
 - - -
 
 ## <center>**2023**</center>
