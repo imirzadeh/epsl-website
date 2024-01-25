@@ -17,6 +17,8 @@ design:
 ## <center>**2024**</center>
 
 - - -
+* \[2024-1] Dr. Mostafa Mostafavi joined EMIL as a Postdoctoral Researcher. Dr. Mostafavi obtained his PhD from Queen's University in Canada and was a faculty member in Iran before joining EMIL.
+
 * \[2024-1] Saman Khamesian joined EMIL as a PhD student.
 
 * \[2024-1] Book chapter by Mahdi Pedram, Ramesh Sah, and Hassan Ghasemzadeh titled Efficient Sensing and Classification for Extended Battery Life was published in the Proceedings of Activity Recognition and Prediction for Smart IoT Environments. Edited by Raffaele Gravina and Antonella Guzzo for Springer 2024.
