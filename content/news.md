@@ -17,6 +17,8 @@ design:
 ## <center>**2024**</center>
 
 - - -
+* \[2024-1] Shovito received Graduate Research Support Program (GRSP)  grant from ASU GPSA for Spring 2024 session.
+
 * \[2024-1] Asif's poster GlyCoach has won the best poster award on ASU College of Health Solutions Faculty Research Day. Congratulations!
 
 * \[2024-1] Dr. Mostafa Mostafavi joined EMIL as a Postdoctoral Researcher. Dr. Mostafavi obtained his PhD from Queen's University in Canada and was a faculty member in Iran before joining EMIL.
@@ -32,6 +34,8 @@ design:
 ## <center>**2023**</center>
 
 - - -
+* \[2023-11] Asif received the NIH T32 Institutional Training Grant for AI in Precision Nutrition (AIPrN) Research.
+
 * \[2023-11] Prisha received the Future Innovator of the Year (honorable mention) award at the Governor's Celebration of Innovation for her project, GlucoseAssist. Congratulations, Prisha!
 
 * \[2023-10] Abdullah and Reza received the IEEE Student Travel Award to attend IEEE BSN'23.
