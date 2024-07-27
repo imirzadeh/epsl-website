@@ -17,6 +17,10 @@ design:
 ## <center>**2024**</center>
 
 - - -
+* \[2024-7] EMIL alum [Dr. Mahdi Pedram](https://mahdipedro.github.io/) joins the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the University of North Texas as a tenure-track assistant professor
+
+* \[2024-6] NSF-funded [ExpandAI project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2402650&HistoricalAwards=false) aims to establish partnership between ASU and [Institute for Foundations of Machine Learning](https://www.ifml.institute/) on projects that address fundamental challenges of robust/interactive/embedded machine learning in pervasive systems. Read more here [ASU News](https://news.asu.edu/20240708-health-and-medicine-asu-researchers-receive-28m-grant-harness-power-ai-health)
+
 * \[2024-1] Shovito received Graduate Research Support Program (GRSP)  grant from ASU GPSA for Spring 2024 session.
 
 * \[2024-1] Asif's poster GlyCoach has won the best poster award on ASU College of Health Solutions Faculty Research Day. Congratulations!
